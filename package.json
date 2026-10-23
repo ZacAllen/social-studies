@@ -1,0 +1,28 @@
+{
+	"name": "social-studies",
+	"private": true,
+	"version": "0.1.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "npm run validate && vite build",
+		"preview": "vite preview",
+		"validate": "node scripts/validate-content.js",
+		"prepare": "svelte-kit sync || echo ''",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"check-quotes": "node scripts/check-quotes.js"
+	},
+	"devDependencies": {
+		"@fontsource/oswald": "^5.3.0",
+		"@fontsource/source-serif-4": "^5.3.1",
+		"@sveltejs/adapter-static": "^3.0.10",
+		"@sveltejs/kit": "^2.70.3",
+		"@sveltejs/vite-plugin-svelte": "^7.3.1",
+		"marked": "^16.0.0",
+		"svelte": "^5.57.1",
+		"svelte-check": "^4.6.0",
+		"typescript": "^6.0.3",
+		"vite": "^8.3.0",
+		"yaml": "^2.8.0"
+	}
+}

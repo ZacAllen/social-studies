@@ -1,0 +1,11 @@
+{
+	"name": "Social Studies",
+	"short_name": "Social Studies",
+	"description": "Short lessons and quizzes on socialist, Marxist, Maoist and Black revolutionary theory and history.",
+	"start_url": "./",
+	"scope": "./",
+	"display": "standalone",
+	"background_color": "#f4ecdc",
+	"theme_color": "#b3121f",
+	"icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
