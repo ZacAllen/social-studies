@@ -165,6 +165,12 @@ describe('buildCurriculum', () => {
 			expectError(errors, PATH, /./);
 		});
 
+		it('reports frontmatter that is not a mapping as one error for that file', () => {
+			const errors = errorsFor({ path: PATH, raw: '---\njust a string\n---\nA card.\n' });
+			expect(errors).toHaveLength(1);
+			expectError(errors, PATH, /frontmatter/);
+		});
+
 		it('requires a kind', () => {
 			expectError(errorsFor(lessonFile('01-foundations/01-alpha.md', { kind: undefined })), PATH, /kind/);
 		});
@@ -219,5 +225,134 @@ describe('buildCurriculum', () => {
 		it('rejects the retired "order" field', () => {
 			expectError(errorsFor(lessonFile('01-foundations/01-alpha.md', { order: 1 })), PATH, /order/);
 		});
+
+		it('requires a title', () => {
+			expectError(errorsFor(lessonFile('01-foundations/01-alpha.md', { title: undefined })), PATH, /title/);
+		});
+
+		it('rejects a duplicate slug across subjects, naming both files', () => {
+			const { errors } = buildCurriculum([
+				subjectFile('01-foundations'),
+				lessonFile('01-foundations/01-alpha.md'),
+				subjectFile('02-lenin'),
+				lessonFile('02-lenin/04-alpha.md')
+			]);
+			expectError(errors, `${ROOT}/02-lenin/04-alpha.md`, /duplicate.*01-foundations\/01-alpha\.md/);
+		});
+
+		describe('sources and citations', () => {
+			const withSources = (/** @type {unknown[]} */ sources, cards = ['A claim.[^src]']) =>
+				errorsFor(lessonFile('01-foundations/01-alpha.md', { sources }, cards));
+
+			it('rejects a source without an id', () => {
+				expectError(withSources([{ label: 'L', url: 'https://x.org' }]), PATH, /id and label/);
+			});
+
+			it('rejects a source without a label', () => {
+				expectError(withSources([{ id: 'src', url: 'https://x.org' }]), PATH, /id and label/);
+			});
+
+			it('rejects a source without an http(s) URL', () => {
+				expectError(withSources([{ id: 'src', label: 'L', url: 'ftp://x.org' }]), PATH, /"src".*URL/);
+			});
+
+			it('rejects a card citing an unknown source', () => {
+				const cards = ['A claim.[^src] Another.[^ghost]'];
+				expectError(withSources(VALID_META.sources, cards), PATH, /card 1.*unknown source "ghost"/);
+			});
+
+			it('rejects a source that is never cited', () => {
+				const sources = [...VALID_META.sources, { id: 'spare', label: 'L', url: 'https://x.org' }];
+				expectError(withSources(sources), PATH, /"spare".*never cited/);
+			});
+		});
+
+		describe('cards', () => {
+			it('rejects a lesson with no cards', () => {
+				expectError(errorsFor(lessonFile('01-foundations/01-alpha.md', { sources: [] }, [])), PATH, /no cards/);
+			});
+
+			it('accepts a card of 120 words', () => {
+				const card = `${Array(119).fill('word').join(' ')} end.[^src]`;
+				expect(errorsFor(lessonFile('01-foundations/01-alpha.md', {}, [card]))).toEqual([]);
+			});
+
+			it('rejects a card over 120 words', () => {
+				const card = `${Array(120).fill('word').join(' ')} end.[^src]`;
+				expectError(errorsFor(lessonFile('01-foundations/01-alpha.md', {}, [card])), PATH, /card 1 has 121 words/);
+			});
+
+			it("doesn't count citation markers or Markdown syntax as words", () => {
+				const card = `> **${Array(119).fill('word').join(' ')}** _end_.[^src]`;
+				expect(errorsFor(lessonFile('01-foundations/01-alpha.md', {}, [card]))).toEqual([]);
+			});
+		});
+
+		describe('quiz', () => {
+			const withQuiz = (/** @type {unknown[]} */ q) => errorsFor(lessonFile('01-foundations/01-alpha.md', { quiz: q }));
+			const edit = (/** @type {Record<string, unknown>} */ change) => {
+				const q = quiz();
+				q[1] = { ...q[1], ...change };
+				return withQuiz(q);
+			};
+
+			it('rejects a quiz without exactly five questions', () => {
+				expectError(withQuiz(quiz(4)), PATH, /4 questions/);
+				expectError(withQuiz(quiz(6)), PATH, /6 questions/);
+			});
+
+			it('rejects a question with no text', () => {
+				expectError(edit({ q: '' }), PATH, /question 2 has no text/);
+			});
+
+			it('rejects a question without exactly four options', () => {
+				expectError(edit({ options: ['a', 'b', 'c'] }), PATH, /question 2.*4 options/);
+			});
+
+			it('rejects an answer index out of range', () => {
+				expectError(edit({ answer: 4 }), PATH, /question 2 answer/);
+				expectError(edit({ answer: -1 }), PATH, /question 2 answer/);
+				expectError(edit({ answer: 1.5 }), PATH, /question 2 answer/);
+			});
+
+			it('rejects a question with no explanation', () => {
+				expectError(edit({ explain: undefined }), PATH, /question 2 has no explanation/);
+			});
+
+			it('rejects a question pointing past the last card', () => {
+				expectError(edit({ card: 2 }), PATH, /question 2 points to card 2/);
+				expectError(edit({ card: 0 }), PATH, /question 2 points to card 0/);
+			});
+		});
+	});
+});
+
+describe('subjectProgress', () => {
+	const { subjects } = buildCurriculum([
+		subjectFile('01-foundations'),
+		lessonFile('01-foundations/01-alpha.md'),
+		lessonFile('01-foundations/02-beta.md'),
+		lessonFile('01-foundations/03-gamma.md')
+	]);
+	const [subject] = subjects;
+
+	it('counts nothing done with no results', () => {
+		expect(subjectProgress(subject, {})).toEqual({ done: 0, total: 3 });
+	});
+
+	it('counts a lesson with one submitted attempt as done, even with a zero score', () => {
+		expect(subjectProgress(subject, { beta: { best: 0, total: 5, attempts: 1 } })).toEqual({ done: 1, total: 3 });
+	});
+
+	it('counts a lesson with several attempts once', () => {
+		const results = {
+			alpha: { best: 5, total: 5, attempts: 3 },
+			gamma: { best: 2, total: 5, attempts: 1 }
+		};
+		expect(subjectProgress(subject, results)).toEqual({ done: 2, total: 3 });
+	});
+
+	it("ignores results for lessons outside the subject", () => {
+		expect(subjectProgress(subject, { elsewhere: { best: 5, total: 5, attempts: 1 } })).toEqual({ done: 0, total: 3 });
 	});
 });
