@@ -7,6 +7,7 @@
 	const lesson = $derived(data.lesson);
 	const quiz = $derived(lesson.quiz);
 	const lessonHref = $derived(resolve('/lesson/[slug]', { slug: lesson.slug }) + '/');
+	const subjectHref = $derived(resolve('/subject/[slug]', { slug: lesson.subjectSlug }) + '/');
 
 	// orders[q] lists option indices in display order; answers[q] is the chosen original index.
 	let orders = $state<number[][] | null>(null);
@@ -55,7 +56,7 @@
 <header class="band">
 	<div class="inner">
 		<h1>{lesson.subjectName}</h1>
-		<a class="close" href={resolve('/')} aria-label="Back to all lessons">✕</a>
+		<a class="close" href={subjectHref} aria-label="Back to {lesson.subjectName}">✕</a>
 	</div>
 </header>
 
@@ -123,6 +124,13 @@
 		<section class="originals">
 			<h2>Read the originals</h2>
 			<ul>
+				{#if lesson.work}
+					<li class="main-work">
+						<a href={lesson.work.url} target="_blank" rel="noopener"
+							>{lesson.work.author}, {lesson.work.title} ({lesson.work.year}), full text</a
+						>
+					</li>
+				{/if}
 				{#each lesson.sources as source (source.id)}
 					<li><a href={source.url} target="_blank" rel="noopener">{source.label}</a></li>
 				{/each}
@@ -131,7 +139,7 @@
 		<div class="actions end">
 			<button class="btn primary" onclick={retake}>Retake</button>
 			<a class="btn ghost" href={lessonHref}>Review Cards</a>
-			<a class="btn ghost" href={resolve('/')}>Back to Lessons</a>
+			<a class="btn ghost" href={subjectHref}>Back to {lesson.subjectName}</a>
 		</div>
 	{/if}
 </main>
@@ -352,6 +360,10 @@
 		margin: 0 0 20px;
 		padding-left: 1.2em;
 		line-height: 1.45;
+	}
+
+	.originals .main-work {
+		font-weight: 600;
 	}
 
 	.originals li + li {
