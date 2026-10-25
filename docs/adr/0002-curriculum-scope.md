@@ -1,0 +1,3 @@
+# Curriculum scope: Marxism-Leninism and anti-colonial liberation
+
+Subjects cover the foundations laid by Marx and Engels, Marxism-Leninism, and the anti-colonial, Black liberation and socialist movements that put it into practice. The emphasis is on non-Western leaders of notable revolutions. Explicitly anti-colonial thinkers who sit close to that line, such as Fanon and Nkrumah, are in scope as full subjects. Trotskyism, anarchism, Western Marxism and social democracy are not subjects. They appear only as interlocutors, parties to a debate inside another lesson. This keeps the curriculum pointed at a principled commitment to Marxism rather than a tour of the whole left, so a subject on one of those tendencies should not be added "for completeness".
