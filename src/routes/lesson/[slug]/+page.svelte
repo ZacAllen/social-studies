@@ -3,7 +3,8 @@
 	import { fly } from 'svelte/transition';
 	import { goto } from '$app/navigation';
 	import { resolve } from '$app/paths';
-	import { renderCard } from '$lib/content';
+	import { KIND_LABELS } from '$lib/curriculum.js';
+	import { renderCard, subjectHref } from '$lib/content';
 
 	let { data } = $props();
 	const lesson = $derived(data.lesson);
@@ -14,7 +15,7 @@
 	const card = $derived(cards[index]);
 	const isLast = $derived(index === cards.length - 1);
 	const quizHref = $derived(resolve('/lesson/[slug]/quiz', { slug: lesson.slug }) + '/');
-	const subjectHref = $derived(resolve('/subject/[slug]', { slug: lesson.subjectSlug }) + '/');
+	const backHref = $derived(subjectHref(lesson.subjectSlug));
 
 	// Quiz review links open a specific card with ?card=N. Read it after mount
 	// because pages are prerendered without a query string.
@@ -64,11 +65,11 @@
 		<div class="inner">
 			<div>
 				<h1>{lesson.subjectName}</h1>
-				{#if lesson.work}
-					<p class="work">Reading · {lesson.work.author}, {lesson.work.year}</p>
+				{#if lesson.kind === 'reading' && lesson.work}
+					<p class="work">{KIND_LABELS[lesson.kind]} · {lesson.work.author}, {lesson.work.year}</p>
 				{/if}
 			</div>
-			<a class="close" href={subjectHref} aria-label="Back to {lesson.subjectName}">✕</a>
+			<a class="close" href={backHref} aria-label="Back to {lesson.subjectName}">✕</a>
 		</div>
 	</header>
 

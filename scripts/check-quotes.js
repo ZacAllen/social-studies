@@ -40,7 +40,7 @@ async function fetchText(url) {
 }
 
 let missing = 0;
-for (const lesson of loadCurriculum().subjects.flatMap((s) => s.lessons)) {
+for (const lesson of loadCurriculum().lessons) {
 	for (const [i, card] of lesson.cards.entries()) {
 		const sources = lesson.sources.filter((s) => card.sourceIds.includes(s.id));
 		const texts = (await Promise.all(sources.filter((s) => !s.manual).map((s) => fetchText(s.url)))).filter(Boolean);

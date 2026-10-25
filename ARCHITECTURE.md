@@ -32,14 +32,14 @@ src/
     subject.yml        Subject name and description
     <nn>-<lesson>.md   Lesson content (the only place content lives)
   lib/
-    curriculum.js      The curriculum module: content files → subjects, lessons and rule errors, plus helpers (plain JS, no Vite/Svelte)
+    curriculum.js      The curriculum module: content files → subjects, lessons and rule errors, plus the kinds and their labels and helpers (plain JS, no Vite/Svelte)
     curriculum.test.js Unit tests for the curriculum module (Vitest)
-    content.ts         App-side adapter: globs the content, builds the curriculum, smart-quotes quizzes, renders cards
+    content.ts         App-side adapter: globs the content, builds the curriculum, smart-quotes quizzes, renders cards, builds subject-page links
     progress.svelte.ts Quiz results store backed by localStorage
   routes/
     +layout.svelte     Imports global CSS, renders children
     +layout.ts         prerender = true, trailingSlash = 'always'
-    +page.svelte       Home: the subject index, with lessons-done counts
+    +page.svelte       Home: the subject index, with "done of total" progress
     subject/[slug]/
       +page.ts         Looks up the subject; declares which slugs to prerender
       +page.svelte     Subject page: its lessons, with kind labels and best-score badges
@@ -52,7 +52,7 @@ src/
   service-worker.ts    Offline cache
   app.html / app.css   HTML shell; design tokens, fonts, light/dark theme
 scripts/
-  curriculum.js        Reads src/content from disk and calls buildCurriculum, for the scripts
+  curriculum.js        Reads src/content from disk and calls buildCurriculum with every subject directory (so an empty one is reported), for the scripts
   validate-content.js  Build-time content rules (runs in `npm run build`)
   check-quotes.js      Network-based quote verification (manual, not in the build)
 static/                Icon and web app manifest
@@ -66,33 +66,33 @@ src/content/*/*.md + src/content/*/subject.yml
    │  import.meta.glob('?raw', eager)          (content.ts, at build time)
    │  or readdirSync                           (scripts/curriculum.js)
    ▼
-buildCurriculum([{ path, raw }])               (curriculum.js)
+buildCurriculum([{ path, raw }], subjectDirs?)  (curriculum.js)
    │  subject.yml → name, description; folder prefix → order, rest → slug
    │  frontmatter → title, kind, work, sources, quiz; filename prefix → order, rest → slug
    │  body split on `---` lines → cards, each with the source ids it cites
    │  every content rule checked → errors[]
    ▼
-{ subjects[], errors[] }
-   ├─ content.ts: throws if errors[]; exports subjects, lessons (flattened), getSubject, getLesson
+{ subjects[], lessons[] (flat, in order), errors[] }
+   ├─ content.ts: throws if errors[]; exports subjects, lessons, getSubject, getLesson, subjectHref
    ├─ renderCard(lesson, card)   [^id] → <sup> numbers, marked → HTML, plus the card's citation list
-   └─ subjectProgress(subject, results) → { done, total }   (home page badges)
+   └─ subjectProgress(subject, results) → { done, total }   (home page "3 of 8 done")
 ```
 
 Key points:
 
-- **The curriculum module is the content seam.** `buildCurriculum` is a pure function from `{ path, raw }` files to `{ subjects, errors }`. The app, the validator and the quote checker all call it, so they can never disagree about what a lesson is or which rules it breaks. That is why it is plain JS with no `$lib`, Svelte or Vite imports, and why the unit tests go through it (and `subjectProgress`) alone.
+- **The curriculum module is the content seam.** `buildCurriculum` is a pure function from `{ path, raw }` files (plus, optionally, the subject directory paths, so a folder with no files is still reported) to `{ subjects, lessons, errors }`, where `lessons` is every lesson in subject-then-lesson order. The app, the validator and the quote checker all call it, so they can never disagree about what a lesson is or which rules it breaks. That is why it is plain JS with no `$lib`, Svelte or Vite imports, and why the unit tests go through it (and `subjectProgress`) alone.
 - **Identity and order come from file paths.** A subject's slug and sort position come from its folder name (`02-lenin` → slug `lenin`, order `2`); a lesson's come from its filename the same way. Prefixes are compared numerically and needn't be contiguous, so renumbering never changes a slug. The subject's display name and description come from its `subject.yml`. The retired frontmatter fields `subject` and `order` are rejected.
 - **Slugs are global and permanent.** Lesson URLs are `/lesson/<slug>/` with no subject segment, so slugs must be unique across all subjects; the validator enforces this. Progress is keyed by slug, so a published slug must never change.
-- **Smart quotes are applied in the app only.** Content is authored with straight quotes so the quote checker and the `"..."` extraction stay simple. `content.ts` converts quiz text when it builds `subjects`, and `renderCard` converts card text just before display.
+- **Smart quotes are applied in the app only.** Content is authored with straight quotes so the quote checker and the `"..."` extraction stay simple. `content.ts` converts quiz text when it builds `lessons`, and `renderCard` converts card text just before display.
 - **Cards are rendered to HTML with `{@html}`.** This is safe only because all Markdown is authored in this repo at build time. If content ever comes from users or a remote source, this needs sanitising.
 
 ## Routes and screens
 
 All routes are prerendered. `trailingSlash = 'always'` because GitHub Pages serves `/lesson/foo/index.html` for `/lesson/foo/`; internal links append `/` explicitly.
 
-- **Home (`/`)**: the subject index. Lists each subject with its description, lesson count, a "Start here" tag on the first, and a `done/total ✓` badge (from `subjectProgress`) once any of its lessons has been attempted.
-- **Subject (`/subject/[slug]/`)**: the subject's description and numbered lessons, each with its kind label, card count, quiz length and a `✓ best/total` badge once attempted.
-- **Lesson (`/lesson/[slug]/`)**: one card at a time. The header shows the subject name and, for a Reading, "Reading · author, year"; the close button goes back to the subject page. Navigation is by Back/Next buttons, left/right arrow keys, or a horizontal swipe (≥50px and mostly horizontal). Going past the last card navigates to the quiz. Reads `?card=N` after mount to jump to a card; this has to happen client-side because prerendered pages have no query string. The quiz review links use it.
+- **Home (`/`)**: the subject index. Lists each subject with its description, lesson count, a "Start here" tag on the first, and its progress as "{done} of {total} done" (from `subjectProgress`).
+- **Subject (`/subject/[slug]/`)**: the subject's description and numbered lessons, each with its kind label (from `KIND_LABELS` in `curriculum.js`), card count, quiz length and a `✓ best/total` badge once attempted.
+- **Lesson (`/lesson/[slug]/`)**: one card at a time. The header shows the subject name and, for a Reading, its kind label and the main work's author and year ("Reading · Lenin, 1902"); the close button goes back to the subject page. Navigation is by Back/Next buttons, left/right arrow keys, or a horizontal swipe (≥50px and mostly horizontal). Going past the last card navigates to the quiz. Reads `?card=N` after mount to jump to a card; this has to happen client-side because prerendered pages have no query string. The quiz review links use it.
 - **Quiz (`/lesson/[slug]/quiz/`)**: options are shuffled in the browser on mount (and on retake) so each attempt differs; the shuffle is client-only to keep prerendered HTML deterministic. Submitting is disabled until every question is answered. On submit it records the score, shows per-question feedback with a link back to the relevant card, and lists the lesson's sources as "Read the originals", headed by a full-text link to the main work for a Reading. Its close button also goes back to the subject page.
 
 The lesson and quiz `+page.ts` loaders are identical (look up by slug, 404 otherwise, and `entries` enumerates every lesson for prerendering). The subject loader does the same for subjects.
