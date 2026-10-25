@@ -1,7 +1,6 @@
 ---
 title: The Black Panther Party
-subject: Black Revolutionary Thought
-order: 2
+kind: study
 sources:
   - id: tpp
     label: Black Panther Party, The Ten-Point Program (October 15, 1966)

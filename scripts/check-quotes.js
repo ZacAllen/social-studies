@@ -3,11 +3,8 @@
 //
 // Only HTML sources can be checked automatically. Quotes from sources marked `manual: true`
 // (scans, borrow-only books) or that aren't HTML are listed as "manual" for a reviewer.
-import { readdirSync, readFileSync } from 'node:fs';
-import { join } from 'node:path';
-import { parseLesson, extractQuotes } from '../src/lib/lesson.js';
-
-const CONTENT_DIR = 'src/content';
+import { extractQuotes } from '../src/lib/curriculum.js';
+import { loadCurriculum } from './curriculum.js';
 
 /** Lowercase letters and digits only, so punctuation, curly quotes and line breaks don't matter. */
 const normalize = (text) =>
@@ -43,23 +40,20 @@ async function fetchText(url) {
 }
 
 let missing = 0;
-for (const subjectDir of readdirSync(CONTENT_DIR).sort()) {
-	for (const file of readdirSync(join(CONTENT_DIR, subjectDir)).filter((f) => f.endsWith('.md'))) {
-		const lesson = parseLesson(`/${CONTENT_DIR}/${subjectDir}/${file}`, readFileSync(join(CONTENT_DIR, subjectDir, file), 'utf8'));
-		for (const [i, card] of lesson.cards.entries()) {
-			const sources = lesson.sources.filter((s) => card.sourceIds.includes(s.id));
-			const texts = (await Promise.all(sources.filter((s) => !s.manual).map((s) => fetchText(s.url)))).filter(Boolean);
-			for (const quote of extractQuotes(card.markdown)) {
-				const where = `${lesson.slug} card ${i + 1}`;
-				const pieces = quote.split(/…|\.\.\./).map(normalize).filter(Boolean);
-				if (pieces.every((p) => texts.some((t) => t.includes(p)))) {
-					console.log(`ok       ${where}: "${quote.slice(0, 60)}${quote.length > 60 ? '…' : ''}"`);
-				} else if (texts.length < sources.length) {
-					console.log(`manual   ${where}: "${quote}"`);
-				} else {
-					missing++;
-					console.log(`MISSING  ${where}: "${quote}"`);
-				}
+for (const lesson of loadCurriculum().subjects.flatMap((s) => s.lessons)) {
+	for (const [i, card] of lesson.cards.entries()) {
+		const sources = lesson.sources.filter((s) => card.sourceIds.includes(s.id));
+		const texts = (await Promise.all(sources.filter((s) => !s.manual).map((s) => fetchText(s.url)))).filter(Boolean);
+		for (const quote of extractQuotes(card.markdown)) {
+			const where = `${lesson.slug} card ${i + 1}`;
+			const pieces = quote.split(/…|\.\.\./).map(normalize).filter(Boolean);
+			if (pieces.every((p) => texts.some((t) => t.includes(p)))) {
+				console.log(`ok       ${where}: "${quote.slice(0, 60)}${quote.length > 60 ? '…' : ''}"`);
+			} else if (texts.length < sources.length) {
+				console.log(`manual   ${where}: "${quote}"`);
+			} else {
+				missing++;
+				console.log(`MISSING  ${where}: "${quote}"`);
 			}
 		}
 	}

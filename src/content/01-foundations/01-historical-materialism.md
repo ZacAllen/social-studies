@@ -1,7 +1,6 @@
 ---
 title: Historical Materialism
-subject: General Socialist Theory
-order: 1
+kind: study
 sources:
   - id: preface
     label: Marx, Preface to A Contribution to the Critique of Political Economy (1859)

@@ -61,7 +61,7 @@
 <div class="screen">
 	<header class="band">
 		<div class="inner">
-			<h1>{lesson.subject}</h1>
+			<h1>{lesson.subjectName}</h1>
 			<a class="close" href={resolve('/')} aria-label="Back to all lessons">✕</a>
 		</div>
 	</header>
