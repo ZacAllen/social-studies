@@ -1,11 +1,6 @@
 ---
 title: Du Bois and Black Reconstruction
-kind: reading
-work:
-  author: W.E.B. Du Bois
-  title: Black Reconstruction in America
-  year: 1935
-  url: https://archive.org/details/blackreconstruct00dubo
+kind: study
 sources:
   - id: br1
     label: W.E.B. Du Bois, Black Reconstruction in America (1935), Ch. I, "The Black Worker"

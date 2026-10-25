@@ -2,12 +2,25 @@
 title: The Black Panther Party
 kind: study
 sources:
+  - id: mia
+    label: Brian Basgen, History of the Black Panther Party, Marxists Internet Archive (2002)
+    url: https://www.marxists.org/history/usa/workers/black-panthers/index.htm
   - id: tpp
     label: Black Panther Party, The Ten-Point Program (October 15, 1966)
     url: https://www.marxists.org/history/usa/workers/black-panthers/1966/10/15.htm
+  - id: mandate
+    label: Huey P. Newton, Executive Mandate No. 1 (May 2, 1967)
+    url: https://www.marxists.org/archive/newton/1967/05/02.htm
   - id: newton
     label: Huey P. Newton, speech at Boston College (November 18, 1970)
     url: https://libcom.org/article/huey-newton-introduces-revolutionary-intercommunalism-boston-college-november-18-1970
+  - id: feed
+    label: The Black Panther, "To Feed Our Children" (March 26, 1969)
+    url: https://www.marxists.org/history/usa/workers/black-panthers/1969/03/26.htm
+  - id: church
+    label: U.S. Senate Select Committee on Intelligence Activities (Church Committee), Final Report, Book III, "The FBI's Covert Action Program to Destroy the Black Panther Party" (1976)
+    url: https://www.aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_3_BlackPanthers.pdf
+    manual: true
   - id: crimson
     label: The Harvard Crimson, "Newton-Cleaver Rift Threatens Panthers" (March 23, 1971)
     url: https://www.thecrimson.com/article/1971/3/23/newton-cleaver-rift-threatens-panthers-pspeaking-from/
@@ -21,80 +34,80 @@ quiz:
     answer: 2
     explain: Huey P. Newton and Bobby Seale founded the Black Panther Party for Self-Defense in Oakland, California, in October 1966.
     card: 1
-  - q: What does the first point of the Ten-Point Program demand?
+  - q: Why did armed Panthers go to the California state Capitol in May 1967?
     options:
-      - Freedom, and power to determine the destiny of the Black community
-      - Reparations for slavery
-      - Integration of public schools
-      - Voting rights in the South
-    answer: 0
-    explain: '"We Want Freedom. We Want Power To Determine The Destiny Of Our Black Community."'
-    card: 2
-  - q: How did Newton see the Party's survival programs, such as free breakfast for children?
-    options:
-      - As the revolution itself
-      - As charity to be dropped once the Party grew
-      - As meeting real needs, but not an answer to the whole problem of oppression
-      - As a service the government should take over
-    answer: 2
-    explain: '"Survival pending revolution." The programs kept people alive and built trust, but in Newton''s words, "Revolutions are made of sterner stuff."'
-    card: 3
-  - q: What did Newton mean by "Reactionary Intercommunalism"?
-    options:
-      - An alliance of national liberation movements
-      - The ruling class's domination of communities worldwide through empire
-      - The Panthers' own long-term goal
-      - Soviet foreign policy
+      - To demand Huey Newton's release from prison
+      - To protest the Mulford Act, a bill to ban carrying loaded guns in public
+      - To present the Ten-Point Program to the governor
+      - To register Black voters
     answer: 1
-    explain: In Newton's view, the empire had turned nations into communities it dominated. The Panthers fought for "Revolutionary Intercommunalism" instead.
-    card: 4
-  - q: What was at stake in the 1971 split between Newton and Eldridge Cleaver?
+    explain: Bobby Seale read out Newton's Executive Mandate No. 1, which called on Black people to arm themselves before the Mulford Act passed.
+    card: 1
+  - q: What was the Party's first survival program, begun in Oakland in January 1969?
     options:
-      - Electoral politics versus boycotts
-      - Whether to work with white radicals at all
-      - Whether to move the Party's headquarters to Algeria
-      - Community survival programs versus immediate armed struggle
-    answer: 3
-    explain: Newton's side prioritized organizing through survival programs. Cleaver's side called for immediate armed struggle through an underground.
+      - A free health clinic
+      - A free bus service to prisons
+      - Free breakfast for schoolchildren
+      - A housing cooperative
+    answer: 2
+    explain: The Free Breakfast for School Children program started at St. Augustine's Church and was feeding over 10,000 children a day by the end of the year.
+    card: 3
+  - q: What was COINTELPRO?
+    options:
+      - The Party's underground armed wing
+      - A covert FBI program to disrupt Black political groups
+      - A congressional inquiry into police brutality
+      - The Party's legal defense fund
+    answer: 1
+    explain: The FBI launched it in 1967, and by 1969 the Panthers were its main target. Even the breakfast program was singled out.
+    card: 4
+  - q: What role did the FBI play in the 1971 split between Newton and Eldridge Cleaver?
+    options:
+      - None; it learned of the split from the newspapers
+      - It tried to reconcile the two leaders
+      - It worked to drive a wedge between them, then declared the split a success
+      - It arrested Cleaver to end the dispute
+    answer: 2
+    explain: From 1970 the FBI sent letters written to look as if they came from Party members, then declared the differences irreconcilable.
     card: 5
 ---
 
-In October 1966 in Oakland, California, two young Black men, **Huey P. Newton** and **Bobby Seale**, founded the Black Panther Party for Self-Defense. Oakland's Black neighborhoods were policed by a mostly white force that many residents experienced as an occupying army.
+In October 1966 in Oakland, California, **Huey P. Newton** and **Bobby Seale** founded the Black Panther Party for Self-Defense [^mia]. Its founding document, the **Ten-Point Program**, set out what the Party wanted and believed, from full employment and decent housing to an end to police brutality [^tpp].
 
-The Panthers' first well-known action was armed patrols that followed the police. Panthers legally carried guns and law books, observed arrests and told residents their rights.
+In May 1967 California's legislature was weighing the Mulford Act, a bill to ban carrying loaded guns in public. On May 2, armed Panthers went to the state Capitol in Sacramento, where Seale read out a statement by Newton [^mia] [^mandate]:
 
-Their founding document, the **Ten-Point Program**, laid out what they wanted and what they believed [^tpp].
-
----
-
-Each point pairs a demand ("We Want") with a principle ("We Believe"). The first sets the theme:
-
-> "We Want Freedom. We Want Power To Determine The Destiny Of Our Black Community." [^tpp]
-
-Other points demanded full employment, decent housing, and education "That Teaches Us Our True History". Point 3 named the enemy: "We Want An End To The Robbery By The Capitalists Of Our Black Community." Point 7 demanded "An Immediate End To Police Brutality And Murder Of Black People," through organized Black self-defense. The last point summed it all up: "Land, Bread, Housing, Education, Clothing, Justice And Peace." [^tpp]
+> "The Black Panther Party for Self-Defense believes that the time has come for Black people to arm themselves against this terror before it is too late." [^mandate]
 
 ---
 
-The Panthers became best known not for guns but for programs. From 1969, chapters ran free breakfasts for schoolchildren, feeding thousands every morning. They also ran free health clinics, sickle-cell anemia testing, and buses to take families to visit relatives in prison.
+The Panthers built their ideas from Malcolm X, Marx and Mao. From Mao they took the idea of the Party as the **vanguard**: the organized, most committed part of the people, leading the wider struggle. From early 1968, Mao's *Little Red Book* was required reading for members [^mia].
 
-Newton called these **survival programs**, as in *survival pending revolution*. They met real needs and built trust, but he was clear about their limits:
+The Party spread its ideas through its own newspaper, *The Black Panther*, first published in April 1967. By 1971 it was printing 250,000 copies [^mia].
 
-> "We must not regard our survival programs as an answer to the whole problem of oppression. We don't even claim it to be a revolutionary program. Revolutions are made of sterner stuff." [^newton]
-
----
-
-By 1970 Newton was rethinking Party theory. Calling Black America a colony implied it was a nation. Newton now agreed it was "a dispersed collection of communities". And nations everywhere, he argued, had been hollowed out by U.S. empire:
-
-> "Since no nation exists, and since the United States is in fact an empire, it is impossible for us to be Internationalists." [^newton]
-
-The ruling class had built **Reactionary Intercommunalism**, dominating communities worldwide. The Panthers would fight for **Revolutionary Intercommunalism**, in which the people seize the means of production and distribute the wealth "in an egalitarian way to the many communities of the world." [^newton]
+By 1970 Newton was reworking the Party's theory into **intercommunalism**: the argument that U.S. empire had reduced the world's nations to communities under its rule, and that those communities had to take back the world's wealth and share it equally [^newton].
 
 ---
 
-**The debate:** The Party's direction split its leadership. In 1971 Newton expelled **Eldridge Cleaver**, the Party's Minister of Information, then in exile in Algeria [^crimson].
+In January 1969 the Party opened its first Free Breakfast for School Children program, at St. Augustine's Church in Oakland. By the end of the year, Panther kitchens in cities across the country were feeding over 10,000 children every morning [^mia]. Chapters went on to run free medical clinics, sickle-cell anemia testing, and giveaways of clothing and food [^mia].
 
-**Newton's side** argued that the Party had to win the people through survival programs and community organizing. Armed action without mass support would only get Panthers killed.
+The Party's newspaper explained the purpose: "we must survive this evil government and build a new one fit for the service of all the people." [^feed]
 
-**Cleaver's side** argued that the Party was going soft, and that the moment demanded immediate armed struggle against the state through an underground. The Black Liberation Army later took up that line.
+By 1971 the Party had a slogan for this work: "Survival pending revolution." [^crimson] The programs met people's needs now, and built the trust and organization a revolution would need later.
 
-The FBI's COINTELPRO program deliberately inflamed the split. Which path was right is still debated.
+---
+
+The government answered with repression. In August 1967 the FBI had launched **COINTELPRO** (short for counterintelligence program), a covert operation to disrupt and "neutralize" Black political groups. In September 1968 FBI Director J. Edgar Hoover called the Panthers "the greatest threat to the internal security of the country." By July 1969 they were the program's main target, singled out for the large majority of its actions [^church].
+
+The FBI tried to stir up violence between the Panthers and other groups, and made the breakfast program one of its prime targets [^church]. In Chicago in December 1969, police acting on information from an FBI informant raided a Panther apartment before dawn and killed the local leader, **Fred Hampton**, in his bed [^mia].
+
+---
+
+**The debate:** From March 1970 the FBI worked to "drive a permanent wedge" between Newton's supporters and those of **Eldridge Cleaver**, a Party leader living in exile in Algeria. It sent letters written to look as if they came from Party members [^church].
+
+In February 1971, on television, Cleaver attacked the Party's leadership, and Newton expelled him [^church].
+
+**Cleaver's side** called the leadership a "right-wing Oakland clique" for organizing around community needs and court fights, and wanted violent action to free political prisoners instead [^crimson].
+
+**Newton's side** stood on the survival programs: "judge us as revolutionaries not by our words but by our actions." [^crimson]
+
+The FBI declared victory: the differences "now appear to be irreconcilable" [^church]. Which path was right is still debated.
