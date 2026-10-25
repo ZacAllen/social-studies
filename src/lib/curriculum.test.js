@@ -333,6 +333,12 @@ describe('buildCurriculum', () => {
 				expectError(edit({ answer: 1.5 }), PATH, /question 2 answer/);
 			});
 
+			it('rejects question text, options or explanation that YAML reads as a number', () => {
+				expectError(edit({ options: ['a', 1917, 'c', 'd'] }), PATH, /question 2 options must all be text/);
+				expectError(edit({ q: 1917 }), PATH, /question 2 has no text/);
+				expectError(edit({ explain: 1917 }), PATH, /question 2 has no explanation/);
+			});
+
 			it('rejects a question with no explanation', () => {
 				expectError(edit({ explain: undefined }), PATH, /question 2 has no explanation/);
 			});
