@@ -141,4 +141,83 @@ describe('buildCurriculum', () => {
 			expectError(errors, `${ROOT}/02-lenin/subject.yml`, /./);
 		});
 	});
+
+	describe('lesson rules', () => {
+		/** Errors for a single lesson in an otherwise valid subject. */
+		const errorsFor = (/** @type {ReturnType<typeof lessonFile>} */ file) =>
+			buildCurriculum([subjectFile('01-foundations'), file]).errors;
+		const PATH = `${ROOT}/01-foundations/01-alpha.md`;
+
+		it('rejects a lesson file without a numeric prefix', () => {
+			const file = lessonFile('01-foundations/alpha.md');
+			expectError(errorsFor(file), file.path, /number|prefix/i);
+		});
+
+		it('reports a file without frontmatter as one error for that file', () => {
+			const errors = errorsFor({ path: PATH, raw: 'Just a card.' });
+			expect(errors).toHaveLength(1);
+			expectError(errors, PATH, /frontmatter/);
+		});
+
+		it('reports unparseable frontmatter as one error for that file', () => {
+			const errors = errorsFor({ path: PATH, raw: '---\ntitle: [unclosed\n---\nA card.\n' });
+			expect(errors).toHaveLength(1);
+			expectError(errors, PATH, /./);
+		});
+
+		it('requires a kind', () => {
+			expectError(errorsFor(lessonFile('01-foundations/01-alpha.md', { kind: undefined })), PATH, /kind/);
+		});
+
+		it('rejects a kind other than reading or study', () => {
+			expectError(errorsFor(lessonFile('01-foundations/01-alpha.md', { kind: 'survey' })), PATH, /kind/);
+		});
+
+		describe('main work', () => {
+			const WORK = {
+				author: 'Lenin',
+				title: 'What Is to Be Done?',
+				year: 1902,
+				url: 'https://www.marxists.org/archive/lenin/works/1901/witbd/'
+			};
+			const reading = (/** @type {unknown} */ work) =>
+				lessonFile('01-foundations/01-alpha.md', { kind: 'reading', work });
+
+			it('returns a Reading with its main work', () => {
+				const { subjects, errors } = buildCurriculum([subjectFile('01-foundations'), reading(WORK)]);
+				expect(errors).toEqual([]);
+				expect(subjects[0].lessons[0]).toMatchObject({ kind: 'reading', work: WORK });
+			});
+
+			it('rejects a Reading without a main work', () => {
+				expectError(errorsFor(reading(undefined)), PATH, /work/);
+			});
+
+			for (const key of ['author', 'title', 'year']) {
+				it(`rejects a main work without its ${key}`, () => {
+					expectError(errorsFor(reading({ ...WORK, [key]: undefined })), PATH, new RegExp(key));
+				});
+			}
+
+			it('rejects a main work without a web link', () => {
+				expectError(errorsFor(reading({ ...WORK, url: 'marxists.org/lenin' })), PATH, /url|link/i);
+			});
+
+			it('rejects a Study that declares a main work', () => {
+				expectError(
+					errorsFor(lessonFile('01-foundations/01-alpha.md', { kind: 'study', work: WORK })),
+					PATH,
+					/work/
+				);
+			});
+		});
+
+		it('rejects the retired "subject" field', () => {
+			expectError(errorsFor(lessonFile('01-foundations/01-alpha.md', { subject: 'Old' })), PATH, /subject/);
+		});
+
+		it('rejects the retired "order" field', () => {
+			expectError(errorsFor(lessonFile('01-foundations/01-alpha.md', { order: 1 })), PATH, /order/);
+		});
+	});
 });

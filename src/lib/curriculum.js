@@ -22,6 +22,7 @@ export const SUBJECT_FILE = 'subject.yml';
 const FRONTMATTER = /^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/;
 const CARD_BREAK = /^\s*---\s*$/m;
 const PREFIX = /^\d+-/;
+const KINDS = /** @type {const} */ (['reading', 'study']);
 export const CITATION = /\[\^([\w-]+)\]/g;
 
 /**
@@ -76,11 +77,26 @@ export function buildCurriculum(files) {
 			description: /** @type {string} */ (meta?.description),
 			lessons: /** @type {Lesson[]} */ ([])
 		};
-		for (const { file, raw } of lessons) {
+		for (const { file, path, raw } of lessons) {
+			const fail = (/** @type {string} */ msg) => errors.push(`${path}: ${msg}`);
+			if (!PREFIX.test(file)) {
+				fail(`lesson files must start with a number, e.g. 01-${file}`);
+				continue;
+			}
 			const match = FRONTMATTER.exec(raw);
-			if (!match) continue;
-			const fm = parseYaml(match[1]) ?? {};
-			subject.lessons.push({
+			if (!match) {
+				fail('missing frontmatter');
+				continue;
+			}
+			let fm;
+			try {
+				fm = parseYaml(match[1]) ?? {};
+			} catch (e) {
+				fail(`frontmatter can't be parsed: ${/** @type {Error} */ (e).message}`);
+				continue;
+			}
+			/** @type {Lesson} */
+			const lesson = {
 				slug: file.replace(/\.md$/, '').replace(PREFIX, ''),
 				title: fm.title,
 				kind: fm.kind,
@@ -90,11 +106,35 @@ export function buildCurriculum(files) {
 				cards: parseCards(match[2]),
 				subjectSlug: subject.slug,
 				subjectName: subject.name
-			});
+			};
+			checkLesson(lesson, fm, fail);
+			subject.lessons.push(lesson);
 		}
 		subjects.push(subject);
 	}
 	return { subjects, errors };
+}
+
+/**
+ * @param {Lesson} lesson
+ * @param {Record<string, unknown>} fm the raw frontmatter, for fields the lesson doesn't carry
+ * @param {(msg: string) => void} fail
+ */
+function checkLesson(lesson, fm, fail) {
+	if (!KINDS.includes(lesson.kind)) fail(`"kind" must be one of ${KINDS.join(', ')}`);
+	for (const key of ['subject', 'order'])
+		if (key in fm) fail(`"${key}" is retired: the subject and order come from the folder and filename`);
+
+	const { work } = lesson;
+	if (lesson.kind === 'study' && fm.work != null) fail('a Study must not declare a main "work"');
+	if (lesson.kind === 'reading') {
+		if (!work) fail('a Reading must declare its main "work"');
+		else {
+			for (const key of /** @type {const} */ (['author', 'title', 'year']))
+				if (work[key] == null || work[key] === '') fail(`main work is missing "${key}"`);
+			if (!/^https?:\/\//.test(work.url ?? '')) fail('main work needs an http(s) "url"');
+		}
+	}
 }
 
 /** @param {string} body */
