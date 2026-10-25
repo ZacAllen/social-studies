@@ -1,6 +1,5 @@
 <script lang="ts">
-	import { resolve } from '$app/paths';
-	import { subjects } from '$lib/content';
+	import { subjects, subjectHref } from '$lib/content';
 	import { subjectProgress } from '$lib/curriculum.js';
 	import { progress } from '$lib/progress.svelte';
 </script>
@@ -19,7 +18,7 @@
 		{#each subjects as subject, i (subject.slug)}
 			{@const { done, total } = subjectProgress(subject, progress.results)}
 			<li>
-				<a href={resolve('/subject/[slug]', { slug: subject.slug }) + '/'}>
+				<a href={subjectHref(subject.slug)}>
 					<span class="text">
 						<span class="name">
 							{subject.name}
@@ -28,9 +27,7 @@
 						<span class="description">{subject.description}</span>
 						<span class="meta">{total} {total === 1 ? 'lesson' : 'lessons'}</span>
 					</span>
-					{#if done > 0}
-						<span class="done" aria-label="{done} of {total} lessons done">{done}/{total} ✓</span>
-					{/if}
+					<span class="done">{done} of {total} done</span>
 				</a>
 			</li>
 		{/each}

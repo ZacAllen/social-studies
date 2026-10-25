@@ -91,6 +91,17 @@ describe('buildCurriculum', () => {
 			expect(subjects[0].lessons.map((l) => l.slug)).toEqual(['earlier', 'later']);
 		});
 
+		it('lists every lesson in one flat list, in subject then lesson order', () => {
+			const { lessons } = buildCurriculum([
+				subjectFile('10-lenin', { name: 'Lenin', description: 'd' }),
+				lessonFile('10-lenin/01-c.md'),
+				subjectFile('2-foundations', { name: 'Foundations', description: 'd' }),
+				lessonFile('2-foundations/05-b.md'),
+				lessonFile('2-foundations/01-a.md')
+			]);
+			expect(lessons.map((l) => l.slug)).toEqual(['a', 'b', 'c']);
+		});
+
 		it('strips the prefix from subject and lesson slugs', () => {
 			const { subjects } = buildCurriculum([
 				subjectFile('07-black-panther-party'),
@@ -131,6 +142,13 @@ describe('buildCurriculum', () => {
 		it('rejects a subject folder with no lessons', () => {
 			const { errors } = buildCurriculum([subjectFile('02-lenin')]);
 			expectError(errors, `${ROOT}/02-lenin`, /no lessons/);
+		});
+
+		it('rejects a subject folder holding neither a metadata file nor lessons', () => {
+			const { subjects, errors } = buildCurriculum([], [`${ROOT}/03-empty`]);
+			expectError(errors, `${ROOT}/03-empty`, /subject\.yml/);
+			expectError(errors, `${ROOT}/03-empty`, /no lessons/);
+			expect(subjects.map((s) => s.slug)).toEqual(['empty']);
 		});
 
 		it('reports an unparseable metadata file as an error rather than throwing', () => {

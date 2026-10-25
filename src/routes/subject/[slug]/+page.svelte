@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
+	import { KIND_LABELS } from '$lib/curriculum.js';
 	import { progress } from '$lib/progress.svelte';
 
 	let { data } = $props();
@@ -28,7 +29,7 @@
 					<span class="text">
 						<span class="title">{lesson.title}</span>
 						<span class="meta">
-							<span class="kind">{lesson.kind === 'reading' ? 'Reading' : 'Study'}</span>
+							<span class="kind">{KIND_LABELS[lesson.kind]}</span>
 							· {lesson.cards.length} cards · {lesson.quiz.length}-question quiz
 						</span>
 					</span>

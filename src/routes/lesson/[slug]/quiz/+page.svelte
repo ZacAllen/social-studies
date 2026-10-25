@@ -1,13 +1,14 @@
 <script lang="ts">
 	import { onMount, tick } from 'svelte';
 	import { resolve } from '$app/paths';
+	import { subjectHref } from '$lib/content';
 	import { progress } from '$lib/progress.svelte';
 
 	let { data } = $props();
 	const lesson = $derived(data.lesson);
 	const quiz = $derived(lesson.quiz);
 	const lessonHref = $derived(resolve('/lesson/[slug]', { slug: lesson.slug }) + '/');
-	const subjectHref = $derived(resolve('/subject/[slug]', { slug: lesson.subjectSlug }) + '/');
+	const backHref = $derived(subjectHref(lesson.subjectSlug));
 
 	// orders[q] lists option indices in display order; answers[q] is the chosen original index.
 	let orders = $state<number[][] | null>(null);
@@ -56,7 +57,7 @@
 <header class="band">
 	<div class="inner">
 		<h1>{lesson.subjectName}</h1>
-		<a class="close" href={subjectHref} aria-label="Back to {lesson.subjectName}">✕</a>
+		<a class="close" href={backHref} aria-label="Back to {lesson.subjectName}">✕</a>
 	</div>
 </header>
 
@@ -139,7 +140,7 @@
 		<div class="actions end">
 			<button class="btn primary" onclick={retake}>Retake</button>
 			<a class="btn ghost" href={lessonHref}>Review Cards</a>
-			<a class="btn ghost" href={subjectHref}>Back to {lesson.subjectName}</a>
+			<a class="btn ghost" href={backHref}>Back to {lesson.subjectName}</a>
 		</div>
 	{/if}
 </main>

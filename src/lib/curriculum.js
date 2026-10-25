@@ -22,7 +22,9 @@ export const SUBJECT_FILE = 'subject.yml';
 const FRONTMATTER = /^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/;
 const CARD_BREAK = /^\s*---\s*$/m;
 const PREFIX = /^\d+-/;
-const KINDS = /** @type {const} */ (['reading', 'study']);
+export const KINDS = /** @type {const} */ (['reading', 'study']);
+/** @type {Record<Lesson['kind'], string>} How each kind is labelled to readers. */
+export const KIND_LABELS = { reading: 'Reading', study: 'Study' };
 const MAX_WORDS = 120;
 const QUIZ_LENGTH = 5;
 const OPTION_COUNT = 4;
@@ -30,24 +32,78 @@ export const CITATION = /\[\^([\w-]+)\]/g;
 
 /**
  * @param {ContentFile[]} files subject metadata files and lesson files
- * @returns {{ subjects: Subject[], errors: string[] }}
+ * @param {string[]} [subjectDirs] subject folder paths, so a folder holding no files is still reported
+ * @returns {{ subjects: Subject[], lessons: Lesson[], errors: string[] }}
  */
-export function buildCurriculum(files) {
+export function buildCurriculum(files, subjectDirs = []) {
 	/** @type {string[]} */
 	const errors = [];
-	/** @typedef {{ dir: string, path: string, meta?: Record<string, unknown>, lessons: { file: string, path: string, raw: string }[] }} Folder */
+	/** @type {Subject[]} */
+	const subjects = [];
+	/** @type {Map<string, string>} slug → path of the lesson that has it */
+	const slugs = new Map();
+	const numbered = [...groupFolders(files, subjectDirs, errors).values()].filter((folder) => {
+		if (PREFIX.test(folder.dir)) return true;
+		errors.push(`${folder.path}: subject folders must start with a number, e.g. 01-${folder.dir}`);
+		return false;
+	});
+	for (const { dir, path, meta, lessons } of numbered.sort((a, b) => byPrefix(a.dir, b.dir))) {
+		if (!meta) errors.push(`${path}: missing its ${SUBJECT_FILE} metadata file`);
+		else
+			for (const key of ['name', 'description'])
+				if (!meta[key]) errors.push(`${path}/${SUBJECT_FILE}: missing "${key}"`);
+		if (lessons.length === 0) errors.push(`${path}: has no lessons`);
+		/** @type {Subject} */
+		const subject = {
+			slug: dir.replace(PREFIX, ''),
+			name: /** @type {string} */ (meta?.name),
+			description: /** @type {string} */ (meta?.description),
+			lessons: []
+		};
+		for (const file of lessons.sort((a, b) => byPrefix(a.file, b.file))) {
+			const fail = (/** @type {string} */ msg) => errors.push(`${file.path}: ${msg}`);
+			const lesson = parseLesson(file, subject, fail);
+			if (!lesson) continue;
+			const firstPath = slugs.get(lesson.slug);
+			if (firstPath) fail(`duplicate slug "${lesson.slug}" (also in ${firstPath})`);
+			else slugs.set(lesson.slug, file.path);
+			subject.lessons.push(lesson);
+		}
+		subjects.push(subject);
+	}
+	return { subjects, lessons: subjects.flatMap((s) => s.lessons), errors };
+}
+
+/** @param {string} a @param {string} b */
+const byPrefix = (a, b) => parseInt(a, 10) - parseInt(b, 10);
+
+/**
+ * @typedef {{ file: string, path: string, raw: string }} LessonFile
+ * @typedef {{ dir: string, path: string, meta?: Record<string, unknown>, lessons: LessonFile[] }} Folder
+ */
+
+/**
+ * Groups files by their subject folder, parsing each folder's metadata file.
+ * @param {ContentFile[]} files
+ * @param {string[]} subjectDirs
+ * @param {string[]} errors
+ */
+function groupFolders(files, subjectDirs, errors) {
 	/** @type {Map<string, Folder>} */
 	const folders = new Map();
-
+	const folderAt = (/** @type {string} */ path) => {
+		let folder = folders.get(path);
+		if (!folder) {
+			folder = { dir: path.slice(path.lastIndexOf('/') + 1), path, lessons: [] };
+			folders.set(path, folder);
+		}
+		return folder;
+	};
+	for (const dir of subjectDirs) folderAt(dir);
 	for (const { path, raw } of files) {
 		const cut = path.lastIndexOf('/');
-		const folderPath = path.slice(0, cut);
+		const folder = folderAt(path.slice(0, cut));
 		const file = path.slice(cut + 1);
-		let folder = folders.get(folderPath);
-		if (!folder) {
-			folder = { dir: folderPath.slice(folderPath.lastIndexOf('/') + 1), path: folderPath, lessons: [] };
-			folders.set(folderPath, folder);
-		}
 		if (file === SUBJECT_FILE) {
 			try {
 				folder.meta = parseYaml(raw) ?? {};
@@ -57,84 +113,53 @@ export function buildCurriculum(files) {
 			}
 		} else if (file.endsWith('.md')) folder.lessons.push({ file, path, raw });
 	}
+	return folders;
+}
 
-	/** @type {Subject[]} */
-	const subjects = [];
-	/** @type {Map<string, string>} slug → path of the lesson that has it */
-	const slugs = new Map();
-	const byPrefix = (/** @type {string} */ a, /** @type {string} */ b) => parseInt(a, 10) - parseInt(b, 10);
-	const valid = [...folders.values()].filter((f) => {
-		if (PREFIX.test(f.dir)) return true;
-		errors.push(`${f.path}: subject folders must start with a number, e.g. 01-${f.dir}`);
-		return false;
-	});
-	for (const { dir, path, meta, lessons } of valid.sort((a, b) => byPrefix(a.dir, b.dir))) {
-		if (!meta) errors.push(`${path}: missing its ${SUBJECT_FILE} metadata file`);
-		else
-			for (const key of ['name', 'description'])
-				if (!meta[key]) errors.push(`${path}/${SUBJECT_FILE}: missing "${key}"`);
-		if (lessons.length === 0) errors.push(`${path}: has no lessons`);
-		lessons.sort((a, b) => byPrefix(a.file, b.file));
-		const subject = {
-			slug: dir.replace(PREFIX, ''),
-			name: /** @type {string} */ (meta?.name),
-			description: /** @type {string} */ (meta?.description),
-			lessons: /** @type {Lesson[]} */ ([])
-		};
-		for (const { file, path, raw } of lessons) {
-			const fail = (/** @type {string} */ msg) => errors.push(`${path}: ${msg}`);
-			if (!PREFIX.test(file)) {
-				fail(`lesson files must start with a number, e.g. 01-${file}`);
-				continue;
-			}
-			const match = FRONTMATTER.exec(raw);
-			if (!match) {
-				fail('missing frontmatter');
-				continue;
-			}
-			let fm;
-			try {
-				fm = parseYaml(match[1]) ?? {};
-			} catch (e) {
-				fail(`frontmatter can't be parsed: ${/** @type {Error} */ (e).message}`);
-				continue;
-			}
-			if (typeof fm !== 'object' || Array.isArray(fm)) {
-				fail('frontmatter must be a set of "key: value" fields');
-				continue;
-			}
-			/** @type {Lesson} */
-			const lesson = {
-				slug: file.replace(/\.md$/, '').replace(PREFIX, ''),
-				title: fm.title,
-				kind: fm.kind,
-				...(fm.work ? { work: fm.work } : {}),
-				sources: fm.sources ?? [],
-				quiz: fm.quiz ?? [],
-				cards: parseCards(match[2]),
-				subjectSlug: subject.slug,
-				subjectName: subject.name
-			};
-			checkLesson(lesson, fm, fail);
-			const twin = slugs.get(lesson.slug);
-			if (twin) fail(`duplicate slug "${lesson.slug}" (also in ${twin})`);
-			else slugs.set(lesson.slug, path);
-			subject.lessons.push(lesson);
-		}
-		subjects.push(subject);
+/**
+ * Parses one lesson file and checks it, or returns nothing if it can't be read as a lesson.
+ * @param {LessonFile} lessonFile
+ * @param {Subject} subject
+ * @param {(msg: string) => void} fail
+ * @returns {Lesson | undefined}
+ */
+function parseLesson({ file, raw }, subject, fail) {
+	if (!PREFIX.test(file)) return void fail(`lesson files must start with a number, e.g. 01-${file}`);
+	const match = FRONTMATTER.exec(raw);
+	if (!match) return void fail('missing frontmatter');
+	let frontmatter;
+	try {
+		frontmatter = parseYaml(match[1]) ?? {};
+	} catch (e) {
+		return void fail(`frontmatter can't be parsed: ${/** @type {Error} */ (e).message}`);
 	}
-	return { subjects, errors };
+	if (typeof frontmatter !== 'object' || Array.isArray(frontmatter))
+		return void fail('frontmatter must be a set of "key: value" fields');
+	/** @type {Lesson} */
+	const lesson = {
+		slug: file.replace(/\.md$/, '').replace(PREFIX, ''),
+		title: frontmatter.title,
+		kind: frontmatter.kind,
+		...(frontmatter.work ? { work: frontmatter.work } : {}),
+		sources: frontmatter.sources ?? [],
+		quiz: frontmatter.quiz ?? [],
+		cards: parseCards(match[2]),
+		subjectSlug: subject.slug,
+		subjectName: subject.name
+	};
+	checkLesson(lesson, frontmatter, fail);
+	return lesson;
 }
 
 /**
  * @param {Lesson} lesson
- * @param {Record<string, unknown>} fm the raw frontmatter, for fields the lesson doesn't carry
+ * @param {Record<string, unknown>} frontmatter the raw frontmatter, for fields the lesson doesn't carry
  * @param {(msg: string) => void} fail
  */
-function checkLesson(lesson, fm, fail) {
+function checkLesson(lesson, frontmatter, fail) {
 	if (!KINDS.includes(lesson.kind)) fail(`"kind" must be one of ${KINDS.join(', ')}`);
 	for (const key of ['subject', 'order'])
-		if (key in fm) fail(`"${key}" is retired: the subject and order come from the folder and filename`);
+		if (key in frontmatter) fail(`"${key}" is retired: the subject and order come from the folder and filename`);
 
 	if (lesson.title == null) fail('missing "title"');
 
@@ -170,7 +195,7 @@ function checkLesson(lesson, fm, fail) {
 	});
 
 	const { work } = lesson;
-	if (lesson.kind === 'study' && fm.work != null) fail('a Study must not declare a main "work"');
+	if (lesson.kind === 'study' && frontmatter.work != null) fail('a Study must not declare a main "work"');
 	if (lesson.kind === 'reading') {
 		if (!work) fail('a Reading must declare its main "work"');
 		else {
