@@ -185,11 +185,13 @@ function checkLesson(lesson, frontmatter, fail) {
 	if (lesson.quiz.length !== QUIZ_LENGTH) fail(`quiz has ${lesson.quiz.length} questions (need ${QUIZ_LENGTH})`);
 	lesson.quiz.forEach((q, i) => {
 		const n = `question ${i + 1}`;
-		if (!q.q) fail(`${n} has no text`);
+		// YAML reads a bare number (e.g. 1917) as a number, which breaks rendering.
+		if (!q.q || typeof q.q !== 'string') fail(`${n} has no text`);
 		if (q.options?.length !== OPTION_COUNT) fail(`${n} needs exactly ${OPTION_COUNT} options`);
+		else if (!q.options.every((o) => typeof o === 'string')) fail(`${n} options must all be text (quote bare numbers)`);
 		if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer >= (q.options?.length ?? 0))
 			fail(`${n} answer index is out of range`);
-		if (!q.explain) fail(`${n} has no explanation`);
+		if (!q.explain || typeof q.explain !== 'string') fail(`${n} has no explanation`);
 		if (!Number.isInteger(q.card) || q.card < 1 || q.card > lesson.cards.length)
 			fail(`${n} points to card ${q.card}, but the lesson has ${lesson.cards.length} cards`);
 	});
