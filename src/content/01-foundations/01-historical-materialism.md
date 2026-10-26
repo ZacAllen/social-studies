@@ -24,9 +24,9 @@ quiz:
   - q: According to Marx's 1859 Preface, what conditions "the general process of social, political and intellectual life"?
     options:
       - The mode of production of material life
-      - The ideas of great philosophers
-      - The will of the state
-      - Religious belief
+      - The ideas of the age's great philosophers
+      - The will and the laws of the state
+      - The religious beliefs of the people
     answer: 0
     explain: Marx starts from how people produce their lives. Ideas, politics and law arise from that base, not the other way around.
     card: 1
@@ -60,9 +60,9 @@ quiz:
   - q: According to Marx's eleventh thesis on Feuerbach, what is "the point"?
     options:
       - To interpret the world correctly
-      - To return to nature
+      - To build a complete system of philosophy
       - To change the world
-      - To reform philosophy
+      - To reform philosophy from within
     answer: 2
     explain: '"The philosophers have only interpreted the world, in various ways; the point is to change it."'
     card: 5

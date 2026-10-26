@@ -67,10 +67,10 @@ quiz:
     card: 4
   - q: What was Rosa Luxemburg's main objection to Lenin's approach to party organization?
     options:
-      - It relied too much on newspapers
-      - It was too centralized; workers had to learn through their own struggles and mistakes
-      - It neglected the peasantry
-      - It was not secret enough to survive the police
+      - It relied too heavily on a single émigré newspaper
+      - It was too centralized; workers must learn from their own mistakes
+      - It neglected the peasantry in favor of the workers
+      - It was not secret enough to survive the Tsar's police
     answer: 1
     explain: Luxemburg called it "ultra-centralism" and wrote that a revolutionary movement's errors are "infinitely more fruitful than the infallibility of the cleverest Central Committee."
     card: 6
@@ -122,7 +122,7 @@ He compared the paper to the scaffolding around a building under construction: i
 
 ---
 
-**The debate:** The party split in 1903 into Bolsheviks and Mensheviks. Rosa Luxemburg then attacked Lenin's organizational ideas, restated in his *One Step Forward, Two Steps Back* (1904), as "ultra-centralism". The working class, she argued, must learn through its own struggles:
+**The debate:** The party split in 1903 into Bolsheviks and Mensheviks. The Polish Marxist Rosa Luxemburg then attacked Lenin's organizational ideas, restated in his *One Step Forward, Two Steps Back* (1904), as "ultra-centralism". The working class, she argued, must learn through its own struggles:
 
 > "Historically, the errors committed by a truly revolutionary movement are infinitely more fruitful than the infallibility of the cleverest Central Committee." [^lux]
 
