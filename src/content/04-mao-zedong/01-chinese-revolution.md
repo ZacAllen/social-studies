@@ -26,10 +26,10 @@ quiz:
     card: 1
   - q: What happened to the party in 1927?
     options:
-      - It won power in the cities
+      - It won power in Shanghai and Canton
       - Its Kuomintang allies turned on it and massacred Communists
-      - It merged with the Kuomintang
-      - It was dissolved by the Communist International
+      - It merged with the Kuomintang into one party
+      - It was dissolved by order of the Communist International
     answer: 1
     explain: Chiang Kai-shek's Kuomintang broke the alliance and massacred Communists and other revolutionaries. Membership fell from more than 60,000 to a little over 10,000.
     card: 2
@@ -37,26 +37,26 @@ quiz:
     options:
       - As a retreat that should never be repeated
       - As a manifesto, a propaganda force and a seeding-machine
-      - As the final battle of the civil war
-      - As a march on the capital
+      - As the final, decisive battle of the civil war
+      - As a march to seize the capital
     answer: 1
     explain: The Red Army lost its southern base, but the march carried its message across eleven provinces and preserved the party's core forces.
     card: 3
   - q: How did the Communists fight the Japanese invasion of 1937–45?
     options:
-      - By leaving all the fighting to the Kuomintang
-      - By guerrilla warfare and base areas behind enemy lines, inside a united front
+      - By leaving the fighting to the Kuomintang armies
+      - By guerrilla war from base areas behind enemy lines
       - By signing a separate peace with Japan
-      - By moving the party abroad
+      - By moving the party leadership abroad
     answer: 1
     explain: The Eighth Route Army and New Fourth Army fought behind Japanese lines and built base areas, while keeping the party independent within the united front.
     card: 4
   - q: Which three "main weapons" did Mao name in 1949 as the keys to victory?
     options:
-      - Industry, foreign aid and elections
+      - Heavy industry, foreign aid and free elections
       - A disciplined party, a people's army and a united front
-      - Newspapers, trade unions and strikes
-      - The cities, the navy and the air force
+      - Newspapers, trade unions and city strikes
+      - Soviet advisers, the navy and the air force
     answer: 1
     explain: Mao named a well-disciplined Marxist-Leninist party, an army under its leadership, and a united front of all revolutionary classes.
     card: 6
@@ -104,7 +104,7 @@ In September 1949, Mao told the delegates gathered to found the new state:
 
 > "Ours will no longer be a nation subject to insult and humiliation. We have stood up." [^stood]
 
-After a century of invasion and civil war, a party of fewer than sixty had led a quarter of humanity to liberation.
+After a century of invasion and civil war, a party of fewer than sixty [^res] had led a quarter of humanity to liberation [^stood].
 
 ---
 

@@ -18,9 +18,9 @@ sources:
 quiz:
   - q: Where did Fanon work as a psychiatrist before joining the Algerian liberation movement?
     options:
-      - A hospital in Paris
+      - A psychiatric hospital in Paris
       - The Blida-Joinville Hospital in Algeria
-      - A clinic in Martinique
+      - A clinic in Fort-de-France, Martinique
       - A hospital in Accra, Ghana
     answer: 1
     explain: From 1953 to 1956 Fanon headed the psychiatry department at Blida-Joinville in Algeria. His work there brought him into the Algerian struggle against French rule.
@@ -28,7 +28,7 @@ quiz:
   - q: According to Fanon, what does the shared armed struggle do for the colonized individual?
     options:
       - It teaches him the skills of a professional soldier
-      - It earns him a place in the new government
+      - It earns him a place in the new government after independence
       - It frees him from his inferiority complex and restores his self-respect
       - It makes him loyal to the leader of the movement
     answer: 2
@@ -47,25 +47,25 @@ quiz:
     options:
       - As the people's own instrument of power
       - As a temporary necessity of wartime
-      - As the vanguard of the working class
+      - As the vanguard of the working class and peasants
       - As the modern form of the dictatorship of the bourgeoisie
     answer: 3
     explain: Unable to deliver bread and land, the new ruling class ruled through one party and one leader. The party became a screen between the masses and the leaders.
     card: 5
   - q: What was the purpose of political education, in Fanon's view?
     options:
-      - To train a small elite of administrators
-      - To teach the masses that everything depends on them, not on a great man
-      - To build loyalty to the head of state
+      - To train a small elite of capable administrators
+      - To teach the masses that everything depends on them, not a great man
+      - To build loyalty to the head of state and the single party
       - To replace African culture with European learning
     answer: 1
     explain: Fanon wanted to make adults of the masses, not treat them as children. The maker of the nation is "the people themselves", not a famous leader.
     card: 6
 ---
 
-Frantz Fanon (1925–1961) was a psychiatrist from Martinique, a French colony in the Caribbean. From 1953 to 1956 he headed the psychiatry department of the Blida-Joinville Hospital in **Algeria**, then ruled as part of France. [^gloss]
+Frantz Fanon (1925–1961) was a psychiatrist from Martinique, a French colony in the Caribbean. From 1953 to 1956 he headed the psychiatry department of the Blida-Joinville Hospital in **Algeria**, then ruled as part of France [^gloss].
 
-He joined the Algerian liberation movement in 1954, and in 1956 became an editor of its newspaper, *El Moudjahid* ('The Fighter'). In 1960 the rebels' provisional government made him ambassador to Ghana. *The Wretched of the Earth* appeared in 1961, shortly before his death. [^gloss]
+He joined the Algerian liberation movement in 1954, and in 1956 became an editor of its newspaper, *El Moudjahid* ('The Fighter'). In 1960 the rebels' provisional government made him ambassador to Ghana. *The Wretched of the Earth* appeared in 1961, shortly before his death [^gloss].
 
 The book asked how the colonized could free themselves, and what could go wrong once the new flag was raised.
 
@@ -81,7 +81,7 @@ For Fanon, decolonization is not a polite handover of offices. Its proof of succ
 
 ---
 
-Fanon then asks what the shared struggle does to the colonized themselves. Colonialism kept people divided by region and tribe; fighting together made them one people. [^violence] It also changed each fighter:
+Fanon then asks what the shared struggle does to the colonized themselves. Colonialism kept people divided by region and tribe; fighting together made them one people [^violence]. It also changed each fighter:
 
 > "At the level of individuals, violence is a cleansing force. It frees the native from his inferiority complex and from his despair and inaction; it makes him fearless and restores his self-respect." [^violence]
 
@@ -89,7 +89,7 @@ A people that has freed itself, he adds, sees "that the liberation has been the 
 
 ---
 
-'The Pitfalls of National Consciousness' looks past independence. Fanon expected the new rulers to come from the **national bourgeoisie**: the local middle class of doctors, lawyers and traders that steps into the departing Europeans' shoes. [^pitfalls]
+'The Pitfalls of National Consciousness' looks past independence. Fanon expected the new rulers to come from the **national bourgeoisie**: the local middle class of doctors, lawyers and traders that steps into the departing Europeans' shoes [^pitfalls].
 
 This class, he wrote, is "not engaged in production, nor in invention" [^pitfalls]. Its job is to be a go-between:
 
@@ -123,4 +123,4 @@ The book's last pages turn away from Europe, which had talked endlessly of Man w
 
 > "Let us decide not to imitate Europe; let us combine our muscles and our brains in a new direction." [^conclusion]
 
-The goal was a new kind of person, the 'whole man' that Europe had failed to bring into being. [^conclusion]
+The goal was a new kind of person, the 'whole man' that Europe had failed to bring into being [^conclusion].

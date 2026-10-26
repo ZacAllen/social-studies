@@ -31,19 +31,19 @@ quiz:
     card: 2
   - q: What did Lenin say the power of the state mainly consists of?
     options:
-      - Elected assemblies and courts
-      - Schools and churches
+      - Elected assemblies and their courts
+      - Schools, churches and newspapers
       - Special bodies of armed men, with prisons
-      - Tax offices and banks
+      - Tax offices and the central bank
     answer: 2
     explain: Behind every state stand the police and the standing army, set apart from the people and placed above society.
     card: 3
   - q: Why did Lenin call the democratic republic "the best possible political shell for capitalism"?
     options:
-      - Because under it capital's power is so secure that changes of persons or parties cannot shake it
-      - Because it gives workers full control of the economy
-      - Because it abolishes the standing army
-      - Because it is the form socialism will take
+      - Because under it no change of persons or parties can shake capital's power
+      - Because it gives the workers control of the economy
+      - Because it abolishes the standing army and the police
+      - Because it is the political form that socialism itself will take later
     answer: 0
     explain: Elections change the ministers, but the rule of capital stays in place. That is why the democratic republic suits capitalism so well.
     card: 4
@@ -58,10 +58,10 @@ quiz:
     card: 5
   - q: What did Lenin call the touchstone of whether someone is a real Marxist?
     options:
-      - Recognizing the class struggle
-      - Recognizing the labor theory of value
+      - Recognizing the existence of the class struggle
+      - Accepting the labor theory of value
       - Recognizing the dictatorship of the proletariat
-      - Joining the party
+      - Holding a card in the workers' party
     answer: 2
     explain: Liberals can accept the class struggle. Only a Marxist carries it through to the dictatorship of the proletariat, the rule of the working class from capitalism to communism.
     card: 6

@@ -22,28 +22,28 @@ sources:
 quiz:
   - q: How did Socialism Utopian and Scientific come to be written?
     options:
-      - As a speech to the First International
-      - As three chapters of Engels's reply to Eugen Dühring, arranged as a pamphlet
-      - As a preface to the Communist Manifesto
-      - As a letter to Robert Owen
+      - As a speech to the First International's London congress
+      - As chapters of Engels's reply to Dühring, recast as a pamphlet
+      - As a new preface to a French edition of the Manifesto
+      - As an open letter to the followers of Robert Owen
     answer: 1
     explain: Engels answered Dühring in a long polemic. At Paul Lafargue's request he turned three chapters into a pamphlet, published in French in 1880.
     card: 1
   - q: According to Engels, what did Saint-Simon, Fourier and Owen have in common?
     options:
-      - They all led workers' parties
-      - They all rejected reason and justice
+      - They all led workers' parties in their own countries
+      - They all rejected appeals to reason and justice
       - None of them spoke as a representative of the proletariat
-      - They all called for armed revolution
+      - They all called for an armed rising of the workers
     answer: 2
     explain: Like the Enlightenment philosophers, they wanted to free all humanity at once by the force of reason, not to emancipate a particular class.
     card: 2
   - q: Why were the utopian systems 'foredoomed', in Engels's view?
     options:
       - Because capitalism and the class struggle were still too undeveloped
-      - Because their founders were dishonest
-      - Because governments banned them
-      - Because they relied on violence
+      - Because their founders were dishonest about their aims
+      - Because governments banned and broke up their colonies
+      - Because they relied on violence that turned people away
     answer: 0
     explain: With modern industry barely born, the utopians had to invent perfect systems in their heads and impose them from without.
     card: 3
@@ -58,9 +58,9 @@ quiz:
     card: 4
   - q: What happens to the state once the proletariat takes the means of production into social ownership?
     options:
-      - It is abolished by decree on the first day
-      - It becomes more powerful forever
-      - It is handed back to the bourgeoisie
+      - It is abolished by decree on the first day, and replaced by free communes
+      - It grows stronger forever, as the planner of all production
+      - It merges with the trade unions, which take over its tasks
       - It dies out, as government of persons gives way to the administration of things
     answer: 3
     explain: Once there are no classes to hold down, state interference becomes superfluous in one domain after another. The state is not abolished; it dies out.

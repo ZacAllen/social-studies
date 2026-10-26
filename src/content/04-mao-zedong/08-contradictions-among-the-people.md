@@ -22,37 +22,37 @@ sources:
 quiz:
   - q: How did Mao say the two types of contradiction should be resolved?
     options:
-      - Both by dictatorship
-      - Both by free elections
-      - Those with the enemy by drawing a line between ourselves and the enemy; those among the people by distinguishing right from wrong
-      - Both by ignoring them until they disappear
+      - Both by dictatorship over those who cause them
+      - Both by free elections between competing parties and candidates
+      - With the enemy by a clear line; among the people by sorting right from wrong
+      - Both by waiting patiently until they disappear on their own accord
     answer: 2
     explain: Contradictions with the enemy are antagonistic. Contradictions among the people are not, and call for discussion, criticism and persuasion.
     card: 2
   - q: Which of these did Mao count as a contradiction among the people?
     options:
-      - The contradiction with the imperialists
-      - The contradiction between the government and the people caused by bureaucracy
+      - The contradiction with the imperialist powers
+      - The one between government and people caused by bureaucracy
       - The contradiction with the Kuomintang reactionaries
-      - The contradiction with foreign invaders
+      - The contradiction with the foreign invaders
     answer: 1
     explain: Mao admitted contradictions even between the People's Government and the people, including those arising from the bureaucratic style of some officials.
     card: 3
   - q: What is the formula "unity -- criticism -- unity"?
     options:
-      - A plan for factory production
-      - Starting from the desire for unity, resolving differences through criticism, and arriving at a new unity
-      - A rule for expelling dissenters
-      - A slogan for the war against Japan
+      - A plan for raising factory production in stages
+      - Start from unity, resolve differences by criticism, reach a new unity
+      - A rule for expelling dissenters from the party after a warning
+      - A wartime slogan for the united front against Japan
     answer: 1
     explain: Mao traced the method to the 1942 rectification movement, which replaced "ruthless struggle and merciless blows" in the party.
     card: 4
   - q: How did the 1981 party Resolution judge the Anti-Rightist campaign of 1957?
     options:
-      - As entirely wrong from the start
+      - As entirely wrong from the very start
       - As correct in launching a counter-attack, but made far too broad
-      - As a complete success
-      - As something that never happened
+      - As a complete success that needed no later correction
+      - As the work of a few local officials acting without orders
     answer: 1
     explain: The Resolution said intellectuals, patriotic people and party cadres were unjustifiably labeled Rightists, and later corrected those cases.
     card: 6
@@ -119,7 +119,7 @@ He also set six political criteria to tell "fragrant flowers" from "poisonous we
 
 The practice fell short of the speech. In 1957, critics invited to speak out in a party rectification campaign attacked the party's leadership. The party struck back in the **Anti-Rightist campaign**, and its own 1981 Resolution judged that "the scope of this struggle was made far too broad" [^res].
 
-In 1958 came the **Great Leap Forward**, a mass campaign for rapid growth, together with rural **people's communes**. The Resolution blamed 'Left' errors and leaders who "overestimated the role of man's subjective will and efforts" [^res]. The result was famine in 1959–61. Demographers first estimated the toll "between 16.5 and 23 million" [^smil]; later studies found 23 to 30 million excess deaths [^smil].
+In 1958 came the **Great Leap Forward**, a mass campaign for rapid growth, together with rural **people's communes**. The Resolution blamed 'Left' errors and leaders who "overestimated the role of man's subjective will and efforts" [^res]. The result was famine in 1959–61. Demographers first estimated the toll "between 16.5 and 23 million" [^smil]; later studies found 23 to 30 million excess deaths, and unpublished Chinese materials hint at close to 40 million [^smil].
 
 ---
 

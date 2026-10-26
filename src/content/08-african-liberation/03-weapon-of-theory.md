@@ -46,33 +46,33 @@ quiz:
     card: 4
   - q: What choice did Cabral say faced the revolutionary petty bourgeoisie?
     options:
-      - To lead or to follow the peasantry
-      - To join the army or the civil service
-      - To emigrate or to stay
+      - To lead the peasantry or to follow it
+      - To join the army or the colonial civil service
+      - To emigrate to Europe or stay and run a business at home
       - To betray the revolution or to commit suicide as a class
     answer: 3
     explain: Only this stratum could take over the state, but it had no economic base of its own. To serve the revolution it had to be reborn as revolutionary workers.
     card: 6
   - q: How did Cabral revise the Manifesto's claim about class struggle?
     options:
-      - He rejected class struggle entirely
+      - He rejected the idea of class struggle entirely
       - He said class struggle drives history only in a specific historical period
-      - He said class struggle exists only in Europe
+      - He said class struggle exists only in Europe and its settler colonies
       - He said class struggle ends with national independence
     answer: 1
     explain: Engels had already limited the claim to written history. Cabral went further, holding that history ran before classes and will continue after them.
     card: 7
 ---
 
-In January 1966, revolutionaries from three continents met in Havana for the first **Tricontinental Conference** of the peoples of Asia, Africa and Latin America. [^wot]
+In January 1966, revolutionaries from three continents met in Havana for the first **Tricontinental Conference** of the peoples of Asia, Africa and Latin America [^wot].
 
-Amílcar Cabral (1924–1973), an agronomist, had founded the **PAIGC** (African Party for the Independence of Guinea and Cabo Verde) in 1956. Since 1963 it had waged armed struggle against Portuguese rule in what is now Guinea-Bissau. [^gca]
+Amílcar Cabral (1924–1973), an agronomist, had founded the **PAIGC** (African Party for the Independence of Guinea and Cabo Verde) in 1956. Since 1963 it had waged armed struggle against Portuguese rule in what is now Guinea-Bissau [^gca].
 
 Cabral would not spend his speech insulting the enemy. As an African saying puts it, "When your house is burning, it's no use beating the tom-toms." [^wot] The real shout against imperialism was "to take up arms and fight" [^wot].
 
 ---
 
-Cabral raised a subject missing from the agenda: "the struggle against our own weaknesses" [^wot]. Revolution is not an export good, he argued. Each people's struggle is shaped by its own history and its own internal contradictions. [^wot]
+Cabral raised a subject missing from the agenda: "the struggle against our own weaknesses" [^wot]. Revolution is not an export good, he argued. Each people's struggle is shaped by its own history and its own internal contradictions [^wot].
 
 The movements' worst weakness was in their heads:
 
@@ -82,7 +82,7 @@ Every practice produces a theory, he reminded his audience, and "nobody has yet 
 
 ---
 
-Cabral then asked a hard question. If history is the history of classes, what about peoples who had no classes when imperialism arrived, such as the Balantes of Guinea? Were they "living without history"? [^wot] He refused that conclusion.
+Cabral then asked a hard question. If history is the history of classes, what about peoples who had no classes when imperialism arrived, such as the Balantes of Guinea? Were they "living without history" [^wot]? He refused that conclusion.
 
 Classes themselves, he argued, grow out of the **productive forces** (tools, skills and techniques) and the pattern of ownership. So the deeper cause lies there:
 
@@ -92,7 +92,7 @@ History ran before classes, and it will go on after them: "man will outlive clas
 
 ---
 
-Cabral defined imperialism as the search for profit by monopoly finance capital, "piracy transplanted from the seas to dry land" [^wot]. It rules directly, through foreign officials and settlers (**colonialism**), or indirectly, through native agents (**neo-colonialism**). [^wot]
+Cabral defined imperialism as the search for profit by monopoly finance capital, "piracy transplanted from the seas to dry land" [^wot]. It rules directly, through foreign officials and settlers (**colonialism**), or indirectly, through native agents (**neo-colonialism**) [^wot].
 
 Either way, it does the same thing: it seizes the freedom of a people's productive forces to develop, and so stops its history. Liberation means taking that history back:
 
@@ -108,7 +108,7 @@ Because imperialism rules by violence, he concluded, "the normal way of national
 
 ---
 
-Who inherits the state after the colonizer leaves? Cabral's answer was the **petty bourgeoisie**: the educated layer of clerks, officials and professionals. It is the only group that knows how to run the inherited state, but it owns no means of production of its own. [^wot]
+Who inherits the state after the colonizer leaves? Cabral's answer was the **petty bourgeoisie**: the educated layer of clerks, officials and professionals. It is the only group that knows how to run the inherited state, but it owns no means of production of its own [^wot].
 
 So it faces a choice: grow into a new bourgeoisie, or take the harder road:
 
@@ -124,4 +124,4 @@ Cabral, speaking from Guinea, pushed the revision further. Those who call class 
 
 > "if class struggle is the motive force of history, it is so only in a specific historical period." [^wot]
 
-For him this made Marxism stronger: it gave classless peoples a place in history, and gave socialist societies a history after classes disappear. [^wot]
+For him this made Marxism stronger: it gave classless peoples a place in history, and gave socialist societies a history after classes disappear [^wot].

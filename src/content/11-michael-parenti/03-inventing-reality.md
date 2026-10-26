@@ -20,7 +20,7 @@ quiz:
     options:
       - It is random, the result of deadlines and honest mistakes
       - It favors whichever party is out of power
-      - It moves in consistent directions, favoring management, corporations, officialdom and U.S. dominance
+      - It leans consistently toward corporations, officialdom and US dominance
       - It mostly favors radicals, because reporters are liberal
     answer: 2
     explain: Parenti accepted that honest mistakes happen, but argued they cannot explain the pattern. The errors keep leaning the same way, toward the interests of the powerful.
@@ -28,36 +28,36 @@ quiz:
   - q: How did the major media respond when the San Jose Mercury News series on CIA-linked crack shipments spread in 1996?
     options:
       - They ignored it completely, and the story died
-      - They launched an all-out assault to discredit the story and its reporter
-      - They ran follow-up investigations confirming it
-      - They demanded a congressional inquiry
+      - They mounted an all-out attack to discredit the story and its reporter
+      - They ran follow-up investigations of their own that confirmed it
+      - They demanded a congressional inquiry into the CIA
     answer: 1
     explain: Omission failed once the story spread on the Internet and in Black communities. The press then moved to frontal attack, Parenti's second method of suppression.
     card: 2
   - q: What labels does Parenti say we will never be exposed to in the mainstream media?
     options:
       - Class power, class struggle and U.S. imperialism
-      - Free market and reform
-      - Hardliner and terrorist
-      - Stability and national security
+      - Free market, reform and democracy
+      - Hardliner, terrorist and extremist
+      - Stability, national security and growth
     answer: 0
     explain: Labels like 'reform' and 'hardliner' frame stories for us. The labels that would name the system itself never appear.
     card: 3
   - q: What is false balancing?
     options:
-      - Giving equal airtime to every political party
-      - Presenting a massacre and its victims' resistance as an equal two-sided fight
-      - Correcting errors in a later edition
+      - Giving equal airtime to every party and candidate in an election
+      - Treating a massacre and its victims' resistance as an equal two-sided fight
+      - Correcting errors in a later edition of the paper
       - Hiring both liberal and conservative columnists
     answer: 1
     explain: The BBC described East Timor as having violence on both sides, hiding an invasion that killed some 200,000 Timorese. Appearing neutral distorted the story.
     card: 4
   - q: According to Parenti, the most effective propaganda relies on what?
     options:
-      - Outright lies
-      - Censorship laws
+      - Outright lies repeated often enough
+      - Censorship laws enforced by the state
       - Framing rather than falsehood
-      - Celebrity endorsements
+      - Paid advertising placed by the government
     answer: 2
     explain: '"The most effective propaganda relies on framing rather than on falsehood." Emphasis, placement and tone shape the story without open advocacy.'
     card: 5

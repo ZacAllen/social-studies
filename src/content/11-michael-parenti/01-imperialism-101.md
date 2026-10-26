@@ -24,17 +24,17 @@ sources:
 quiz:
   - q: How does Parenti define imperialism?
     options:
-      - Any use of military force by a large country
-      - The spread of one nation's culture and language abroad
-      - The dominant interests of one nation expropriating another people's land, labor, raw materials and markets for their own enrichment
-      - The desire of leaders for power and prestige for their own sake
+      - Any use of military force by a large country abroad
+      - The spread of one nation's culture, language and religion to other peoples
+      - One nation's dominant interests seizing another people's land, labor and resources
+      - The pursuit by leaders of power and national prestige for their own sake
     answer: 2
     explain: Parenti ties imperialism to material gain. Empires are not about power for its own sake but about taking the wealth and labor of other peoples.
     card: 2
   - q: Is imperialism strictly necessary for capitalism to survive, according to Parenti?
     options:
       - Yes, capitalism would collapse within a year without colonies
-      - Perhaps not, but it is the most lucrative way to pursue profits, so capitalists pursue it
+      - Perhaps not, but it is the most lucrative way to pursue profits
       - No, imperialism is only a political mistake by individual leaders
       - No, because most capital is invested in poor countries
     answer: 1
@@ -43,9 +43,9 @@ quiz:
   - q: What does Parenti say British rule did to India?
     options:
       - It ended India's development, then forcibly underdeveloped the country
-      - It brought India out of an original state of poverty
+      - It brought India out of an original state of poverty and stagnation
       - It left India's economy largely untouched
-      - It built India's textile industry from nothing
+      - It built India's textile industry from nothing with British capital
     answer: 0
     explain: In 1810 India exported more textiles to England than it imported. British tariffs and dumping reversed that, and Parenti concludes that underdevelopment was imposed, not original.
     card: 4
@@ -61,8 +61,8 @@ quiz:
   - q: What is a comprador class?
     options:
       - A class of small farmers who resist foreign investors
-      - A local class that cooperates in turning its own country into a client state for foreign interests
-      - The officials of a colonial administration sent from Europe
+      - A local class that helps make its own country a client state for foreigners
+      - The officials of a colonial administration sent out from Europe to rule
       - A class of workers employed by transnational corporations
     answer: 1
     explain: Under neoimperialism, foreign capital rules through a local elite. That elite is well rewarded for keeping the country open to foreign investors on favorable terms.

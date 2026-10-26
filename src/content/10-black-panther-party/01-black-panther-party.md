@@ -36,10 +36,10 @@ quiz:
     card: 1
   - q: Why did armed Panthers go to the California state Capitol in May 1967?
     options:
-      - To demand Huey Newton's release from prison
-      - To protest the Mulford Act, a bill to ban carrying loaded guns in public
-      - To present the Ten-Point Program to the governor
-      - To register Black voters
+      - To demand Huey Newton's release from the Alameda County jail
+      - To protest the Mulford Act, a bill to ban carrying loaded guns
+      - To present the Ten-Point Program to Governor Ronald Reagan
+      - To register Black voters at the state Capitol
     answer: 1
     explain: Bobby Seale read out Newton's Executive Mandate No. 1, which called on Black people to arm themselves before the Mulford Act passed.
     card: 1
@@ -63,10 +63,10 @@ quiz:
     card: 4
   - q: What role did the FBI play in the 1971 split between Newton and Eldridge Cleaver?
     options:
-      - None; it learned of the split from the newspapers
-      - It tried to reconcile the two leaders
-      - It worked to drive a wedge between them, then declared the split a success
-      - It arrested Cleaver to end the dispute
+      - None; it learned of the split from the newspapers like everyone
+      - It tried quietly to reconcile the two leaders through intermediaries
+      - It worked to drive a wedge between them, then called the split a success
+      - It arrested Cleaver in Algeria to end the dispute
     answer: 2
     explain: From 1970 the FBI sent letters written to look as if they came from Party members, then declared the differences irreconcilable.
     card: 5

@@ -19,46 +19,46 @@ sources:
 quiz:
   - q: Why did Castro conduct his own defense at the Moncada trial?
     options:
-      - He wanted to save money on a lawyer
-      - His lawyer was kept from seeing him, so he used his right as a lawyer to defend himself
-      - The court refused to let anyone else speak
-      - He had already been convicted and was only allowed a statement
+      - He wanted to spare his family the cost of a lawyer
+      - His lawyer was barred from him, so he defended himself
+      - The court refused to let any lawyer speak for him
+      - He had been convicted already and was allowed a statement
     answer: 1
     explain: The lawyer appointed to defend him was barred from meeting him in private. Castro, himself a lawyer, took over his own defense and turned it into an indictment of the regime.
     card: 1
   - q: How did Castro answer Batista's claim that the rebels had been financed by an ex-president?
     options:
-      - He admitted the money but said it was a loan
-      - He said the funds came from the Soviet Union
-      - He showed they had armed 165 men on less than 20,000 pesos raised by their own sacrifices
-      - He refused to discuss money at all
+      - He admitted the money, but said it had been a loan
+      - He said the funds had come from the Communist Party
+      - He showed 165 men had been armed on under 20,000 pesos of their own
+      - He refused to discuss the movement's money in front of the court
     answer: 2
     explain: Castro stressed that the movement had no link with the old politicians. Its members sold jobs, tools and savings to pay for it.
     card: 2
   - q: Who did Castro mean by 'the people' in his speech?
     options:
-      - Everyone in Cuba, rich and poor alike
-      - The conservative elements who welcome any regime
-      - The unemployed, farm laborers, workers, small farmers, teachers and young professionals
-      - Only the members of his own movement
+      - Everyone in Cuba, rich and poor alike, as one nation
+      - The conservative classes who welcome any regime that keeps order
+      - The unemployed, farm laborers, workers, small farmers and teachers
+      - Only the members and backers of his own movement
     answer: 2
     explain: He named the 'vast unredeemed masses' who suffered under the existing order and so had a reason to fight. The comfortable classes, he said, welcome any dictatorship.
     card: 3
   - q: What did the second of the five revolutionary laws promise?
     options:
-      - Ownership of the land to tenant farmers, sharecroppers and squatters on small plots
-      - The nationalization of all industry
-      - Free elections within six months
+      - Land to tenant farmers, sharecroppers and squatters on small plots
+      - The nationalization of all industry and the banks
+      - Free elections to a new congress within six months of victory
       - The return of the old Constitution of 1901
     answer: 0
     explain: Tenants and squatters on five caballerías or less would own their land, and former owners would be compensated. The program aimed at the land problem first.
     card: 4
   - q: What economic problem did Castro sum up with "We export sugar to import candy"?
     options:
-      - Cuba produced too much candy
-      - Cuba sold raw materials abroad and bought back finished goods, so it never industrialized
-      - Cuba's sugar was too expensive to sell
-      - Cuba had no trade with other countries
+      - Cuba made more candy than it could ever sell
+      - It sold raw materials and bought back finished goods
+      - Cuban sugar cost too much to sell abroad
+      - Cuba had too little trade with other countries
     answer: 1
     explain: Castro described Cuba as primarily a producer of raw materials. A revolutionary government would industrialize instead of waiting on a few big businessmen.
     card: 5

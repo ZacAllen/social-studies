@@ -22,17 +22,17 @@ quiz:
     card: 1
   - q: Following Engels, what did Sankara see as the origin of women's subjugation?
     options:
-      - Natural differences in physical strength
-      - The influence of foreign religions
-      - Technological progress as such
+      - Natural differences in physical strength between the sexes
+      - The influence of foreign religions on African customs
+      - Technological progress as such, which sidelined women
       - The rise of private property, which made man the woman's master
     answer: 3
     explain: Sankara argued it was not biology or technology but the transition to a new form of society, with private property and the patriarchal family, that institutionalized women's inequality.
     card: 2
   - q: Why did Sankara insist women face a specific oppression, beyond class exploitation?
     options:
-      - Because the oppressed man still has another human being to oppress, his wife
-      - Because women were not exploited at work
+      - Because the oppressed man still has his wife to oppress
+      - Because women were not exploited at work like men
       - Because class did not matter in Burkina Faso
       - Because feminism had already solved the class question
     answer: 0
@@ -41,16 +41,16 @@ quiz:
   - q: What did Sankara say about the Ministry of Women created by earlier regimes?
     options:
       - It had liberated the women of the towns
-      - It should be given control of the army
+      - It had done more for women than any other ministry
       - After several years nothing had changed for the women of Burkina
-      - It was the model for the revolution's own policy
+      - It was the model for the revolution's own policy on women
     answer: 2
     explain: He argued that women's conditions came from the whole social and economic structure, so they could not be changed by a single ministry, even one led by a woman.
     card: 4
   - q: What did Sankara mean by comparing a development project without women to "using only four fingers when we have ten"?
     options:
       - That women should only do light work
-      - That every plan must include women's participation, or it invites failure
+      - That every plan must include women, or it invites failure
       - That women make up four-tenths of the population
       - That development projects need more foreign experts
     answer: 1

@@ -32,10 +32,10 @@ sources:
 quiz:
   - q: Why did Stalin say in 1931 that the pace of industrialization could not be slowed?
     options:
-      - Because the plan had already been overfulfilled
-      - Because the country was fifty or a hundred years behind the advanced countries and had ten years to catch up
-      - Because foreign investors demanded fast returns
-      - Because the peasants were asking for more factories
+      - Because the plan had already been overfulfilled in industry
+      - Because it was 50 to 100 years behind and had ten years to catch up
+      - Because foreign investors demanded fast returns on their loans
+      - Because the peasants were pressing for more factories
     answer: 1
     explain: Stalin argued that old Russia had been beaten again and again because of its backwardness. Catching up fast was, for him, a matter of survival.
     card: 1
@@ -68,9 +68,9 @@ quiz:
     card: 5
   - q: Whom did Stalin hold responsible for the failures of grain procurement in January 1933?
     options:
-      - The peasants
-      - Foreign spies
-      - The weather alone
+      - The peasants who hid their grain
+      - Foreign spies and saboteurs
+      - Bad weather and drought
       - The Communists
     answer: 3
     explain: Stalin said the peasants were not to blame at all and that the Communists alone were to blame.
@@ -121,7 +121,7 @@ How should socialists judge this? At the time, Stalin rejected the habit of blam
 
 > "The peasants are not to blame at all. If we are to speak of responsibility and blame, then the responsibility falls wholly upon the Communists, and we Communists alone are to blame for all this." [^rural]
 
-Yet the famine itself became a taboo topic in the Soviet era [^free]. Judged by the voluntary principle the party itself had proclaimed, the coercion of these years was a grave error, and the peasantry paid for it in millions of lives [^dizzy].
+Yet the famine itself became a taboo topic in the Soviet era [^free]. Judged by the voluntary principle the party itself had proclaimed, the coercion of these years was a grave error [^dizzy], and the peasantry paid for it in millions of lives [^free].
 
 ---
 

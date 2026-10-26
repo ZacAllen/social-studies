@@ -24,34 +24,34 @@ quiz:
       - That victory will come within a few years
       - That death is imminent, because what he says and does is dangerous
       - That the party must stay secret from the start
-      - That the masses will follow any leader with a gun
+      - That the masses will follow any leader who carries a gun
     answer: 1
     explain: Newton wrote that without this realization it is impossible to proceed as a revolutionary. The idea later grew into revolutionary suicide.
     card: 2
   - q: What did Newton mean by reactionary suicide?
     options:
-      - Dying in battle against the police
-      - Killing oneself, in body or in spirit, because oppressive conditions have crushed all hope
+      - Dying in a gun battle against the police
+      - Giving up, in body or spirit, under conditions that crush all hope
       - Leaving the Party to join a rival group
-      - Refusing to cooperate with prison authorities
+      - Refusing to cooperate with prison authorities after an arrest
     answer: 1
     explain: Reactionary suicide is surrender to conditions that condemn a person to helplessness. Newton included the spiritual death of those who stop fighting oppression.
     card: 3
   - q: Did revolutionary suicide mean a wish to die?
     options:
-      - Yes; martyrdom was the goal
-      - Yes; but only for the Party's leaders
-      - No; it meant such a strong desire to live with dignity that one resists even at the risk of death
+      - Yes; martyrdom was the goal of every true revolutionary
+      - Yes, but only for the Party's top leaders, who faced the most danger
+      - No; it meant a will to live with dignity, even at the risk of death
       - No; it meant avoiding all danger in order to survive
     answer: 2
     explain: Newton said it meant just the opposite of a death wish. The revolutionary opposes the forces that would drive him to self-murder, accepting the risk.
     card: 4
   - q: Why did Newton say the Panthers had to call themselves intercommunalists?
     options:
-      - Because the Party had chapters in many cities
-      - Because U.S. empire had turned the world's nations into communities it dominated
-      - Because the United Nations had recognized Black communities
-      - Because they rejected Marxism
+      - Because the Party had chapters in many cities and countries
+      - Because US empire had reduced nations to communities it dominated
+      - Because the UN had recognized Black communities as nations
+      - Because they had rejected Marxism as outdated for America
     answer: 1
     explain: Newton argued that nations no longer had real independence. The goal became revolutionary intercommunalism, with the world's wealth shared among its communities.
     card: 5

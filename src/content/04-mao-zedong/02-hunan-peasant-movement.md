@@ -19,28 +19,28 @@ sources:
 quiz:
   - q: How did Mao gather the material for his report?
     options:
-      - From Kuomintang newspapers in the cities
-      - From Communist International instructions
-      - From thirty-two days of fact-finding meetings with peasants and organizers in five counties
+      - From Kuomintang newspaper reports in the cities
+      - From instructions sent by the Communist International
+      - From thirty-two days of fact-finding meetings in five counties
       - From a census taken by the provincial government
     answer: 2
     explain: Mao called fact-finding conferences in villages and county towns and listened to experienced peasants and movement workers.
     card: 1
   - q: How did Mao answer the gentry's cry that the peasant uprising was "terrible"?
     options:
-      - He agreed but called it unavoidable
-      - He called it fine, because the peasants were overthrowing feudal power
-      - He said the reports were exaggerated
-      - He urged the peasants to slow down
+      - He agreed, but called it unavoidable in a revolution
+      - He called it fine, because peasants were overthrowing feudal power
+      - He said the reports of violence were exaggerated by the gentry
+      - He urged the peasants to slow down and win over the small landlords
     answer: 1
     explain: "'It's terrible!' was the landlords' theory. Mao answered that the peasants were overthrowing the feudal landlord class, which made the movement fine."
     card: 3
   - q: Why did Mao reject the charge that the peasants were "going too far"?
     options:
       - Because the peasants had in fact done nothing violent
-      - Because a revolution is an act by which one class overthrows another, and centuries of landlord power could not be broken gently
-      - Because the Kuomintang had ordered it
-      - Because the landlords had already fled
+      - Because a revolution is one class overthrowing another
+      - Because the Kuomintang had ordered the uprising
+      - Because the landlords had already fled the villages
     answer: 1
     explain: Mao argued that the landlords had driven the peasants to it, and that only a mighty upsurge could break their power.
     card: 4
@@ -55,10 +55,10 @@ quiz:
     card: 5
   - q: How did Chen Duxiu later explain the party's policy of restraining the peasants in 1927?
     options:
-      - He denied there had been any such policy
-      - He said it was Mao's idea
-      - He admitted it, but traced the policy back to the Communist International's leaders
-      - He said the peasants had wanted it
+      - He denied there had ever been any such policy
+      - He said the policy had been Mao's own idea
+      - He admitted it, but blamed the Communist International's leaders
+      - He said the peasants themselves had asked the party for restraint
     answer: 2
     explain: Chen called the policy shameful, and said he had carried out the opportunist line of the International's leaders.
     card: 7

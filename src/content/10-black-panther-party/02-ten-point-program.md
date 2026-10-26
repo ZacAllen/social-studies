@@ -28,28 +28,28 @@ sources:
 quiz:
   - q: How is each point of the Ten-Point Program built?
     options:
-      - A slogan followed by a list of enemies
+      - A slogan followed by a list of the people's enemies
       - A demand ('We want') followed by the reasons for it ('We believe')
       - A quotation from Mao followed by a commentary
-      - A law to be passed followed by a deadline
+      - A law to be passed followed by a deadline for passing it
     answer: 1
     explain: Each point pairs a short demand with a paragraph of reasons. The first point's belief, that Black people will not be free until they determine their own destiny, frames the rest.
     card: 1
   - q: What did the Program say should happen if businessmen would not provide full employment?
     options:
-      - The government should pay the businessmen to hire more workers
-      - Black workers should move to other cities
-      - The means of production should be taken from the businessmen and placed in the community
-      - Unions should negotiate a new contract
+      - The government should pay businessmen to hire more workers
+      - Black workers should move to cities with more jobs
+      - The means of production should be taken and placed in the community
+      - Unions should strike until a new contract was won
     answer: 2
     explain: The Program held that if private business would not employ the people, the community itself should own the means of production and organize work for all.
     card: 2
   - q: Why did the Program demand that Black men be exempt from military service?
     options:
-      - Because they should not fight other people of color who were victims of the same racist government
-      - Because the army paid too little
-      - Because Black men were needed at home to run the survival programs
-      - Because the Constitution forbids drafting Black men
+      - They should not fight other people of color oppressed by the same government
+      - The army paid Black soldiers less than white ones of the same rank
+      - Black men were needed at home to run the Party's survival programs
+      - The Constitution forbade drafting men who could not vote
     answer: 0
     explain: Point six said Black people should not defend a government that did not protect them, or kill other people of color oppressed by that same government.
     card: 3
@@ -64,10 +64,10 @@ quiz:
     card: 4
   - q: In 1970, what did Newton call the Ten-Point Program?
     options:
-      - A blueprint for a separate Black nation
+      - A blueprint for a separate Black nation in the South
       - A survival program, neither revolutionary in itself nor reformist
-      - A list of reforms to win from Congress
-      - A program for the trade unions
+      - A list of reforms to win from Congress by lobbying
+      - A program for the trade unions and the unemployed
     answer: 1
     explain: Newton compared it to a survival kit that would keep the people alive and organized until a total transformation of society was possible.
     card: 6

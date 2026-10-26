@@ -19,10 +19,10 @@ sources:
 quiz:
   - q: At what occasion did Mao give the speech Serve the People?
     options:
-      - The founding of the People's Republic
-      - A memorial meeting for Zhang Side, a soldier killed in a kiln collapse
-      - The opening of a party congress
-      - A victory rally after the war with Japan
+      - The founding of the People's Republic in Beijing
+      - A memorial for Zhang Side, a soldier killed when a kiln collapsed
+      - The opening session of a party congress in Yan'an
+      - A victory rally in Yan'an after the surrender of Japan
     answer: 1
     explain: Zhang Side, a Long March veteran in the Central Committee's Guards Regiment, died making charcoal in northern Shaanxi in September 1944.
     card: 1
@@ -37,19 +37,19 @@ quiz:
     card: 2
   - q: Why are the Communists not afraid of having their shortcomings pointed out?
     options:
-      - Because they have none
-      - Because only party members may criticize them
-      - Because they serve the people, so they correct what is wrong whoever points it out
-      - Because criticism has no effect
+      - Because they have no shortcomings worth mentioning
+      - Because only party members are allowed to criticize them
+      - Because serving the people means fixing faults whoever points them out
+      - Because criticism from outsiders carries no weight
     answer: 2
     explain: Mao cited a suggestion by Li Dingming, a non-Communist landlord, which the party adopted because it benefited the people.
     card: 3
   - q: What did Mao praise in Norman Bethune?
     options:
-      - His wealth
+      - His wealth and generosity to the party
       - His utter devotion to others without any thought of self
-      - His military command
-      - His writings on philosophy
+      - His skill in commanding guerrilla troops in battle
+      - His writings on Marxist philosophy and medicine
     answer: 1
     explain: Bethune, a Canadian Communist surgeon, came to China to help in the war against Japan and died of blood poisoning contracted while operating.
     card: 5
@@ -57,8 +57,8 @@ quiz:
     options:
       - The Communist International
       - The masses of the Chinese people
-      - The Kuomintang
-      - Heaven
+      - The Kuomintang government
+      - Heaven and the ancestors
     answer: 1
     explain: The two mountains are imperialism and feudalism. If the people dig together with the party, Mao said, the mountains can be cleared away.
     card: 6

@@ -31,46 +31,46 @@ sources:
 quiz:
   - q: Who was Wage Labour and Capital written for?
     options:
-      - Professional economists
+      - Professional economists and their students
       - Workers with no knowledge of political economy
       - Members of the Prussian parliament
-      - University students of philosophy
+      - Philosophy students at German universities
     answer: 1
     explain: Marx promised not to presuppose even the most elementary notions of political economy, because he wanted to be understood by the workers.
     card: 1
   - q: Why, according to Marx, are wages not a share of what the worker produces?
     options:
-      - Because the capitalist pays them out of money already on hand, as the price of labor-power
-      - Because the state sets them by law
-      - Because workers are paid only after the product is sold
-      - Because wages are a gift from the employer
+      - Because they are the price of labor-power, paid from capital on hand
+      - Because the state fixes them by law, whatever the worker produces
+      - Because they are paid only once the finished product has been sold
+      - Because the employer grants them as a gift, not as a payment
     answer: 0
     explain: The weaver is paid before the cloth is sold, perhaps before it is finished. The capitalist buys labor-power just as he buys yarn and looms.
     card: 2
-  - q: What does Marx mean when he says the free labourer sells his very self by fractions?
+  - q: What does Marx mean when he says the free laborer sells his very self by fractions?
     options:
-      - He sells shares in his own business
-      - He is sold once and for all, like a slave
+      - He sells shares in his own small business, piece by piece
+      - He is sold once and for all to one owner, like a slave
       - He auctions off hours of his life, day after day, to whoever buys them
-      - He hands a fixed tribute to a landlord, like a serf
+      - He hands a fixed part of his harvest to a lord, like a serf
     answer: 2
     explain: Unlike the slave or the serf, the wage worker sells his working hours piece by piece. He can leave one boss but not the whole capitalist class.
     card: 3
   - q: When does a cotton-spinning machine become capital?
     options:
-      - As soon as it is built
-      - When it is made of expensive materials
-      - When it spins more than a worker by hand
-      - Only under certain social conditions, when it commands living labour
+      - As soon as it is built and set up in a factory
+      - When it is made of costly materials and holds great value
+      - When it spins more yarn than a worker can by hand
+      - Only under certain social conditions, when it commands living labor
     answer: 3
-    explain: Capital is a social relation. Machines become capital when living labour serves accumulated labour to multiply its value.
+    explain: Capital is a social relation. Machines become capital when living labor serves accumulated labor as a means of multiplying its value.
     card: 4
   - q: What does the image of the little house beside a palace show?
     options:
-      - That workers should not envy the rich
-      - That wages are relative, so a worker can fall further behind even when pay rises
-      - That housing is the main cause of poverty
-      - That growth always benefits everyone equally
+      - That workers should stop envying the rich and be content
+      - That wages are relative, so a worker can fall behind even as pay rises
+      - That housing costs are the main cause of the worker's poverty
+      - That growth benefits everyone, so the gap between classes closes
     answer: 1
     explain: Our needs are social, so we measure them against society. If profits rise faster than wages, the social chasm between worker and capitalist widens.
     card: 5

@@ -28,9 +28,9 @@ sources:
 quiz:
   - q: What lesson did Marx draw from the Paris Commune of 1871?
     options:
-      - That workers should win a majority in parliament first
+      - That workers should first win a majority in parliament
       - That the working class cannot simply take over the ready-made state machine
-      - That a revolution should begin in the countryside
+      - That a revolution should begin in the countryside and surround the cities
       - That the army must stay neutral in a revolution
     answer: 1
     explain: The old state was built to serve the exploiters. The Commune showed that the workers must break it up and replace it with a state of their own.
@@ -39,35 +39,35 @@ quiz:
     options:
       - Officials elected, subject to recall, and paid workmen's wages
       - Higher salaries to attract the best administrators
-      - A two-chamber parliament
-      - Lifetime appointment for judges
+      - A two-chamber parliament with an upper house
+      - Lifetime appointment of judges and officials
     answer: 0
     explain: Election, recall and ordinary wages strip officials of privilege and keep them answerable to the working people.
     card: 2
   - q: What did Lenin want representative institutions to become?
     options:
-      - Advisory councils to the government
-      - Talking shops for every party
+      - Advisory councils that counsel the ministries
+      - Open forums where every party can debate
       - Working bodies that both make and carry out laws
-      - Courts that check the executive
+      - Courts that check the power of the executive
     answer: 2
     explain: Bourgeois parliaments talk while the real business is done by ministries and officials. Lenin wanted elected bodies that work and answer for the results.
     card: 3
   - q: What did Lenin, following Marx, say would be the rule of the higher phase of communism?
     options:
-      - To each according to his work
+      - To each according to his work, as in the first phase of socialism
       - From each according to his ability, to each according to his needs
-      - Equal pay for every citizen forever
+      - Equal pay for every citizen, whatever the job
       - He who does not work, neither shall he eat
     answer: 1
     explain: In the first phase, usually called socialism, people are paid according to their work. Only in the higher phase can society give to each according to need, and only then does the state wither away completely.
     card: 4
   - q: What did Kautsky argue against Bolshevik rule in 1918?
     options:
-      - That the Bolsheviks had moved too slowly
+      - That the Bolsheviks had moved too slowly against the landlords
       - That dictatorship as a form of government meant disarming the opposition
-      - That the Soviets should take power
-      - That Russia should stay in the war
+      - That the Soviets should take all state power
+      - That Russia should stay in the war on the Allied side
     answer: 1
     explain: Kautsky defended 'democracy' against 'dictatorship'. Lenin answered that proletarian democracy was "a million times more democratic" than any bourgeois democracy.
     card: 6

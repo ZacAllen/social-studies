@@ -31,7 +31,7 @@ quiz:
     options:
       - A general strike in the capital forced the president to resign
       - An election brought the National Council of the Revolution to power
-      - Soldiers led by Blaise Compaoré marched on the capital and overthrew the Ouédraogo regime
+      - Soldiers led by Blaise Compaoré marched on the capital and took power
       - A peasant army captured the capital after a long guerrilla war
     answer: 2
     explain: Compaoré marched on Ouagadougou with 250 men after the May coup that had jailed Sankara. That night Sankara spoke on the radio as president of the new National Council of the Revolution.
@@ -39,36 +39,36 @@ quiz:
   - q: What were the Committees for the Defense of the Revolution (CDRs)?
     options:
       - Grassroots committees through which people took part in the revolution
-      - Military courts that tried coup plotters
-      - Branches of a single legal political party
-      - Foreign advisers sent by Cuba
+      - Military courts that tried coup plotters and officials
+      - Local branches of a single legal political party
+      - Teams of foreign advisers and doctors sent from Cuba and Ghana
     answer: 0
     explain: The National Council of the Revolution called on people to form CDRs everywhere. They organized the mass campaigns for vaccination, literacy, building and tree planting.
     card: 2
   - q: What did Sankara say in May 1984 about the dismissal of 1,400 teachers?
     options:
-      - That none of the dismissals would ever be reviewed
-      - That the teachers had been dismissed by mistake and would all return at once
-      - That he regretted the whole decision
-      - That "Some decisions were not thoroughly analyzed", and an office would reexamine the cases
+      - That none of the dismissals would ever be reviewed by anyone
+      - That the teachers had been dismissed by mistake and would return at once
+      - That he regretted the whole decision and would reverse it
+      - That some decisions were not thoroughly analyzed, and cases would be reviewed
     answer: 3
     explain: Sankara defended the move against what he saw as union destabilization, but he admitted errors and announced a review of the cases.
     card: 4
   - q: How did Sankara die?
     options:
-      - He was killed with 12 other officials in a coup led by Blaise Compaoré on October 15, 1987
+      - He was killed with 12 others in a coup led by Blaise Compaoré in 1987
       - He died in the border war with Mali in December 1985
       - He was executed after a trial by the National Council of the Revolution
-      - He was killed by French troops during an invasion
+      - He was killed by French troops during an invasion in 1987
     answer: 0
     explain: Compaoré, his friend and comrade-in-arms, seized power and ruled until 2014. In 2022 a military court sentenced Compaoré to life in absentia for the murder.
     card: 5
   - q: What did the Union of Communists of Burkina call for in the months before the coup?
     options:
-      - Free multiparty elections
-      - Closer ties with France
-      - A tougher line against internal dissenters and a more administrative approach
-      - Handing power to the trade unions
+      - Free multiparty elections within a year
+      - Closer economic and military ties with France and the West
+      - A tougher line on internal dissenters, enforced administratively
+      - Handing state power to the trade unions and their federations
     answer: 2
     explain: Sankara, by contrast, tried to draw people into the revolution through discussion, organization and education, by consent rather than administrative force.
     card: 7

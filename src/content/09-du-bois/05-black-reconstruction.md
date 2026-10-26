@@ -45,15 +45,15 @@ quiz:
       - A carpetbagger regime
       - A planters' republic
       - A dictatorship of labor
-      - A constitutional monarchy
+      - A military occupation by the North
     answer: 2
     explain: Du Bois called it "one of the most extraordinary experiments of Marxism that the world, before the Russian revolution, had seen."
     card: 3
   - q: What was the "public and psychological wage"?
     options:
       - Social privileges given to white workers in place of decent pay
-      - Pensions paid to Union veterans
-      - Wages paid to freedpeople in scrip
+      - Pensions paid to Union army veterans and their widows
+      - Wages paid to freedpeople in company scrip
       - The higher salaries of Northern workers
     answer: 0
     explain: White workers received deference, better schools and leniency from police and courts. The result was that "the wages of both classes could be kept low."

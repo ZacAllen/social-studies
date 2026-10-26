@@ -31,7 +31,7 @@ sources:
 quiz:
   - q: What did Lenin say the self-determination of nations means?
     options:
-      - Cultural autonomy inside the existing state
+      - Cultural autonomy for each nation inside the existing state
       - The right to separate and form an independent national state
       - Equal rights for every language in schools
       - Rule by the majority nation over the minorities
@@ -42,7 +42,7 @@ quiz:
     options:
       - Because Russia had already completed its bourgeois revolution
       - Because the Great Russians were a small minority of the empire
-      - Because subject peoples were a majority of the population and were harshly oppressed
+      - Because subject peoples were a harshly oppressed majority
       - Because the Tsar had promised independence to every nation
     answer: 2
     explain: Non-Russian 'subject peoples' made up 57 percent of the empire. Their oppression was harsher than in neighboring states, and the age of national revolutions in the East had only begun in 1905.
@@ -50,9 +50,9 @@ quiz:
   - q: Which part of an oppressed nation's nationalism did Lenin say Marxists unconditionally support?
     options:
       - Its general democratic content directed against oppression
-      - Its demand for privileges over other nations
-      - Its bourgeoisie's right to rule the workers
-      - Its claim to national exclusiveness
+      - Its demand for privileges over neighboring nations
+      - Its bourgeoisie's right to rule over its own workers
+      - Its claim to national exclusiveness and purity
     answer: 0
     explain: Marxists back the fight against oppression, but oppose the oppressed nation's own bourgeoisie whenever it seeks privileges, for example the Polish bourgeoisie's oppression of the Jews.
     card: 3
@@ -60,17 +60,17 @@ quiz:
     options:
       - He said separatism was always progressive
       - He compared it to saying that freedom of divorce destroys family ties
-      - He promised that no nation would ever use the right
-      - He said the question should wait until after socialism
+      - He promised that no nation would ever actually use the right
+      - He said the question should wait until after the socialist revolution
     answer: 1
     explain: Freedom of divorce does not break up families; it puts them on a democratic basis. In the same way, nations secede only when oppression makes life together intolerable.
     card: 4
   - q: What lesson did Lenin draw from Norway's separation from Sweden in 1905?
     options:
-      - That secession always leads to war
-      - That small nations cannot survive alone
-      - That the Swedish workers' support for Norway's right to secede strengthened workers' unity
-      - That the Norwegian workers should have opposed independence
+      - That secession always leads to war between the neighbors concerned
+      - That small nations cannot survive alone in Europe
+      - That backing Norway's right to secede united Swedish and Norwegian workers
+      - That Norway's workers should have opposed independence
     answer: 2
     explain: The Swedish workers recognized Norway's right to leave. That convinced the Norwegian workers they were not infected with Swedish nationalism, and the two working classes grew closer.
     card: 5

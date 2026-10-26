@@ -34,17 +34,17 @@ quiz:
     card: 2
   - q: What happens in the leap from perceptual to rational knowledge?
     options:
-      - Impressions of separate aspects of things are reworked into concepts that grasp their essence and internal relations
-      - Knowledge stops depending on experience
-      - The senses are replaced by revelation
-      - Theory is abandoned for practice
+      - Separate impressions are reworked into concepts that grasp a thing's essence
+      - Knowledge stops depending on experience and rests on pure reason
+      - The senses are corrected by the authority of books
+      - Theory is abandoned, and practice alone guides action
     answer: 0
     explain: Repeated impressions lead to a leap in which concepts, judgements and inferences grasp the essence of a thing.
     card: 3
   - q: How, according to Mao, do you come to know the taste of a pear?
     options:
-      - By reading about pears
-      - By asking an expert
+      - By reading a description of pears
+      - By asking an expert who has eaten one
       - By changing the pear by eating it yourself
       - By reasoning from first principles
     answer: 2
@@ -52,10 +52,10 @@ quiz:
     card: 4
   - q: Why does Mao call the leap from theory back to practice the more important one?
     options:
-      - Because theory has no value
-      - Because only practice can test whether theory is true, and the point is to change the world
-      - Because practice is easier than theory
-      - Because the party leadership demands it
+      - Because theory has no value of its own at all
+      - Because only practice tests theory, and the point is to change the world
+      - Because practice is easier to master than theory, so it comes first
+      - Because the party leadership demands quick results from its cadres
     answer: 1
     explain: Theory matters because it guides action. Its truth is settled only by applying it and seeing whether it achieves the objectives in mind.
     card: 5

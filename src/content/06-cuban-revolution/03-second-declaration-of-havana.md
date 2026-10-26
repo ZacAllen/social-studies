@@ -19,26 +19,26 @@ sources:
 quiz:
   - q: What event did the Second Declaration of Havana answer?
     options:
-      - The Bay of Pigs invasion
+      - The Bay of Pigs invasion of April 1961
       - Cuba's expulsion from the Organization of American States
-      - The death of Che Guevara
-      - The Cuban Missile Crisis
+      - The death of Che Guevara in Bolivia
+      - The US trade embargo announced in February 1962
     answer: 1
     explain: At Punta del Este, the foreign ministers of the Americas expelled Cuba from the OAS. The Declaration called the OAS a 'Yankee Ministry of Colonies'.
     card: 1
   - q: According to the Declaration, what do the imperialists really fear?
     options:
-      - A Cuban invasion of the United States
-      - The Soviet missiles in Cuba
+      - A Cuban attack on US bases in the Caribbean
+      - The Soviet missiles and troops based in Cuba
       - The Latin American revolution, of which Cuba is an example
-      - The loss of their sugar supply
+      - The loss of their sugar plantations and nickel mines in Cuba
     answer: 2
     explain: The Declaration said that what explains the campaign against Cuba is "fear of the Latin American revolution", the fear that the peoples of the continent will follow Cuba's example.
     card: 2
   - q: How did the Declaration answer the charge that Cuba exports revolution?
     options:
-      - It admitted sending arms across the continent
-      - It said revolutions are made by the people, and what Cuba gives is its example
+      - It admitted sending arms to movements across the continent
+      - It said revolutions are made by peoples, and Cuba gives its example
       - It promised to stop supporting other movements
       - It said only the Soviet Union could export revolution
     answer: 1
@@ -56,7 +56,7 @@ quiz:
   - q: What did Salvador Allende propose that put him in debate with the Declaration's line?
     options:
       - That Chile should join the OAS's sanctions against Cuba
-      - That socialism could be built in Chile through elections, Congress and the existing institutions
+      - That Chile could reach socialism through elections and Congress
       - That Chile should begin a guerrilla war in the Andes
       - That the peasants should lead the revolution without the workers
     answer: 1

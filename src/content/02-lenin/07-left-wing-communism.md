@@ -40,46 +40,46 @@ sources:
 quiz:
   - q: According to Lenin, what made it possible for the Bolsheviks to hold power for two and a half years?
     options:
-      - Foreign loans and food aid
-      - The most rigorous, iron discipline in the party, backed by the mass of the working class
-      - A large professional army inherited from the Tsar
-      - The support of the liberal parties
+      - Foreign loans and food aid from the neutral powers
+      - Iron discipline in the party, backed by the mass of the workers
+      - A large professional army inherited from the Tsar's officer corps
+      - The backing of the liberal and peasant parties
     answer: 1
     explain: Lenin named two conditions together. The party needed iron discipline, and it needed the full support of the working class, won through fifteen years of struggle.
     card: 2
   - q: What did the Bolsheviks learn from the defeat of the 1905 revolution?
     options:
-      - That revolution was impossible in Russia
-      - That they should merge with the Mensheviks
-      - That victory is impossible unless one has learned how to attack and to retreat properly
+      - That revolution was impossible in a peasant country
+      - That they should merge again with the Mensheviks
+      - That one must learn how to retreat properly, not only to attack
       - That the party should give up all legal work
     answer: 2
     explain: After 1905 the Bolsheviks retreated in good order and learned to work legally, even in the most reactionary institutions, so they were ready when the next upsurge came.
     card: 3
   - q: What did Lenin tell the German 'Left' Communists about reactionary trade unions?
     options:
-      - Leave them and build pure new unions
-      - Ignore them until after the revolution
+      - Leave them and build new, purely revolutionary unions
+      - Ignore them until the revolution has been won
       - Work inside them, because that is where the masses are
-      - Ask the government to ban them
+      - Ask the workers' councils to dissolve them
     answer: 2
     explain: Communists must "absolutely work wherever the masses are to be found", even under hostile, opportunist union leaders.
     card: 4
   - q: How did Lenin answer the claim that parliament had become 'politically obsolete'?
     options:
-      - He agreed and called for a boycott of all elections
+      - He agreed, and called for a boycott of all elections
       - He said what is obsolete to Communists is not yet obsolete to the masses
-      - He said parliament was the road to socialism
-      - He said the question did not matter
+      - He said parliament was the main road to socialism in Western Europe
+      - He said each party should settle the question for itself
     answer: 1
     explain: Millions of workers still trusted parliament. Communists had to take part, and prove to those masses from inside why such parliaments deserve to be done away with.
     card: 5
   - q: What was Lenin's point in the story of the car held up by armed bandits?
     options:
-      - That all compromise is betrayal
-      - That revolutionaries should never negotiate with enemies
-      - That some compromises, like the peace of Brest-Litovsk, are necessary and not betrayals
-      - That the state must be armed against criminals
+      - That every compromise with the enemy is a betrayal
+      - That revolutionaries must never negotiate with enemies
+      - That some compromises, like Brest-Litovsk, are not betrayals
+      - That a party must fight on whatever the cost
     answer: 2
     explain: Handing over money to bandits to survive and catch them later is not the same as sharing their loot. Lenin's test was what a compromise serves.
     card: 6

@@ -28,46 +28,46 @@ sources:
 quiz:
   - q: Why did Marx write the Critique of the Gotha Programme?
     options:
-      - To attack the draft program of the united German workers' party before its congress
-      - To answer a liberal critic of Capital
-      - To set out the rules of the First International
-      - To plan an uprising in Berlin
+      - To criticize the draft program of the new united German party
+      - To answer a liberal economist's attack on Capital
+      - To draft the rules of the First International in London
+      - To defend the Paris Commune against its German critics
     answer: 0
     explain: In 1875 Germany's two socialist parties were uniting at Gotha. Marx sent his marginal notes on their draft program to party leaders through Wilhelm Bracke.
     card: 1
   - q: Why did Marx reject the program's claim that labor is the source of all wealth?
     options:
-      - Because he thought machines create all value
+      - Because he thought machines, not labor, create all value
       - Because nature is just as much the source of use values as labor
-      - Because he thought wealth comes from trade
-      - Because he believed only skilled labor counts
+      - Because he held that wealth comes from trade and exchange
+      - Because he believed only skilled labor creates real wealth
     answer: 1
     explain: Labor works on nature. Hiding that lets the owners of land and means of production rule those who own only their labor power.
     card: 2
   - q: In the first phase of communist society, how are goods distributed?
     options:
-      - According to need
-      - By the market, as before
-      - According to the labor each producer gives, measured by an equal standard
-      - Equally, regardless of work
+      - According to each person's needs, whatever their work
+      - By the market, through wages and prices as before
+      - By the labor each gives, measured by an equal standard
+      - In equal shares, whether a person works or not
     answer: 2
     explain: Society still bears the birthmarks of capitalism, so each worker receives back roughly what they gave in labor. Marx called this equal right still a right of inequality.
     card: 3
   - q: What principle did Marx say a higher phase of communist society could inscribe on its banners?
     options:
-      - To each according to his work
-      - Liberty, equality, fraternity
-      - A fair day's wage for a fair day's work
+      - To each according to his work, and equal pay for equal work
+      - Liberty, equality and fraternity for all peoples
+      - A fair day's wage for a fair day's work, for every worker
       - From each according to his ability, to each according to his needs
     answer: 3
     explain: Only when labor has become life's prime want and the springs of co-operative wealth flow more abundantly can society move beyond bourgeois right.
     card: 4
   - q: According to Marx, what kind of state corresponds to the transition between capitalist and communist society?
     options:
-      - A free people's state
-      - A constitutional monarchy
+      - A free people's state, as the program demanded
+      - A democratic republic with universal suffrage
       - The revolutionary dictatorship of the proletariat
-      - No state at all
+      - No state at all, from the first day
     answer: 2
     explain: Marx mocked the program's 'free state'. During the revolutionary transformation, the state can be nothing but the rule of the working class.
     card: 6

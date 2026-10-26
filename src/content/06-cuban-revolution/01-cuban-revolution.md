@@ -74,16 +74,16 @@ quiz:
       - In his 1953 trial speech
       - On January 1, 1959, in Santiago
       - On May Day 1961, after the Bay of Pigs
-      - In 2003
+      - In his speech to the UN in 1960
     answer: 2
     explain: Days after defeating the US-backed invasion at the Bay of Pigs, Castro told the May Day crowd, "This is a socialist regime, yes!"
     card: 4
   - q: How did Fidel Castro describe the persecution of gay men in the 1960s and 1970s when he spoke about it in 2010?
     options:
-      - As a necessary defense measure
-      - As something he knew nothing about
+      - As a necessary measure to defend the revolution
+      - As something he had known nothing about at the time
       - As moments of great injustice, for which he was responsible
-      - As the fault of the Soviet advisers
+      - As the fault of the Soviet advisers in Cuba
     answer: 2
     explain: Castro took responsibility himself. A Marxist account faces this record directly, as he did, rather than leaving it out.
     card: 6

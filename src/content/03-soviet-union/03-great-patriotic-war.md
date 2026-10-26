@@ -27,10 +27,10 @@ sources:
 quiz:
   - q: How did Stalin defend the 1939 non-aggression pact with Germany?
     options:
-      - It made Germany a permanent ally
-      - It secured peace for a year and a half and time to prepare the country's forces
-      - It divided Europe into spheres of influence
-      - It ended the threat from Japan
+      - It made Germany a lasting ally against Britain
+      - It secured peace for a year and a half and time to prepare
+      - It would force Britain and France into an alliance
+      - It ended the threat of war with Japan in the East
     answer: 1
     explain: Stalin argued that no peace-loving state could refuse a peace treaty, and that the pact bought a year and a half to prepare against a German attack.
     card: 1
@@ -63,9 +63,9 @@ quiz:
     card: 5
   - q: What did Stalin admit in his toast of May 24, 1945?
     options:
-      - That the war had been unnecessary
-      - That the government had made not a few errors and faced a desperate situation in 1941–1942
-      - That the Allies had won the war alone
+      - That the war could have been avoided by diplomacy
+      - That the government had made not a few errors in 1941–42
+      - That the Allies had carried the main weight of the war
       - That the pact with Germany had been a mistake
     answer: 1
     explain: Stalin said the people could have turned the government out but trusted it and made the sacrifices that ensured victory.

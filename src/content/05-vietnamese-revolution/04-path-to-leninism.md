@@ -25,10 +25,10 @@ sources:
 quiz:
   - q: Why, by his own account, did Ho first admire Lenin?
     options:
-      - Because he had studied Capital in depth
+      - Because he had studied Capital in depth in Paris
       - Because Lenin was a great patriot who liberated his compatriots
-      - Because the French government praised Lenin
-      - Because Lenin had visited Vietnam
+      - Because the French press praised Lenin's reforms
+      - Because Lenin had written about Vietnam's colonial plight by name
     answer: 1
     explain: Ho admits he had read none of Lenin's books. He supported the October Revolution only instinctively, as an act of national liberation.
     card: 1
@@ -52,10 +52,10 @@ quiz:
     card: 3
   - q: What was Ho's "only argument" against those who attacked Lenin and the Third International?
     options:
-      - That a revolution which did not condemn colonialism and side with the colonial people was no real revolution
-      - That the Third International had more money
-      - That Lenin had already won in Russia, so he must be right
-      - That the Second International had betrayed France in the war
+      - That a revolution that did not side with the colonized was no real revolution
+      - That the Third International had more money to give
+      - That Lenin had already won in Russia, so his line was proved right
+      - That the Second International had backed France's war against Germany
     answer: 0
     explain: For Ho, the test of any revolution was whether it sided with the colonized. On that argument he voted at Tours to join the Third International.
     card: 4

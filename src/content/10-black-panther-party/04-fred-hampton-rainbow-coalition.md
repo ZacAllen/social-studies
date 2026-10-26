@@ -62,10 +62,10 @@ quiz:
     card: 4
   - q: How did Hampton answer critics who said the breakfast program was a backward step?
     options:
-      - He agreed and ended the program
+      - He agreed, and ended the program in Chicago
       - He said it was charity and needed no theory
-      - He called it the best technique of crawling a vanguard party could follow, the first step toward walking and running
-      - He said it was a matter for the national leadership
+      - He called it a vanguard party's best technique of crawling, before walking
+      - He said it was a matter for the national leadership in Oakland
     answer: 2
     explain: For Hampton, people could not jump to communism through abstract argument. Programs that met real needs taught socialism by practice.
     card: 6

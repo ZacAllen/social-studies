@@ -74,9 +74,9 @@ quiz:
   - q: Which pairing did Stalin call the essence of Leninism in Party and state work?
     options:
       - Russian revolutionary sweep with American efficiency
-      - German theory with French politics
-      - Strict discipline with free factions
-      - Peasant patience with worker energy
+      - German theory joined with French political tradition
+      - Strict discipline joined with freedom of factions
+      - Peasant patience joined with workers' energy
     answer: 0
     explain: Sweep without efficiency, he warned, degenerates into empty scheme-making; efficiency without sweep becomes narrow, unprincipled practicalism.
     card: 6

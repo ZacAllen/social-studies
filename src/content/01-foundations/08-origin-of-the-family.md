@@ -37,10 +37,10 @@ quiz:
     card: 1
   - q: What did Engels find striking about the Iroquois gentile constitution?
     options:
-      - It had a powerful king
-      - It relied on a large army
+      - It was ruled by a powerful hereditary king
+      - It relied on a large standing army of warriors
       - It kept order without soldiers, police, judges or prisons
-      - It was based on private landownership
+      - It was built on private ownership of the land
     answer: 2
     explain: Disputes were settled by the whole community concerned. There was no special apparatus standing above society.
     card: 2
@@ -55,9 +55,9 @@ quiz:
     card: 3
   - q: According to Engels, what is the first condition for the liberation of the wife?
     options:
-      - A change in religious teaching
-      - Better manners among husbands
-      - Separate property for married women
+      - A change in the teachings of the churches on marriage
+      - Better laws on conduct within marriage
+      - Separate property rights and the vote for married women
       - Bringing the whole female sex back into public industry
     answer: 3
     explain: As long as the monogamous family is the economic unit of society, women stay dependent. Women's emancipation is bound up with the end of that economic role.
@@ -65,9 +65,9 @@ quiz:
   - q: How did Engels explain the origin of the state?
     options:
       - As the product of a society split into irreconcilable class antagonisms
-      - As a contract freely agreed by all citizens
-      - As the reality of the moral idea, as Hegel held
-      - As a power imposed on society from outside
+      - As a contract freely agreed by all citizens for their protection
+      - As the reality of the ethical idea, as Hegel had argued
+      - As a power imposed on society from outside by conquest
     answer: 0
     explain: The state arises to keep class conflict within bounds, and it is normally the state of the most powerful, economically ruling class.
     card: 5

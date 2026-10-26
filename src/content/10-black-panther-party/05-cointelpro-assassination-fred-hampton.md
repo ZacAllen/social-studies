@@ -29,19 +29,19 @@ sources:
 quiz:
   - q: Which of these was one of COINTELPRO's stated goals against Black militant groups in 1968?
     options:
-      - To recruit their leaders as FBI agents
+      - To recruit their leaders as paid FBI agents
       - To prevent the rise of a 'messiah' who could unify the movement
-      - To protect their members from police violence
-      - To help them register voters
+      - To protect their members from violence by local police
+      - To help them register voters in the cities
     answer: 1
     explain: An FBI memo listed preventing a coalition of militant groups and preventing the rise of a unifying 'messiah' among the program's goals.
     card: 1
   - q: Who was William O'Neal?
     options:
-      - A Chicago police officer who led the raid
-      - The Cook County State's Attorney
-      - A paid FBI informant who became the Chicago Panthers' chief of security
-      - A Young Lords leader
+      - A Chicago police officer who led the raid on the apartment
+      - The Cook County State's Attorney in 1969
+      - A paid FBI informant who became the Panthers' chief of security
+      - A Young Lords leader who joined the Rainbow Coalition
     answer: 2
     explain: The FBI sent O'Neal into the Party when the Chicago office opened in November 1968. He later supplied the floor plan of Hampton's apartment.
     card: 2
@@ -57,18 +57,18 @@ quiz:
   - q: What did a federal grand jury find about the shots fired in the apartment?
     options:
       - Both sides fired about equally
-      - The Panthers fired first and most
+      - The Panthers fired first and fired most of the shots
       - Police fired 90 to 99 shots; the Panthers fired one
-      - No shots were fired by police
+      - No shots were fired by the police
     answer: 2
     explain: The physical evidence contradicted the State's Attorney's story of a shootout. Even so, the grand jury indicted none of the raiders.
     card: 4
   - q: How did the civil case brought by the survivors and families end?
     options:
       - The raiders were convicted of murder
-      - The city, the county and the federal government paid a $1.85 million settlement
-      - The case was dismissed for good in 1977
-      - The FBI apologized but paid nothing
+      - The three governments paid a $1.85 million settlement
+      - The case was dismissed for good by a federal judge in 1977
+      - The FBI apologized publicly but paid nothing
     answer: 1
     explain: After the 1979 appeals court found evidence of a conspiracy, the three governments settled. None of the raiders ever went to jail.
     card: 6

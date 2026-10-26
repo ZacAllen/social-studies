@@ -45,10 +45,10 @@ quiz:
     card: 2
   - q: What did Parenti mean by 'siege socialism'?
     options:
-      - Socialism built under constant invasion and threat, which forced centralization and heavy industry
-      - A plan to conquer capitalist countries
+      - Socialism built under constant threat, which forced centralization
+      - A plan to spread socialism to capitalist countries by conquest
       - Socialism run directly by workers' councils
-      - The period after Stalin's death
+      - The period of thaw after Stalin's death
     answer: 0
     explain: Invasion in 1918–1920 and the coming Nazi threat pushed the Soviets toward centralized power and forced industrialization. That let the USSR survive, but made it hard for it to thrive.
     card: 3
@@ -59,14 +59,14 @@ quiz:
       - About 98,000
       - 681,692
     answer: 3
-    explain: Davies cited the official figure of 681,692, and noted that leading Russian specialists thought about 1 million possible. He called even the official figure an appalling indictment of the regime.
+    explain: Davies cited the official figure of 681,692 and called even that an appalling indictment of the regime. Conquest had estimated one million, and leading Russian specialists judged that possibly correct.
     card: 4
   - q: What did Parenti say about the 'pure socialists' on the Western Left?
     options:
       - They had built the most successful revolutions
       - They supported every revolution except the ones that succeed
-      - They were secretly funded by Moscow
-      - They refused to criticize the Soviet Union
+      - They were secretly funded and directed by Moscow
+      - They refused to criticize the Soviet Union for anything
     answer: 1
     explain: Parenti argued that judging real revolutions against an imagined ideal means the real ones always lose. "No surprise then that the pure socialists support every revolution except the ones that succeed."
     card: 7
@@ -104,9 +104,9 @@ Siege did not excuse everything. Parenti wrote that it did not make inevitable:
 
 > "the heartless execution of hundreds of Old Bolshevik leaders … and the mass deportations of 'suspect' nationalities." [^ch3]
 
-(The **Old Bolsheviks** were the party's veterans of the revolution.) The party itself later admitted the scale. In 1956, Soviet leader Nikita Khrushchev told the party's 20th Congress that 98 of the 139 Central Committee members elected at the 17th Congress had been arrested and shot, mostly in 1937–1938 [^khrushchev].
+(The **Old Bolsheviks** were the party's veterans of the revolution.) The party itself later admitted the scale, in Soviet leader Nikita Khrushchev's 1956 speech to its 20th Congress [^khrushchev] (the Soviet Union subject gives his figures).
 
-The archives give an official figure of 681,692 executions in 1937–38, and leading Russian specialists thought about 1 million possible. The historian R. W. Davies called even the official figure "an appalling indictment of the Soviet regime" [^davies].
+Secret police figures give 681,692 executions in 1937–38. Robert Conquest had estimated one million executions, and the leading Russian specialists judged that figure possibly correct [^davies]. The historian R. W. Davies called even the official figure "an appalling indictment of the Soviet regime" [^davies].
 
 ---
 

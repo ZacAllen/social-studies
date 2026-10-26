@@ -57,19 +57,19 @@ quiz:
     card: 3
   - q: How did the Party respond to the errors of the land reform in the North?
     options:
-      - It denied that any errors had happened
+      - It denied that any errors had happened at all
       - It blamed the errors on French agents alone
-      - It ended land reform and returned land to the landlords
-      - It reviewed the serious mistakes in 1956 and ran a campaign to correct them
+      - It ended land reform and returned the land to the landlords
+      - It reviewed the serious mistakes in 1956 and campaigned to correct them
     answer: 3
     explain: In 1956 the Central Committee reviewed the serious mistakes, and a campaign to correct them lasted into 1958.
     card: 4
   - q: What happened in Saigon on April 30, 1975?
     options:
-      - The Paris Agreement was signed
-      - Revolutionary forces entered the city and the Saigon government surrendered unconditionally
-      - The United States sent its first combat troops
-      - The National Liberation Front was founded
+      - The Paris Agreement was signed and US troops began to leave
+      - Revolutionary forces took the city and the Saigon government surrendered
+      - The United States landed its first combat troops
+      - The National Liberation Front was founded there
     answer: 1
     explain: Columns of the liberation forces took the presidential palace, and Duong Van Minh announced unconditional surrender, reunifying the country.
     card: 6

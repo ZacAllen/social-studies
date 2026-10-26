@@ -27,8 +27,8 @@ quiz:
     options:
       - From the labor of workers, beyond what they are paid
       - From clever trading in the market
-      - From the machines themselves
-      - From the risk taken by the capitalist
+      - From the machines and tools themselves
+      - From the risk taken by the capitalist who invests
     answer: 0
     explain: Surplus value is the difference between what workers are paid and the market value of what they produce. Marx saw it as the exploitation of the laborer.
     card: 2
@@ -43,19 +43,19 @@ quiz:
     card: 3
   - q: Why, in Du Bois's view, did American white workers not unite with Black workers?
     options:
-      - Because they had no grievances against capital
-      - Because the law forbade mixed unions everywhere
-      - Because Black workers refused to join them
-      - Because they hoped to climb into the wealthy class on the backs of Black labor
+      - Because they had no real grievances against capital
+      - Because the law forbade mixed unions in every state
+      - Because Black workers refused to join their unions and strikes
+      - Because they hoped to climb into the wealthy class on Black labor's backs
     answer: 3
     explain: Du Bois saw a 'wild and ruthless scramble' of white labor groups climbing over Black workers, encouraged by the hope of escaping into the employing class.
     card: 4
   - q: What did Du Bois conclude about Marx's philosophy and the American Negro?
     options:
-      - That Marxism was wrong and should be abandoned
-      - That it was a true diagnosis of 19th-century Europe, but must be modified for America
-      - That it applied to America without change
-      - That it applied only to Africa
+      - That Marxism was simply wrong and should be abandoned by Black thinkers
+      - That it was true of 19th-century Europe but must be modified for America
+      - That it applied to America without any change at all
+      - That it applied only to colonized Africa and Asia
     answer: 1
     explain: Du Bois kept Marx's method but argued that in America, Black workers were exploited by white capitalists and equally by the white proletariat.
     card: 5

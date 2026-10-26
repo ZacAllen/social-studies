@@ -46,7 +46,7 @@ quiz:
   - q: Why did Giáp call people's war in Vietnam essentially a peasants' war?
     options:
       - Because the cities had already been liberated
-      - Because the peasants were the great majority, so land was of decisive importance
+      - Because peasants were the great majority, so land was decisive
       - Because the working class had no part in it
       - Because the army was recruited only from the countryside
     answer: 1
@@ -54,10 +54,10 @@ quiz:
     card: 2
   - q: Why did Giáp insist on a long-term war?
     options:
-      - Because the enemy was far stronger, so a swift victory was impossible
-      - Because the Party wanted to delay the revolution
-      - Because the Allies required it
-      - Because all revolutionary wars must be long
+      - Because the enemy was far stronger, so swift victory was impossible
+      - Because the Party wanted to delay the social revolution
+      - Because the Allies had required it at Geneva
+      - Because every revolutionary war must be long
     answer: 0
     explain: Giáp said not every revolutionary war must be long. Vietnam's was, because only time could turn the balance of forces.
     card: 3
@@ -133,7 +133,7 @@ Giáp also faced the Party's errors. He wrote that in the early years the peasan
 
 > "Despite the errors which blemished its accomplishment, it was a correct line crowned with success" [^ch1]
 
-He added that the errors came mainly after peace was restored in 1954 [^ch3]. They were grave: peasants falsely labeled landlords, Party members purged, and executions that the historian Edwin Moïse first put at about 5,000 and later at roughly 10,000 [^moise].
+He added that the errors came mainly after peace was restored in 1954 [^ch3]. They were grave: peasants falsely labeled landlords, Party members purged, and thousands executed [^moise]. The subject's survey, *From the August Revolution to 1975*, gives the historians' estimates.
 
 ---
 

@@ -36,18 +36,18 @@ quiz:
   - q: What did Du Bois mean when he wrote that the color line began to pay dividends?
     options:
       - Racism became profitable, justifying cheap colonial labor and land seizure
-      - Black businesses began to prosper
-      - Colonial governments began to pay Africans fair wages
-      - Segregation lowered the cost of public services
+      - Black-owned businesses in America began to prosper
+      - Colonial governments began to pay African workers fair wages
+      - Segregation lowered the cost of public services in the Southern states
     answer: 0
     explain: Once Africa became a source of wealth, Europe invested in color prejudice. The doctrine of the inferiority of darker peoples justified their economic subjection.
     card: 4
   - q: What did Du Bois say peace would require?
     options:
-      - A strong league of European powers
-      - Disarmament of Europe alone
-      - A return to free trade
-      - Extending democracy, land and home rule to the colonized peoples
+      - A strong league of the European great powers
+      - Disarmament of the European powers alone
+      - A return to free trade among all nations and empires
+      - Extending democracy and home rule to the colonized peoples
     answer: 3
     explain: Du Bois wrote that "we must extend the democratic ideal to the yellow, brown, and black peoples." European concord alone would only settle how to divide the spoils.
     card: 5
@@ -56,7 +56,7 @@ quiz:
       - Luxemburg's theory of the mass strike
       - Lenin's account of imperialism and the labor aristocracy
       - Trotsky's theory of permanent revolution
-      - Gramsci's theory of hegemony
+      - Kautsky's theory of a peaceful ultra-imperialism
     answer: 1
     explain: Lenin, writing in 1916, called the war a fight to repartition the colonies, and argued that colonial superprofits let capitalists bribe the upper stratum of workers.
     card: 6

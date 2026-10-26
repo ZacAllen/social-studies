@@ -26,52 +26,52 @@ sources:
 quiz:
   - q: How did Du Bois open his 1960 speech?
     options:
-      - By praising the Supreme Court
-      - By saying democracy had so disappeared that some subjects could not even be discussed
+      - By praising the Supreme Court's school ruling
+      - By saying some subjects could no longer even be discussed
       - By announcing that he had joined the Communist Party
-      - By recalling his years at Harvard
+      - By recalling his student years at Harvard
     answer: 1
     explain: The essence of democracy, Du Bois said, is free discussion, and McCarthyism had made socialism and communism undiscussable.
     card: 1
   - q: Why did Du Bois decide that consumers' cooperation among Black Americans was not enough?
     options:
-      - Because Black consumers had no money
-      - Because the NAACP opposed it
-      - Because without the power of the government it would fail, and with it, it was socialism
-      - Because the Supreme Court ruled it illegal
+      - Black consumers had too little money to sustain it
+      - Black businessmen had refused to take part in it
+      - Without state power it would fail, and with it, it was socialism
+      - The Supreme Court had ruled such cooperatives illegal
     answer: 2
     explain: Du Bois concluded that cooperation needed state power behind it, and a cooperative economy backed by the government was socialism.
     card: 2
   - q: What changed Du Bois's thinking in 1958–1959?
     options:
       - An eleven-month trip through Europe, the Soviet Union and China
-      - The Montgomery bus boycott
-      - Reading Lenin for the first time
-      - His trial as a foreign agent
+      - The Montgomery bus boycott led by Martin Luther King in 1955–56
+      - Reading Lenin's works for the first time
+      - His 1951 trial as an unregistered foreign agent
     answer: 0
     explain: He left believing capitalism could be reformed, as Roosevelt had shown. He returned "with completely changed ideas."
     card: 3
   - q: What did the Communist Party of China admit in 1981 about the years 1959–1961?
     options:
       - That the harvests were the best in Chinese history
-      - That foreign sanctions alone caused all hardship
-      - That nothing had gone wrong
-      - That 'Left' errors in the Great Leap Forward helped cause serious losses to the country and people
+      - That foreign sanctions alone caused all the hardship
+      - That natural disasters alone were to blame for the losses
+      - That 'Left' errors in the Great Leap Forward caused serious losses
     answer: 3
-    explain: The party named excessive targets, arbitrary directions and boastfulness. Demographers estimate the famine's excess deaths at 16.5 to 30 million or more.
+    explain: The party named excessive targets, arbitrary directions and boastfulness. The famine that followed killed tens of millions of people.
     card: 4
   - q: What did Du Bois call the next step for Black Americans?
     options:
-      - To leave the United States for Africa
-      - To insist on their legal rights and add to them a socialist form of government
-      - To rely on the courts alone
+      - To leave the United States and settle in Africa
+      - To insist on legal rights and add a socialist government
+      - To rely on the courts alone to win their rights
       - To form a separate Black political party
     answer: 1
     explain: Legal rights were not enough without decent work and wages. Du Bois called for the welfare state and an end to industry run for corporate profit.
     card: 5
 ---
 
-On April 9, 1960, W.E.B. Du Bois, then 92, spoke in the Great Hall of the Memorial Union in Madison, Wisconsin, at the invitation of the Wisconsin Socialist Club [^fw]. For a quarter century he had edited *The Crisis*, the NAACP's monthly magazine.
+On April 9, 1960, W.E.B. Du Bois, then 92, spoke in the Great Hall of the Memorial Union in Madison, Wisconsin, at the invitation of the Wisconsin Socialist Club [^fw]. By his own account, for a quarter century he had edited *The Crisis*, the NAACP's monthly magazine [^fw].
 
 He opened with the state of American democracy:
 
@@ -103,7 +103,7 @@ In China Du Bois believed he saw "willing cooperation and of a wide spread conte
 
 That was the **Great Leap Forward**, launched in 1958 with the rural people's communes. In 1981 the Communist Party of China judged that 'Left' errors, "excessive targets, the issuing of arbitrary directions, boastfulness," along with natural disasters and canceled Soviet contracts, caused "serious losses to our country and people" in 1959–1961 [^cpc].
 
-Demographers estimate the famine's excess deaths at 16.5 to 30 million, and unpublished Chinese materials suggest close to 40 million [^smil].
+The famine that followed killed tens of millions [^smil]; the Mao Zedong subject gives the estimates.
 
 ---
 

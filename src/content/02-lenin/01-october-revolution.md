@@ -44,10 +44,10 @@ sources:
 quiz:
   - q: What did Lenin's April Theses call for in place of a parliamentary republic?
     options:
-      - A constitutional monarchy
+      - A constitutional monarchy under a new tsar
       - A republic of Soviets of workers' and peasants' deputies
-      - A military government until the war ended
-      - A federation of independent city councils
+      - A military government until the war was won
+      - A federation of independent city councils and village communes
     answer: 1
     explain: Lenin argued that going back to a parliamentary republic would be a step backward. Power should pass to the Soviets, the councils workers, soldiers and peasants had elected themselves.
     card: 2
@@ -71,19 +71,19 @@ quiz:
     card: 5
   - q: Which policy did Lenin later call a mistake that the New Economic Policy corrected?
     options:
-      - Signing the Treaty of Brest-Litovsk
-      - Founding the Communist International
+      - Signing the Treaty of Brest-Litovsk with Germany
+      - Founding the Communist International in Moscow
       - Trying to go over directly to communist production and distribution
-      - Dissolving the Constituent Assembly
+      - Dissolving the Constituent Assembly and ruling through the Soviets alone
     answer: 2
     explain: In 1921 Lenin admitted that the attempt to jump straight to communist production and distribution had failed. The New Economic Policy was a deliberate "strategical retreat".
     card: 6
   - q: What did Rosa Luxemburg warn against in her 1918 pamphlet The Russian Revolution?
     options:
       - Freedom only for the supporters of the government
-      - Making peace with Germany
-      - Giving the land to the peasants
-      - Calling the revolution socialist at all
+      - Founding a new International before the war ended
+      - Moving the capital from Petrograd to Moscow
+      - Spreading the revolution to Germany too soon
     answer: 0
     explain: Luxemburg wrote that "Freedom only for the supporters of the government" is "no freedom at all". Lenin still called her an eagle of the movement.
     card: 7

@@ -22,19 +22,19 @@ quiz:
     card: 2
   - q: What does the universality of contradiction mean?
     options:
-      - That contradictions exist only in society
-      - That contradictions appear only late in a process
-      - That contradiction is present in all things and all processes, from beginning to end
-      - That all contradictions are the same
+      - That contradictions exist only in human society, not in nature
+      - That contradictions appear only late in a process, as it matures
+      - That contradiction is in all things and processes, from beginning to end
+      - That all contradictions are the same in kind
     answer: 2
     explain: Mao held that there is nothing that does not contain contradiction. That is why he criticized the view that contradiction appears only at a later stage.
     card: 3
   - q: Why did Mao stress the particularity of contradiction?
     options:
       - Because different contradictions must be resolved by different methods
-      - Because only general laws matter
-      - Because contradictions never change
-      - Because it ruled out revolution
+      - Because only general laws matter, not particular cases
+      - Because contradictions never change once they have arisen in a process
+      - Because it ruled out revolution in a semi-colony
     answer: 0
     explain: Socialist revolution, democratic revolution, national war and criticism and self-criticism each resolve a different kind of contradiction.
     card: 4
@@ -49,10 +49,10 @@ quiz:
     card: 5
   - q: How did Mao describe antagonism?
     options:
-      - As the only form of the struggle of opposites
+      - As the only form the struggle of opposites can take
       - As one form, but not the only form, of the struggle of opposites
-      - As something that never occurs in class society
-      - As identical with contradiction
+      - As something that never occurs once classes have been abolished
+      - As identical with contradiction in every case
     answer: 1
     explain: Contradictions between correct and incorrect ideas in the party need not become antagonistic if comrades who err correct their mistakes.
     card: 6

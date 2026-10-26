@@ -21,7 +21,7 @@ sources:
 quiz:
   - q: What question did Parenti say most books on fascism fail to answer?
     options:
-      - Why Mussolini and Hitler were so popular
+      - Why Mussolini and Hitler won such mass popularity among ordinary people
       - Whose class interests fascist policies served, and at whose expense
       - How fascist propaganda was designed
       - Which fascist leader was the more capable
@@ -30,10 +30,10 @@ quiz:
     card: 1
   - q: Why, in Parenti's account, did Italy's industrialists and landowners back Mussolini?
     options:
-      - They shared his socialist past
-      - He promised to nationalize their firms
-      - They needed someone to smash the unions and civil liberties that stood in the way of austerity
-      - They feared a German invasion
+      - They shared his past in the Socialist Party
+      - He promised to protect their markets from foreign competition
+      - They needed the unions and civil liberties smashed to impose austerity
+      - They feared an invasion from Austria or Germany
     answer: 2
     explain: Organized workers and peasants had won rights and better wages. To cut wages and services, the owners needed those organizations destroyed, and Mussolini's Blackshirts could do it.
     card: 2
@@ -49,18 +49,18 @@ quiz:
   - q: How did the Communist International define fascism in power?
     options:
       - The rule of the petty bourgeoisie against both workers and capitalists
-      - A temporary madness of the masses
-      - A revolution of the young against the old
-      - The open terrorist dictatorship of the most reactionary, most chauvinistic and most imperialist elements of finance capital
+      - A temporary madness of the masses in a time of crisis
+      - A revolution of the young against the old order
+      - The open terrorist dictatorship of the most reactionary elements of finance capital
     answer: 3
     explain: Dimitrov's 1935 report used this definition. Like Parenti, it treats fascism as a form of capitalist rule, not a break from it.
     card: 5
   - q: What did Trotsky urge the German Communists to do with the Social Democrats in 1931?
     options:
-      - Merge the two parties into one
-      - Make practical agreements to fight the fascists together while keeping separate programs
+      - Merge the two parties into a single workers' party
+      - Agree on practical action against the fascists, keeping separate programs
       - Ignore them until the fascists were defeated
-      - Join the Social Democrats in government
+      - Join the Social Democrats in a coalition government against Hitler
     answer: 1
     explain: '"March separately, but strike together!" Trotsky wanted joint action against the Nazis with no common platform.'
     card: 6

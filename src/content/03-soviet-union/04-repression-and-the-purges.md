@@ -11,6 +11,9 @@ sources:
   - id: nlr219
     label: R. W. Davies, Reply to Robert Conquest (New Left Review I/219, 1996)
     url: https://newleftreview.org/issues/i219/articles/r-w-davies-reply-to-robert-conquest
+  - id: nlr225
+    label: R. W. Davies, Reply to Robert Conquest (New Left Review I/225, 1997)
+    url: https://newleftreview.org/issues/i225/articles/r-w-davies-reply-to-robert-conquest
   - id: nlr214
     label: R. W. Davies, Forced Labour Under Stalin, The Archive Revelations (New Left Review I/214, 1995)
     url: https://newleftreview.org/issues/i214/articles/r-w-davies-forced-labour-under-stalin-the-archive-revelations
@@ -32,10 +35,10 @@ quiz:
     card: 1
   - q: According to Khrushchev in 1956, what happened to the Central Committee elected at the 17th Party Congress in 1934?
     options:
-      - It was dissolved peacefully
-      - 98 of its 139 members and candidates, 70 percent, were arrested and shot
-      - Its members were all promoted
-      - It was replaced by elected Soviets
+      - It was dissolved by the next congress without arrests
+      - Most of its members, 98 of 139, were arrested and shot
+      - A handful of its members, 9 of 139, were expelled
+      - It was replaced by a committee of elected Soviets
     answer: 1
     explain: Khrushchev reported that 98 of the 139 members and candidates were arrested and shot, mostly in 1937–38, along with 1,108 of the 1,966 delegates arrested.
     card: 2
@@ -43,26 +46,26 @@ quiz:
     options:
       - Through careful evidence gathered by the courts
       - Through physical pressure and torture against the accused
-      - Through voluntary statements made abroad
+      - Through voluntary statements made in open court
       - Through the testimony of foreign governments
     answer: 1
     explain: Khrushchev told the congress that confessions were acquired through physical pressure and that Stalin had sanctioned it in the name of the Central Committee.
     card: 3
   - q: What did Stalin admit about the party purge in his 1939 report?
     options:
-      - That it had been entirely unnecessary
-      - That it had been carried out without error
-      - That it had been accompanied by grave mistakes, more than might have been expected
-      - That it had been ordered by foreign powers
+      - That it had been unnecessary from the start
+      - That it had been carried out without a single error
+      - That it had been marred by more grave mistakes than expected
+      - That it had been too mild to root out the enemies
     answer: 2
     explain: Stalin admitted grave mistakes while still calling the purge unavoidable and beneficial on the whole.
     card: 4
   - q: How did the Communist Party of China's 1963 article judge Stalin?
     options:
-      - As wholly wrong, to be completely negated
-      - As free of any errors
+      - As wholly wrong, a leader to be completely negated
+      - As free of any errors worth discussing
       - As a great Marxist-Leninist whose merits outweighed his faults
-      - As a Trotskyist in disguise
+      - As a nationalist who had abandoned Marxism
     answer: 2
     explain: The article named the error of 1937–38 and the violations of democratic centralism, but rejected Khrushchev's complete negation of Stalin.
     card: 6
@@ -78,7 +81,7 @@ Those states, he argued, would send wreckers, spies and killers into the Soviet 
 
 ---
 
-The **Great Purge** reached its peak in 1937–38. Secret police figures supplied to the leadership from 1953 onward give 681,692 executions in those two years; the historian R. W. Davies notes that they certainly omit some executions [^nlr219]. In his book *The Great Terror*, Robert Conquest had estimated one million executions [^nlr219].
+The **Great Purge** reached its peak in 1937–38. Secret police figures supplied to the leadership from 1953 onward give 681,692 executions in those two years; the historian R. W. Davies notes that they certainly omit some executions [^nlr219]. Robert Conquest had estimated one million executions in *The Great Terror* [^nlr219], and the leading Russian specialists later judged that figure possibly correct [^nlr225].
 
 The party itself was gutted. In 1956 the Soviet leader Nikita Khrushchev reported on the Central Committee elected at the 17th Congress in 1934:
 

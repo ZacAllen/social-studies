@@ -43,10 +43,10 @@ quiz:
     card: 2
   - q: What role did Lenin say the banks take on in the imperialist stage?
     options:
-      - They become small middlemen serving industry
-      - They are replaced by stock exchanges
+      - They become small middlemen serving industry's needs
+      - They are pushed aside by the stock exchanges
       - They become powerful monopolies commanding most of the money capital
-      - They are nationalized by every great power
+      - They are nationalized by every great power before the war
     answer: 2
     explain: Banks grow from "modest middlemen" into monopolies. Bank capital merges with industrial capital into finance capital, ruled by a financial oligarchy.
     card: 3
@@ -61,21 +61,21 @@ quiz:
     card: 4
   - q: What did Lenin mean when he wrote that the world was now completely divided up?
     options:
-      - That every nation had become independent
-      - That the great powers had seized all unoccupied territory, so only redivision was possible
+      - That every colonized nation had won its independence
+      - That no unclaimed land was left, so only redivision was possible
       - That the world economy had split into two equal blocs
-      - That colonies had stopped being profitable
+      - That colonies had stopped paying, so the powers were leaving them
     answer: 1
     explain: By the start of the twentieth century there was no ownerless territory left. Any power wanting more had to take it from another, which made imperialist war inevitable.
     card: 5
   - q: How did Lenin explain the rise of opportunism in the workers' movement of the richest countries?
     options:
-      - As a result of workers' ignorance of Marxism
-      - As the work of police spies
-      - As a passing mood that would end with the war
+      - As a result of workers' ignorance of Marxist theory
+      - As the work of police spies placed inside the socialist parties
+      - As a passing mood of patriotism that would end when the war ended
       - As the result of superprofits used to bribe an upper stratum of workers
     answer: 3
-    explain: Colonial superprofits let capitalists buy off the labour leaders and the 'labour aristocracy', who became the social prop of reformism and chauvinism.
+    explain: Colonial superprofits let capitalists buy off the labor leaders and the 'labor aristocracy', who became the social prop of reformism and chauvinism.
     card: 6
 ---
 

@@ -42,10 +42,10 @@ quiz:
     card: 1
   - q: What was the method of French Colonisation on Trial and the articles behind it?
     options:
-      - Abstract argument from economic theory
-      - Poems and stories about village life
+      - Abstract argument drawn from economic theory and statistics
+      - Poems and stories about life in the villages
       - Case after case of named victims, dates and sums, like evidence in court
-      - Interviews with French officials
+      - Interviews with French officials and settlers in Saigon and Hanoi
     answer: 2
     explain: Ho put colonialism in the dock by piling up documented cases, so readers could judge the 'civilizing mission' by its deeds.
     card: 2
@@ -61,7 +61,7 @@ quiz:
   - q: How did Ho define colonization in Annamese Women and French Domination?
     options:
       - As a mistake by well-meaning governments
-      - As a civilizing mission gone wrong
+      - As a civilizing mission that had gone wrong in practice
       - As a trade relationship between unequal partners
       - As in itself an act of violence of the stronger against the weaker
     answer: 3

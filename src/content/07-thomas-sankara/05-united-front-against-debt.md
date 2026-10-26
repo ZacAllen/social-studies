@@ -16,16 +16,16 @@ sources:
 quiz:
   - q: Where did Sankara say Africa's debt came from?
     options:
-      - From African governments' overspending
+      - From African governments' overspending on prestige
       - From colonialism, through the same people who had colonized Africa
-      - From the oil crisis of the 1970s
+      - From the oil price shocks of the 1970s
       - From loans taken to fight wars between African states
     answer: 1
     explain: '"Debt''s origins come from colonialism''s origins." The lenders were the colonizers and their kin, who had managed African states and economies.'
     card: 2
   - q: What did Sankara mean when he said the lenders had "gambled as if in a casino"?
     options:
-      - That the lenders took risks for profit, so their losses were theirs to bear
+      - That the lenders gambled for profit, so the losses were theirs
       - That African governments should invest in casinos
       - That the debt was a matter of luck
       - That Africa should borrow more to win back its losses
@@ -43,10 +43,10 @@ quiz:
     card: 4
   - q: Why did Sankara insist on a united front rather than individual refusals?
     options:
-      - Because the World Bank only negotiated with groups
-      - Because the OAU charter required it
-      - Because Burkina Faso had no debt of its own
-      - Because a country refusing alone would be picked off, and he would not be at the next conference
+      - Because the World Bank negotiated only with groups
+      - Because the OAU charter required joint action
+      - Because Burkina Faso had no foreign debt of its own
+      - Because a country refusing alone would be picked off
     answer: 3
     explain: '"If Burkina Faso stands alone in refusing to pay, I will not be here for the next conference!" United, the poor countries would not have to pay.'
     card: 5
@@ -54,8 +54,8 @@ quiz:
     options:
       - Opening African markets to foreign investors
       - Produce in Africa, transform in Africa, consume in Africa
-      - A single African currency tied to the dollar
-      - Exporting more cash crops to repay faster
+      - A single African currency tied to the US dollar
+      - Exporting more cash crops to repay the debt faster
     answer: 1
     explain: Africa should produce what it needs and consume what it produces. His own delegation wore cotton grown, spun and woven in Burkina Faso.
     card: 6

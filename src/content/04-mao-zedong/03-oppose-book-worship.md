@@ -25,9 +25,9 @@ quiz:
     card: 1
   - q: Why, for Mao, is Marxism correct?
     options:
-      - Because Marx was a prophet
+      - Because Marx was a prophet whose word is final
       - Because it has been proved correct in practice and struggle
-      - Because the Communist International endorses it
+      - Because the Communist International endorses it for every country
       - Because it is written in the party's books
     answer: 1
     explain: Mao rejected treating Marx as a prophet. Theory earns trust by being proved in practice, and must be studied together with China's actual conditions.
@@ -52,10 +52,10 @@ quiz:
     card: 5
   - q: In 1941, how did Mao explain the phrase 'seek truth from facts'?
     options:
-      - Facts are what the books say; truth is what leaders decide
-      - Facts are things that exist objectively; truth is their internal relations; to seek is to study
+      - Facts are what the books say; truth is what the leaders decide
+      - Facts exist objectively; truth is their internal relations; to seek is to study
       - Facts are statistics; truth is the party line; to seek is to obey
-      - Facts and truth are the same thing
+      - Facts and truth are one thing, so seeking means only observing
     answer: 1
     explain: Mao gave each word a meaning, so that the phrase sums up the method of the whole essay.
     card: 6

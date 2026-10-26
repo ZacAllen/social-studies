@@ -26,7 +26,7 @@ sources:
 quiz:
   - q: Which document did Ho Chi Minh quote in the opening words of the Declaration?
     options:
-      - The Communist Manifesto
+      - The Communist Manifesto of Marx and Engels
       - The Charter of the United Nations
       - The Declaration of Independence of the United States
       - Lenin's theses on the colonial question
@@ -35,10 +35,10 @@ quiz:
     card: 1
   - q: How did Ho widen the American claim that all men are created equal?
     options:
-      - To all the peoples on the earth, who all have a right to live, to be happy and free
-      - To all citizens of France and its empire
+      - To all the peoples on earth, with a right to live, be happy and free
+      - To all the citizens of France and of its overseas empire
       - To all workers, but not to the propertied classes
-      - To the members of the United Nations only
+      - To the member nations of the new United Nations only
     answer: 0
     explain: He read the rights of individuals as rights of nations, which made colonial rule a violation of the principles its rulers proclaimed.
     card: 2

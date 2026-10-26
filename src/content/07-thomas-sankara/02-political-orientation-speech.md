@@ -16,10 +16,10 @@ sources:
 quiz:
   - q: How was the Political Orientation Speech first delivered?
     options:
-      - As a speech to the United Nations
+      - As a speech to the United Nations in New York
       - On the radio, two months after the August revolution
       - As a pamphlet smuggled in from exile
-      - At a party congress in Ouagadougou
+      - At a party congress in Ouagadougou that autumn
     answer: 1
     explain: Sankara recorded it on the evening of October 2, 1983. Written by a committee of the revolution's groups, it became the theoretical foundation of the revolution.
     card: 1
@@ -44,18 +44,18 @@ quiz:
   - q: Why does the speech call the August revolution both democratic and popular?
     options:
       - Because it held elections and allowed many parties
-      - Because it was led by the army on behalf of the people
-      - Because it aimed to build socialism at once
-      - Because its tasks were ending imperialist domination, and the masses themselves were carrying it out
+      - Because the army led it on behalf of the people
+      - Because it set out to build socialism at once, without a transition
+      - Because its tasks ended imperialist rule and the masses carried it out
     answer: 3
     explain: Its democratic character came from its tasks of clearing away imperialism and backwardness. Its popular character came from the masses taking part and building a new state machine.
     card: 4
   - q: What role does the speech give the Committees for the Defense of the Revolution?
     options:
-      - The organs through which the people exercise revolutionary power, and schools for political education
-      - Advisory bodies with no real power
-      - Units of the regular army
-      - Committees to organize elections
+      - Organs of the people's revolutionary power and schools of politics
+      - Advisory bodies with no real power of their own
+      - Local units of the regular army and its reserves
+      - Committees set up to run national and local elections
     answer: 0
     explain: The CDRs in villages, neighborhoods and workplaces were to organize the whole people, discuss decisions, and carry the revolution everywhere.
     card: 5

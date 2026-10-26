@@ -16,46 +16,46 @@ sources:
 quiz:
   - q: What does Mao mean by 'liberalism' in this essay?
     options:
-      - Support for free markets
-      - A political party opposed to the Communists
+      - Support for free markets and private enterprise
+      - Membership of a party opposed to the Communists and their allies
       - Rejecting ideological struggle for the sake of unprincipled peace
-      - Tolerance of other religions
+      - Tolerance of other religions and customs
     answer: 2
     explain: Mao's liberalism is an attitude inside revolutionary organizations, avoiding principled argument to keep the peace, not a political program.
     card: 1
   - q: Which of these is one of Mao's types of liberalism?
     options:
-      - Criticizing a comrade openly at a meeting
+      - Criticizing a comrade openly at a party meeting
       - Saying nothing to people's faces but gossiping behind their backs
-      - Reporting a mistake to the organization
-      - Taking on a minor assignment willingly
+      - Reporting a comrade's mistake to the organization in writing
+      - Taking on a minor assignment without complaining about its importance
     answer: 1
     explain: Irresponsible criticism in private, instead of open suggestions to the organization, is Mao's second type.
     card: 2
   - q: Which type of liberalism does the saying about the monk tolling the bell describe?
     options:
       - Working half-heartedly, without plan or direction
-      - Ignoring the masses
-      - Seeking revenge on a rival
-      - Disobeying orders
+      - Ignoring the needs and opinions of the masses
+      - Seeking revenge on a rival after a quarrel
+      - Disobeying orders to put one's own opinion first
     answer: 0
     explain: The monk who keeps tolling the bell does the minimum while he stays in post. That is Mao's ninth type, perfunctory work.
     card: 4
   - q: Where, according to Mao, does liberalism come from?
     options:
-      - From foreign propaganda
-      - From too much ideological struggle
+      - From foreign propaganda spread among the troops
+      - From too much ideological struggle inside the party and the army
       - From petty-bourgeois selfishness, which puts personal interests first
-      - From the working class
+      - From the working class and its daily experience
     answer: 2
     explain: Liberalism puts personal interests first and the revolution second. Such people talk Marxism but practice liberalism.
     card: 5
   - q: In the 1942 rectification movement, what was the aim of criticizing a comrade's errors?
     options:
-      - To expel him from the party
+      - To expel him from the party for good
       - To cure the sickness to save the patient
-      - To humiliate him in public
-      - To replace him with a rival
+      - To humiliate him in front of his unit
+      - To replace him with a more loyal rival
     answer: 1
     explain: Like a doctor, the party should expose errors in order to save the comrade, not to doctor him to death.
     card: 6

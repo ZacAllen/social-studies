@@ -31,8 +31,8 @@ quiz:
     card: 1
   - q: How does the Manifesto describe the historical role of the bourgeoisie?
     options:
-      - As a parasite that never changed anything
-      - As a remnant of feudalism
+      - As a parasite that never changed the way things were made
+      - As a remnant of feudalism that held back industry
       - As a class that has played a most revolutionary part
       - As the natural ally of the working class
     answer: 2
@@ -49,10 +49,10 @@ quiz:
     card: 3
   - q: In the Manifesto, what does Communism deprive people of?
     options:
-      - Their personal belongings
+      - Their personal belongings and savings
       - The power to appropriate the products of society
-      - The right to work
-      - The power to subjugate the labour of others
+      - The right to work at a trade of their choosing
+      - The power to subjugate the labor of others
     answer: 3
     explain: Communists aim to abolish bourgeois property, the ownership that lets one class live off the labor of another, not people's share of what society produces.
     card: 4
@@ -113,6 +113,6 @@ As classes disappear, so does the rule of one class over another. In place of th
 
 The *Manifesto* closes with its most famous lines: "The proletarians have nothing to lose but their chains. They have a world to win. Working Men of All Countries, Unite!" [^ch4]
 
-Marx and Engels never treated it as scripture. In 1872 they wrote that its general principles still held, but some practical details were dated. The **Paris Commune** of 1871, when the city's workers held power for two months, had taught them something new:
+Marx and Engels never treated it as scripture. In 1872 they wrote that its general principles still held, but some practical details were dated. The **Paris Commune** of 1871, when the city's workers held power for two months [^pref], had taught them something new:
 
 > "the working class cannot simply lay hold of the ready-made state machinery, and wield it for its own purposes." [^pref]

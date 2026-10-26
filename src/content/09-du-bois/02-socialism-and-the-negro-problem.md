@@ -56,8 +56,8 @@ quiz:
   - q: How did Eugene Debs's 1903 position differ from Du Bois's?
     options:
       - Debs held that there was no Negro question apart from the labor question
-      - Debs supported segregation inside the party
-      - Debs thought socialism should be won region by region
+      - Debs supported segregated locals inside the party
+      - Debs thought socialism should be won region by region, the South last
       - Debs opposed organizing Black workers at all
     answer: 0
     explain: Debs fought racism, but held that the party had "nothing special to offer the Negro." Du Bois argued that socialists had to take up the race question directly.

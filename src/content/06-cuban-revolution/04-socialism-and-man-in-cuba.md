@@ -19,10 +19,10 @@ sources:
 quiz:
   - q: Which argument against socialism did Guevara set out to answer?
     options:
-      - That socialism cannot develop industry
+      - That socialism cannot develop modern industry
       - That socialism abolishes the individual for the sake of the state
-      - That socialism is impossible in a small country
-      - That socialism leads to war
+      - That socialism is impossible on a small island next to the US
+      - That socialism leads sooner or later to war
     answer: 1
     explain: Capitalist spokespeople claimed that socialism crushes the individual. Guevara answered from Cuba's experience, where individuals and the mass shaped each other.
     card: 1
@@ -37,10 +37,10 @@ quiz:
     card: 3
   - q: Why did Guevara warn against relying on material incentives to build socialism?
     options:
-      - Cuba could not afford to pay higher wages
-      - Capitalist tools like profitability and individual material interest would undermine the new consciousness socialism needs
-      - Workers in Cuba did not want higher pay
-      - The Soviet Union had forbidden it
+      - Cuba could not afford to raise wages across the board
+      - Capitalist levers like profit would undermine the new consciousness
+      - Workers in Cuba had said they did not want higher pay
+      - The Soviet Union had forbidden it as a condition of aid
     answer: 1
     explain: He called it a pipe dream that could lead into a blind alley. To build communism, he wrote, it is necessary "to build the new man and woman."
     card: 4
@@ -55,10 +55,10 @@ quiz:
     card: 6
   - q: In the Great Debate of 1963 to 1965, what did Guevara oppose?
     options:
-      - Central planning
-      - Voluntary work
-      - The Soviet-style use of the law of value, profit and material incentives to drive the economy
-      - Moral incentives
+      - Central planning of investment across the whole economy
+      - Voluntary work by party members and students on weekends
+      - The Soviet-style use of profit and material incentives to run the economy
+      - Moral incentives as the main spur to labor in the new socialist society
     answer: 2
     explain: Guevara's Budgetary Finance System relied on central planning and consciousness. In 1987 Castro called for his economic thought to be studied again during the rectification campaign.
     card: 7

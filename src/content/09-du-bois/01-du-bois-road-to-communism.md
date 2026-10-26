@@ -59,10 +59,10 @@ quiz:
     card: 2
   - q: Why did Du Bois resign from The Crisis and the NAACP in 1934?
     options:
-      - The board barred salaried officers from criticizing its policy in the magazine
-      - He had been elected to Congress
-      - He had joined the Communist Party
-      - He wanted to retire from public life
+      - The board barred officers from criticizing its policy in the magazine
+      - He had been elected to a seat in Congress
+      - He had joined the Communist Party and the board objected
+      - He wanted to retire from public life to write
     answer: 0
     explain: Du Bois had been urging voluntary Black 'self-dependence' in the pages of The Crisis. When the board forbade such criticism of its policy, he quit.
     card: 3
@@ -79,7 +79,7 @@ quiz:
     options:
       - That it could be reformed through the New Deal
       - That it would last as long as racism lasted
-      - That it worked well in Europe but not in America
+      - That it worked well in Europe but could not work in America
       - That it "cannot reform itself" and is doomed to self-destruction
     answer: 3
     explain: After seventy years of trying reform, Du Bois concluded that "capitalism cannot reform itself; it is doomed to self-destruction."

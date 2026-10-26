@@ -31,10 +31,10 @@ quiz:
     card: 2
   - q: What was Sankara's judgment on foreign aid to the Sahel?
     options:
-      - It kept people barely alive but did not build development, and deepened debt
-      - It was the main hope for development
-      - It should be replaced by military aid
-      - It was generous but badly distributed by the UN
+      - It kept people barely alive, built no development, and deepened debt
+      - It was the main hope for the Sahel's development
+      - It should be replaced by military aid against armed rebels
+      - It was generous but badly distributed by the UN agencies
     answer: 0
     explain: Few countries had received as much aid as Upper Volta, yet it showed no sign of development. "We refuse simple survival," he said.
     card: 3
@@ -51,7 +51,7 @@ quiz:
     options:
       - Moving its headquarters to Africa
       - An end to the right of veto, which nothing could justify
-      - Doubling the budget of its space programs
+      - Giving the General Assembly power over the Secretariat
       - Admitting South Africa to the Security Council
     answer: 1
     explain: He argued that Africa had also bled in the Second World War, and that its absence from the club of veto powers was an injustice.
@@ -96,7 +96,7 @@ Why could the president of a small African country speak for all of them? Becaus
 
 ---
 
-The Burkinabè revolution, Sankara said, wished to inherit all the revolutions of the world [^un]. From the American revolution it took a lesson in fighting colonial rule. To the Monroe Doctrine's "America for the Americans" he answered "Africa for the Africans; Burkina Faso for the Burkinabe". [^un] The French Revolution taught the rights of man, and the October Revolution of 1917 "made possible the victory of the proletariat". [^un]
+The Burkinabè revolution, Sankara said, wished to inherit all the revolutions of the world [^un]. From the American revolution it took a lesson in fighting colonial rule. To the Monroe Doctrine's "America for the Americans" he answered "Africa for the Africans; Burkina Faso for the Burkinabe" [^un]. The French Revolution taught the rights of man, and the October Revolution of 1917 "made possible the victory of the proletariat" [^un].
 
 The poor nations were demanding a **new international economic order**, a fairer system of world trade and finance. That right, like all the rights of peoples, could be won "only through the struggle of the peoples." [^un] No power would ever give it out of generosity.
 
@@ -106,6 +106,6 @@ Sankara reminded the Assembly what Africa had paid for the world's wealth. Of th
 
 > "It is our blood that nourished the rise of capitalism, that made possible our present condition of dependence and consolidated our underdevelopment." [^un]
 
-He called for Nelson Mandela's release and for South Africa's apartheid regime to be expelled from the UN. He demanded an end to the great powers' right of veto: Africans too had died fighting Hitler, and "nothing can justify that right". [^un]
+He called for Nelson Mandela's release and for South Africa's apartheid regime to be expelled from the UN. He demanded an end to the great powers' right of veto: Africans too had died fighting Hitler, and "nothing can justify that right" [^un].
 
 He ended: "Fatherland or death: we shall triumph." [^un]

@@ -23,45 +23,45 @@ quiz:
   - q: What did John Weston argue before the General Council of the International in 1865?
     options:
       - That a general rise in wages would be of no use to workers, and unions do harm
-      - That workers should form their own political party
-      - That the working day should be cut to eight hours
-      - That the International should support the Owenite colonies
+      - That workers should form their own party and stand for parliament
+      - That the working day should be cut to eight hours by law
+      - That the International should fund new Owenite cooperative colonies
     answer: 0
     explain: Weston, a carpenter and old Owenite, held that wage rises only raise prices. Marx replied that this was theoretically false and practically dangerous.
     card: 1
   - q: According to Marx, what would a general rise in wages mainly do?
     options:
       - Raise the prices of all commodities by the same amount
-      - Cause mass unemployment
+      - Cause mass unemployment as firms close their doors
       - Lower the general rate of profit, without broadly affecting prices
-      - Have no effect at all
+      - Leave both prices and profits exactly where they were
     answer: 2
     explain: Weston assumed a fixed pie. Marx showed that national production keeps changing, and that higher wages come mainly out of profits.
     card: 2
   - q: Why does a commodity have value, according to Marx's address?
     options:
-      - Because people want it
-      - Because it is scarce
-      - Because it is a crystallization of social labour
-      - Because the market sets a price on it
+      - Because people want it and will pay for it
+      - Because it is scarce compared with the demand for it
+      - Because it is a crystallization of social labor
+      - Because the market puts a price on it
     answer: 2
     explain: A commodity's value depends on the relative mass of labor necessary to produce it. Supply and demand only explain swings around that value.
     card: 3
   - q: In Marx's example, the spinner reproduces the value of his wage in six hours. Where does profit come from?
     options:
-      - From selling the yarn above its value
-      - From the six further hours of unpaid, surplus labour
-      - From cheating the spinner on his wage
-      - From the cotton itself
+      - From selling the yarn above its true value
+      - From the six further hours of unpaid, surplus labor
+      - From paying the spinner less than his wage agreement
+      - From the cotton and spindles used up in spinning
     answer: 1
-    explain: The capitalist pays the value of the labouring power for the day, then works the spinner twelve hours. The extra six hours create surplus value.
+    explain: The capitalist pays the value of the laboring power for the day, then works the spinner twelve hours. The extra six hours create surplus value.
     card: 4
   - q: What did Marx say workers should write on their banner?
     options:
       - A fair day's wage for a fair day's work
-      - Higher wages for all
+      - Higher wages and shorter hours for all
       - Abolition of the wages system
-      - Peace between capital and labour
+      - Peace between capital and labor
     answer: 2
     explain: Wage struggles are necessary, but they fight effects, not causes. The aim is to end the wages system itself.
     card: 6

@@ -22,19 +22,19 @@ sources:
 quiz:
   - q: Why did Guevara say the solidarity of progressive forces with Vietnam was not enough?
     options:
-      - Because Vietnam did not want help
-      - Because wishing the victim success is not the same as sharing its fate
-      - Because the war was nearly over
-      - Because only the United Nations could help
+      - Because Vietnam had asked for no outside help
+      - Because wishing the victim success is not sharing its fate
+      - Because the war there was already nearly won
+      - Because only the United Nations could lawfully help
     answer: 1
     explain: He compared the world's sympathy to plebeians cheering gladiators in a Roman arena. Real solidarity means joining the struggle, to death or to victory.
     card: 2
   - q: What choice did Guevara say faced Latin America?
     options:
       - Either a socialist revolution or a make-believe revolution
-      - Either US aid or Soviet aid
-      - Either elections or a military coup
-      - Either industry or agriculture
+      - Either US aid or Soviet aid for its development
+      - Either free elections or a military coup
+      - Either industry or agriculture as the base
     answer: 0
     explain: The local capitalist classes had lost any capacity to oppose imperialism. So the only real road was socialist revolution.
     card: 3
@@ -42,26 +42,26 @@ quiz:
     options:
       - Negotiating with the United States through the UN
       - Waiting for capitalism to collapse on its own
-      - Opening many fronts at once, two, three or many Vietnams, to stretch and wear down US power
-      - Building nuclear weapons
+      - Opening two, three or many Vietnams to stretch US power
+      - Building up Cuba's own army to deter invasion
     answer: 2
     explain: Imperialism is a world system, so it must be defeated in a world confrontation. Many fronts would force the US to scatter its forces.
     card: 4
   - q: How did Che Guevara die?
     options:
-      - In a plane crash in Africa
-      - Of illness in Havana
-      - Shot after being captured seriously wounded in Bolivia in 1967
-      - In battle in Vietnam
+      - Killed in a plane crash in the Congo in 1965
+      - Of illness in a Havana hospital in 1967
+      - Shot after being captured, seriously wounded, in Bolivia
+      - In battle alongside the Vietnamese guerrillas in 1968
     answer: 2
     explain: His guerrilla force in Bolivia was defeated. Castro denounced the shooting of a seriously wounded prisoner and said Che's ideas would outlive him.
     card: 6
   - q: Why did the Communist Party of Venezuela reject Castro's criticism in 1967?
     options:
-      - It had joined the Venezuelan government
-      - It said it accepted no one's tutelage and would decide its own line, which had turned toward elections
-      - It said Castro was not a Marxist
-      - It had already won power peacefully
+      - It had joined the Venezuelan government as a partner
+      - It refused anyone's tutelage and had turned toward elections
+      - It said Castro had never been a Marxist
+      - It had already won power by peaceful means
     answer: 1
     explain: The Venezuelan party had abandoned the guerrillas for legal struggle. Castro answered that any party promising power by peaceful means in Latin America was deceiving the masses.
     card: 7
