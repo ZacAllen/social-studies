@@ -36,6 +36,16 @@ sources:
     label: Malika Rahal, Fused Together and Torn Apart (History and Memory 24:1, 2012), pp. 119–120, quoting the preamble of Algeria's 1963 constitution
     url: https://hal.science/hal-01316086/document
     manual: true
+  - id: indep
+    label: Patrice Lumumba, Independence Day Speech (1960)
+    url: https://www.marxists.org/subject/africa/lumumba/1960/06/independence.htm
+  - id: appeal
+    label: Patrice Lumumba, Solemn Appeal to the President and Members of the Security Council (1960)
+    url: https://www.marxists.org/subject/africa/lumumba/1960/09/appeal.htm
+  - id: lbio
+    label: Patrice Lumumba, in Fighters for National Liberation (Progress Publishers, 1984), pp. 135, 141, 143–144
+    url: https://www.marxists.org/subject/africa/lumumba/lumumba-bio.pdf
+    manual: true
   - id: gsp
     label: GlobalSecurity.org, "Wars of Colonial Portuguese Africa"
     url: https://www.globalsecurity.org/military/world/war/africa-portugal.htm
@@ -59,15 +69,15 @@ quiz:
     answer: 2
     explain: The congress met in Chorlton Town Hall, Manchester, from October 15 to 21, 1945. Du Bois chaired it and Padmore organized it.
     card: 1
-  - q: Which weapons did the congress's Declaration call invincible?
+  - q: What happened to Patrice Lumumba after the Congo's independence?
     options:
-      - The rifle and the guerrilla band
-      - The strike and the boycott
-      - The vote and the petition
-      - The newspaper and the pamphlet
-    answer: 1
-    explain: The Declaration told colonial workers and farmers to organize. Their weapons, the strike and the boycott, were "invincible".
-    card: 2
+      - He was removed from office, jailed, and killed in Katanga in January 1961
+      - He led the Congo until a negotiated retirement in the late 1960s
+      - He resigned in protest and went into exile in Ghana for a decade
+      - He was elected president of the Organization of African Unity
+    answer: 0
+    explain: Removed in September 1960 and jailed in November, he was flown to Katanga on January 17, 1961, and shot that evening.
+    card: 6
   - q: What worried Nkrumah about the new African states in 1961?
     options:
       - Many were small, weak and almost helpless on their own
@@ -94,7 +104,7 @@ quiz:
       - The death of the dictator and a free election in 1975
     answer: 2
     explain: The Armed Forces Movement overthrew the Caetano regime on April 25, 1974. Guinea-Bissau won independence that September, and Mozambique and Angola in 1975.
-    card: 6
+    card: 7
 ---
 
 From October 15 to 21, 1945, the **Fifth Pan-African Congress** met in Chorlton Town Hall, Manchester, England [^pac]. **Pan-Africanism** is the movement to unite Africans and people of African descent against colonial rule and racism.
@@ -140,6 +150,12 @@ The price was terrible, and its size is still disputed. Estimates of Algerian de
 In 1974 Algeria's own Ministry of Former Moudjahidine (veterans) counted 152,863 fighters killed, out of 336,748 [^perv]. About 24,000 soldiers of the French forces died [^perv].
 
 French forces also drove more than two million rural Algerians from their land into camps ringed with barbed wire [^perv].
+
+---
+
+On June 30, 1960, Belgium's colony the **Congo** became independent. **Patrice Lumumba**, whose party had won the May elections, headed its first government [^lbio]. He told the independence ceremony: "We have experienced forced labour in exchange for pay that did not allow us to satisfy our hunger" [^indep].
+
+The province of **Katanga** soon broke away under Moïse Tshombe [^lbio]. Lumumba charged that Belgium was arming the "illegal and rebel Government of Katanga" [^appeal]. In September he was removed from office, and in November jailed [^lbio]. On January 17, 1961, he and two comrades were flown to Katanga and shot that evening [^lbio]. A UN commission named Belgian mining managers and mercenaries among the accomplices, and a US Senate inquiry found the CIA had sought his death [^lbio].
 
 ---
 
