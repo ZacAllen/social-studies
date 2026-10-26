@@ -44,6 +44,20 @@ sources:
   - id: yaffe
     label: Helen Yaffe, Ernesto 'Che' Guevara, a Rebel against Soviet Political Economy (2006)
     url: https://www.marxists.org/subject/economy/authors/yaffeh/che-critic.htm
+  - id: bandeira
+    label: Luiz Alberto Moniz Bandeira, De Martí a Fidel, a Revolução Cubana e a América Latina (Civilização Brasileira, 1998), p. 202, as quoted in Augusto Malavasi Gabella, A justiça revolucionária em Cuba nas páginas do jornal Revolución (Universidade Estadual de Londrina, 2019), pp. 53–54
+    url: https://sites.uel.br/ndph/wp-content/uploads/2022/08/93PORQUE-FUSILAMOS-A-LOS-CRIMINALES-DE-GUERRA94-A-JUSTICA-REVOLUCIONARIA-EM-CUBA-NAS-PAGINAS-DO-JORNAL-REVOLUCION.pdf
+    manual: true
+  - id: sierra
+    label: Abel Sierra Madero, El cuerpo nunca olvida (Rialta Ediciones, 2022), as reported by EFE in ABC Color (2022)
+    url: https://www.abc.com.py/internacionales/2022/04/05/el-cuerpo-nunca-olvida-un-ensayo-sobre-campos-de-concentracion-en-cuba/
+    manual: true
+  - id: mariel
+    label: Immigration and Ethnic History Society, Immigration History, "Mariel Boatlift"
+    url: https://immigrationhistory.org/item/mariel-boatlift/
+  - id: rodriguez
+    label: José Luis Rodríguez García, The Cuban Economy, Experiences and Perspectives (1989–2010) (Estudos Avançados 25:72, 2011)
+    url: https://www.scielo.br/j/ea/a/ZDsfdYJymh7TwVGB7P6wwDH/?lang=en
   - id: decl
     label: Fidel Castro, The Second Declaration of Havana (1962)
     url: https://walterlippmann.com/fc-02-04-1962.html
@@ -144,20 +158,18 @@ He fought in Bolivia, and his *Message to the Tricontinental* (1967) called for 
 
 ---
 
-The revolution also made grave errors and used harsh measures. In January 1959, revolutionary courts tried and shot police and army men of Batista's regime accused of murder. Castro defended the trials before a vast rally and said the number executed "will not be more than 400" [^rule].
+The revolution also made grave errors and used harsh measures. In January 1959, revolutionary courts tried and shot police and army men of Batista's regime accused of murder. Castro defended the trials and said the number executed "will not be more than 400" [^rule]; the historian Luiz Alberto Moniz Bandeira puts it at about 550 [^bandeira].
 
-Many managers and technicians left: one historian puts the exodus at 65–75% of managers, technicians and engineers after 1959 [^yaffe].
+The historian Helen Yaffe puts the exodus after 1959 at 65–75% of managers, technicians and engineers [^yaffe].
 
-Through the 1960s and 1970s, Cuba sent openly gay men to labor camps without charge or trial [^cnn]. In 2010 Castro took responsibility:
+Through the 1960s and 1970s, Cuba sent openly gay men to labor camps without charge or trial [^cnn]. About 30,000 people passed through the UMAP camps of 1965–1968 alone, by the historian Abel Sierra Madero's count [^sierra]. In 2010 Castro took responsibility:
 
 > "They were moments of great injustice, great injustice!" [^cnn]
 
 ---
 
-The revolution survived a US blockade that, by 2003, had lasted almost half a century [^may03]. Castro, speaking in 2003, pointed to its gains in health:
+The revolution survived a US blockade that, by 2003, had lasted almost half a century [^may03]. In 1980 about 125,000 Cubans left for the United States from the port of Mariel [^mariel]. After the Soviet bloc fell, GDP dropped nearly 35% between 1989 and 1993 and calorie intake by more than 30%, by the count of Cuba's former economy minister José Luis Rodríguez [^rodriguez]. In 2003 Castro pointed to gains in health:
 
 > "Infant mortality has been reduced from 60 per 1000 live births to a rate that fluctuates between 6 and 6.5" [^may03]
 
-By his count, "More than half a million Cubans have carried out internationalist missions" abroad as soldiers, teachers and doctors [^may03].
-
-Cuba showed that a small, poor country could make a socialist revolution ninety miles from the United States [^mayday]. The lessons that follow read its central works: Castro's two great speeches, and Guevara's writings on the new person and on world revolution.
+Cuba showed that a small, poor country could make a socialist revolution ninety miles from the United States [^mayday]. The lessons that follow read the central works of Castro and Guevara.
