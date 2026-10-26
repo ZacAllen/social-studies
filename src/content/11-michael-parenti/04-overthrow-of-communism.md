@@ -92,7 +92,7 @@ Life there "left a lot to be desired" and services were rarely the best, he admi
 
 The Soviet state was born under attack. In 1918–1920, fourteen capitalist nations, including the United States, invaded Soviet Russia to overthrow the Bolsheviks. Parenti called the result **siege socialism**: centralized power and party unity, built to survive [^ch3].
 
-By the late 1920s, the Soviets chose forced industrialization, building a huge industrial base east of the Ural Mountains. When the Nazis invaded in 1941, that base produced the weapons that turned the tide. The cost included 22 million Soviet dead [^ch3].
+By the late 1920s, the Soviets chose forced industrialization, building a huge industrial base east of the Ural Mountains. When the Nazis invaded in 1941, that base produced the weapons that turned the tide. The cost, by Parenti's count, included 22 million Soviet dead [^ch3].
 
 The same siege left lasting damage:
 
@@ -116,7 +116,7 @@ People took free schooling and health care for granted while longing for Western
 
 > "We thought building a good society would make good people. That's not always true." [^ch4]
 
-When perestroika (Gorbachev's restructuring) opened the economy, Parenti wrote, "socialism was used to subsidize and build an unforgiving capitalism" [^ch4].
+When perestroika (the restructuring led by the Soviet leader Mikhail Gorbachev) opened the economy, Parenti wrote, "socialism was used to subsidize and build an unforgiving capitalism" [^ch4].
 
 ---
 

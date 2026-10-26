@@ -58,7 +58,7 @@ quiz:
     card: 6
 ---
 
-Revolution came to Upper Volta on the night of 4 August 1983 [^un]. A year later the country had a new name, Burkina Faso, and on 4 October 1984 its leader, Thomas Sankara, stood before the **General Assembly**, the forum of all the United Nations' member states [^un].
+Revolution came to Upper Volta on the night of August 4, 1983 [^un]. A year later the country had a new name, Burkina Faso, and on October 4, 1984, its leader, Thomas Sankara, stood before the **General Assembly**, the forum of all the United Nations' member states [^un].
 
 He spoke for a country of 274,000 square kilometers and 7 million people. He set out his purpose plainly:
 

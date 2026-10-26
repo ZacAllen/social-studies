@@ -117,7 +117,7 @@ Such an interruption, he wrote, "can only be welcomed" [^post].
 
 ---
 
-**The debate:** In 1918 Karl Kautsky, the best-known leader of the Second International [^pref], attacked Bolshevik rule as dictatorship instead of democracy. He set the rule of a class apart from dictatorship as a form of government:
+**The debate:** In 1918 Karl Kautsky, the best-known leader of the Second International (the pre-1914 federation of socialist parties) [^pref], attacked Bolshevik rule as dictatorship instead of democracy. He set the rule of a class apart from dictatorship as a form of government:
 
 > "Dictatorship as a form of government means disarming the opposition, by taking from them the franchise, and liberty of the Press and combination." [^kautsky]
 

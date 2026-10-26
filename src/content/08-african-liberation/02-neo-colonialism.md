@@ -59,7 +59,7 @@ quiz:
       - Its earth is rich, yet its wealth enriches others rather than Africans
       - It won independence but kept colonial languages
     answer: 2
-    explain: Africa held huge reserves of minerals, water power and farmland, yet produced only about two per cent of world output while its resources fed overseas development.
+    explain: Africa held huge reserves of minerals, water power and farmland, yet produced only about two percent of world output while its resources fed overseas development.
     card: 3
   - q: How did Nkrumah describe aid given to a neo-colonial state?
     options:
@@ -83,7 +83,7 @@ quiz:
 
 Kwame Nkrumah (1909–1972) led the British colony of the Gold Coast to independence as **Ghana** in 1957. He worked for a united Africa and helped found the Organization of African Unity in 1963. [^gnk]
 
-In 1965 he published this book. Its title answers Lenin, who in 1916 had analysed imperialism "as the highest stage of capitalism" [^ch3]. Nkrumah's opening claim:
+In 1965 he published this book. Its title answers Lenin, who in 1916 had analyzed imperialism "as the highest stage of capitalism" [^ch3]. Nkrumah's opening claim:
 
 > "The neo-colonialism of today represents imperialism in its final and perhaps its most dangerous stage." [^intro]
 
@@ -97,19 +97,19 @@ What is **neo-colonialism**? Nkrumah's definition:
 
 Sometimes foreign troops garrison the country. More often, control works through money: the new state must buy the old ruler's goods, foreign civil servants dictate policy, and a foreign-controlled banking system holds its foreign exchange. [^intro]
 
-For those who practise it, he wrote, it means "power without responsibility" [^intro].
+For those who practice it, he wrote, it means "power without responsibility" [^intro].
 
 ---
 
 The first chapter opens with a paradox. Africa's "earth is rich, yet the products that come from above and below her soil continue to enrich, not Africans predominantly" [^ch1].
 
-Nkrumah gave the numbers. With about 280 million people, eight per cent of the world's population, Africa produced only two per cent of world output. Yet it held more than 40 per cent of the world's potential water power, and used less than five per cent of it. [^ch1]
+Nkrumah gave the numbers. With about 280 million people, eight percent of the world's population, Africa produced only two percent of world output. Yet it held more than 40 percent of the world's potential water power, and used less than five percent of it. [^ch1]
 
 Its resources, he wrote, had been "used for the greater development of overseas interests" [^ch1].
 
 ---
 
-How does the drain work without colonial rule? Through the world market: from 1951 to 1961, prices for primary products such as ores and crops fell by 33.1 per cent, while prices of manufactured goods rose. [^ch18]
+How does the drain work without colonial rule? Through the world market: from 1951 to 1961, prices for primary products such as ores and crops fell by 33.1 percent, while prices of manufactured goods rose. [^ch18]
 
 Through debt: in 1962, seventy-one Asian, African and Latin American countries paid some $5,000 million in interest on $27,000 million of foreign debt. [^ch18]
 
@@ -135,6 +135,6 @@ That power, he ended, lay with the peoples who suffer neo-colonialism, "if they 
 
 ---
 
-Nkrumah's own government fell soon after. In 1964 he made Ghana a one-party state with himself as president for life, and critics accused him of building a cult of personality. [^gnk] On 24 February 1966, while he was travelling to Hanoi with proposals to end the Vietnam War, army and police officers seized power [^dark1], with Western backing [^gnk]. He died in exile in 1972. [^gnk]
+Nkrumah's own government fell soon after. In 1964 he made Ghana a one-party state with himself as president for life, and critics accused him of building a cult of personality. [^gnk] On February 24, 1966, while he was traveling to Hanoi with proposals to end the Vietnam War, army and police officers seized power [^dark1], with Western backing [^gnk]. He died in exile in 1972. [^gnk]
 
 In exile he wrote *Dark Days in Ghana* (1968). It admitted that the professionals he had taken into the party "looked on independence as a strictly national concern", and that he had "trusted too much in the power of a reformed chieftaincy" [^dark4].

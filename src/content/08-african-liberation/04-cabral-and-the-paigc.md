@@ -61,7 +61,7 @@ quiz:
       - About a tenth
       - About a quarter
       - Only the islands of Cabo Verde
-      - About 60 per cent of the territory, with half the people
+      - About 60 percent of the territory, with half the people
     answer: 3
     explain: Cabral reported that Portuguese rule had been pushed back to the urban areas. In the liberated zones the PAIGC organized production, schools and health care.
     card: 4
@@ -111,7 +111,7 @@ In the towns, Cabral found one group especially dynamic: young people recently a
 
 The PAIGC began its war in 1963. [^ppt] It started, Cabral said, with "a people with a 99% illiteracy rate" and "only 14 university-trained men" [^ppt].
 
-By the end of 1968, he reported, the **liberated areas** covered about 60 per cent of the country, where half the people lived. [^tds] There the party organized production, security, schools and health care. [^tds] Women led village committees and sat at every level of the party. [^ppt]
+By the end of 1968, he reported, the **liberated areas** covered about 60 percent of the country, where half the people lived. [^tds] There the party organized production, security, schools and health care. [^tds] Women led village committees and sat at every level of the party. [^ppt]
 
 In 1972 a **National People's Assembly** was created, chosen by popular vote in the liberated territories. [^gca]
 
@@ -125,9 +125,9 @@ Fighters were to remember "that we are armed militants and not militarists" [^tn
 
 ---
 
-Cabral did not live to see victory. On 20 January 1973 he was assassinated in Conakry, in the neighboring Republic of Guinea, where the PAIGC had its headquarters. [^gs] His killers had help from Portuguese agents operating within the PAIGC. [^gca] The enemy had reached him through his own party.
+Cabral did not live to see victory. On January 20, 1973, he was assassinated in Conakry, in the neighboring Republic of Guinea, where the PAIGC had its headquarters. [^gs] His killers had help from Portuguese agents operating within the PAIGC. [^gca] The enemy had reached him through his own party.
 
-The movement went on. On 24 September 1973 the PAIGC National Assembly, meeting at Boe, declared Guinea-Bissau independent. After Portugal's own revolution in April 1974, Lisbon recognized it that September. [^gs]
+The movement went on. On September 24, 1973, the PAIGC National Assembly, meeting at Boe, declared Guinea-Bissau independent. After Portugal's own revolution in April 1974, Lisbon recognized it that September. [^gs]
 
 Cabral's half-brother Luís became president. In late 1980 he was overthrown in a coup led by his prime minister, João Bernardo Vieira. [^gs]
 
@@ -135,6 +135,6 @@ Cabral's half-brother Luís became president. In late 1980 he was overthrown in 
 
 **The debate:** Fanon had written that "in the colonial countries the peasants alone are revolutionary, for they have nothing to lose and everything to gain" [^fanon1]. He also saw the uprooted urban poor as "one of the most spontaneous and the most radically revolutionary forces of a colonized people" [^fanon2].
 
-Cabral, speaking in 1964 at a centre named for Fanon, disagreed on both counts. [^bassg] The **déclassés** (beggars, prostitutes and others outside any class) had helped the Portuguese police. [^bassg] And of the peasants:
+Cabral, speaking in 1964 at a center named for Fanon, disagreed on both counts. [^bassg] The **déclassés** (beggars, prostitutes and others outside any class) had helped the Portuguese police. [^bassg] And of the peasants:
 
 > "physically, the peasantry is a great force in Guinea … but we know from experience what trouble we had convincing the peasantry to fight." [^bassg]

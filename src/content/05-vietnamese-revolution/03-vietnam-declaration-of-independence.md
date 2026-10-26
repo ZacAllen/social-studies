@@ -71,7 +71,7 @@ quiz:
     card: 5
 ---
 
-On 2 September 1945, at Ba Dinh Square in Hanoi, Ho Chi Minh read a Declaration of Independence on behalf of the Provisional Government, before a crowd the Party put at nearly a million [^cpv]. Japan had just surrendered, and the people had risen to found the **Democratic Republic of Vietnam** [^decl].
+On September 2, 1945, at Ba Dinh Square in Hanoi, Ho Chi Minh read a Declaration of Independence on behalf of the Provisional Government, before a crowd the Party put at nearly a million [^cpv]. Japan had just surrendered, and the people had risen to found the **Democratic Republic of Vietnam** [^decl].
 
 Ho began with the words of another revolution:
 
@@ -99,7 +99,7 @@ They had forced opium and alcohol on the people. In economics, they had seized t
 
 In the autumn of 1940, Ho went on, the French had handed the country to Japan, and the people bore "the double yoke of the French and the Japanese" [^decl]. In the famine that followed, from the end of 1944 into 1945, "more than two million of our fellow-citizens died from starvation" [^decl].
 
-On 9 March 1945 the Japanese disarmed the French, who fled or surrendered [^decl]. So France had no claim to return:
+On March 9, 1945, the Japanese disarmed the French, who fled or surrendered [^decl]. So France had no claim to return:
 
 > "The truth is that we have wrested our independence from the Japanese and not from the French." [^decl]
 
@@ -115,4 +115,4 @@ In its place stood a Democratic Republic. Its Provisional Government broke off "
 
 Ho closed by holding the Allies to their word. At Tehran and San Francisco they had backed self-determination, so they could not refuse to recognize Vietnam [^decl]. He declared that Vietnam "has the right to be a free and independent country and in fact it is so already" [^decl].
 
-Three weeks later, on 23 September 1945, French troops, backed by British bayonets, seized Saigon [^oneyear]. The Declaration became the charter of the long war that followed: a colonized people claiming, in the colonizers' own language, the rights the colonizers proclaimed.
+Three weeks later, on September 23, 1945, French troops, backed by British bayonets, seized Saigon [^oneyear]. The Declaration became the charter of the long war that followed: a colonized people claiming, in the colonizers' own language, the rights the colonizers proclaimed.

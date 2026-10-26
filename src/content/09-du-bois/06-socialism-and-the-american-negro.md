@@ -101,7 +101,7 @@ In Western Europe he saw prosperity built on colonies, and a home working class 
 
 In China Du Bois believed he saw "willing cooperation and of a wide spread content and happiness which I had not seen elsewhere in the world." He admitted, "After all I saw these countries only partially and for brief visits" [^fw]. He celebrated his 91st birthday in Beijing in 1959 [^china].
 
-That was the **Great Leap Forward**, launched in 1958 with the rural people's communes. In 1981 the Communist Party of China judged that 'Left' errors, "excessive targets, the issuing of arbitrary directions, boastfulness," along with natural disasters and cancelled Soviet contracts, caused "serious losses to our country and people" in 1959–1961 [^cpc].
+That was the **Great Leap Forward**, launched in 1958 with the rural people's communes. In 1981 the Communist Party of China judged that 'Left' errors, "excessive targets, the issuing of arbitrary directions, boastfulness," along with natural disasters and canceled Soviet contracts, caused "serious losses to our country and people" in 1959–1961 [^cpc].
 
 Demographers estimate the famine's excess deaths at 16.5 to 30 million, and unpublished Chinese materials suggest close to 40 million [^smil].
 

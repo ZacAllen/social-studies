@@ -40,12 +40,12 @@ quiz:
     card: 1
   - q: Why, according to Marx, are wages not a share of what the worker produces?
     options:
-      - Because the capitalist pays them out of money already on hand, as the price of labour-power
+      - Because the capitalist pays them out of money already on hand, as the price of labor-power
       - Because the state sets them by law
       - Because workers are paid only after the product is sold
       - Because wages are a gift from the employer
     answer: 0
-    explain: The weaver is paid before the cloth is sold, perhaps before it is finished. The capitalist buys labour-power just as he buys yarn and looms.
+    explain: The weaver is paid before the cloth is sold, perhaps before it is finished. The capitalist buys labor-power just as he buys yarn and looms.
     card: 2
   - q: What does Marx mean when he says the free labourer sells his very self by fractions?
     options:
@@ -84,9 +84,9 @@ Having traced the year's political battles, Marx turned to the economic conditio
 
 ---
 
-Ask workers what they earn, Marx began, and they name a sum of money for a day or a task. It seems they sell their labor. "But this is merely an illusion." [^ch2] What they sell is **labour-power**, their capacity to work for a set time. (In 1891 Engels revised the text for a mass edition to make this distinction exact, as Marx had in his later work [^intro].)
+Ask workers what they earn, Marx began, and they name a sum of money for a day or a task. It seems they sell their labor. "But this is merely an illusion." [^ch2] What they sell is **labor-power**, their capacity to work for a set time. (In 1891 Engels revised the text for a mass edition to make this distinction exact, as Marx had in his later work [^intro].)
 
-The weaver is paid long before the cloth is sold. The capitalist buys his labour-power out of money already on hand, as he buys yarn and a loom:
+The weaver is paid long before the cloth is sold. The capitalist buys his labor-power out of money already on hand, as he buys yarn and a loom:
 
 > "Wages, therefore, are not a share of the worker in the commodities produced by himself." [^ch2]
 

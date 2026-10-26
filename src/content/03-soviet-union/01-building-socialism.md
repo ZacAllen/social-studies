@@ -41,12 +41,12 @@ quiz:
     card: 1
   - q: According to Stalin's report of January 1933, what share of total output came from industry by 1932?
     options:
-      - 48 per cent
-      - 30 per cent
-      - 70 per cent
-      - 90 per cent
+      - 48 percent
+      - 30 percent
+      - 70 percent
+      - 90 percent
     answer: 2
-    explain: Industry rose from 48 per cent of total output in 1928 to 70 per cent in 1932, turning an agrarian country into an industrial one.
+    explain: Industry rose from 48 percent of total output in 1928 to 70 percent in 1932, turning an agrarian country into an industrial one.
     card: 2
   - q: What did Stalin insist on in Dizzy with Success (1930)?
     options:
@@ -89,7 +89,7 @@ The answer was the **First Five-Year Plan** (1928–1932): a single state plan s
 
 > "We did not have an iron and steel industry, the basis for the industrialisation of the country." [^fyp]
 
-Nor had it had tractor, automobile, machine-tool or aircraft industries. Industry's share of total output, he reported, rose from 48 per cent in 1928 to 70 per cent in 1932. Unemployment had been abolished, while 30 to 40 million were jobless in the capitalist countries [^fyp].
+Nor had it had tractor, automobile, machine-tool or aircraft industries. Industry's share of total output, he reported, rose from 48 percent in 1928 to 70 percent in 1932. Unemployment had been abolished, while 30 to 40 million were jobless in the capitalist countries [^fyp].
 
 ---
 
@@ -101,11 +101,11 @@ In practice it meant mass deportation. Several hundred thousand peasant families
 
 ---
 
-The pace outran the party's own rules. By February 20, 1930, Stalin reported, 50 per cent of peasant farms had been collectivized [^dizzy]. In *Dizzy with Success* (March 1930) he condemned officials who threatened peasants with armed force or cut off their water and goods:
+The pace outran the party's own rules. By February 20, 1930, Stalin reported, 50 percent of peasant farms had been collectivized [^dizzy]. In *Dizzy with Success* (March 1930) he condemned officials who threatened peasants with armed force or cut off their water and goods:
 
 > "Collective farms must not be established by force." [^dizzy]
 
-The coercion did not stop. Many peasants slaughtered their horses rather than hand them over, and draught animals fell by about 15 per cent before tractors could replace them [^free]. By 1932 more than 60 per cent of peasant farms were in collective farms [^fyp].
+The coercion did not stop. Many peasants slaughtered their horses rather than hand them over, and draught animals fell by about 15 percent before tractors could replace them [^free]. By 1932 more than 60 percent of peasant farms were in collective farms [^fyp].
 
 ---
 

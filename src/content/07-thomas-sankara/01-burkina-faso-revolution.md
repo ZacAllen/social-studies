@@ -27,7 +27,7 @@ sources:
     label: Al Jazeera, Life Sentence for Burkinabe Ex-Leader Compaoré for Sankara Murder (6 April 2022)
     url: https://www.aljazeera.com/news/2022/4/6/hold-burkina-faso-sankara-trial
 quiz:
-  - q: How did the revolution of 4 August 1983 begin?
+  - q: How did the revolution of August 4, 1983, begin?
     options:
       - A general strike in the capital forced the president to resign
       - An election brought the National Council of the Revolution to power
@@ -56,7 +56,7 @@ quiz:
     card: 4
   - q: How did Sankara die?
     options:
-      - He was killed with 12 other officials in a coup led by Blaise Compaoré on 15 October 1987
+      - He was killed with 12 other officials in a coup led by Blaise Compaoré on October 15, 1987
       - He died in the border war with Mali in December 1985
       - He was executed after a trial by the National Council of the Revolution
       - He was killed by French troops during an invasion
@@ -76,7 +76,7 @@ quiz:
 
 In 1983, Upper Volta was a former French colony in West Africa, independent since 1960 but ruled by a series of regimes taking their orders from France [^sa-eye].
 
-On 17 May 1983, a young army captain, **Thomas Sankara**, was arrested in a coup by President Jean-Baptiste Ouédraogo, and thousands took to the streets to demand his release [^proc]. On 4 August, Captain Blaise Compaoré and 250 men marched on the capital, Ouagadougou, and overthrew the regime [^proc]. That night Sankara, president of the new **National Council of the Revolution** (CNR), spoke on the radio. The soldiers had acted, he said:
+On May 17, 1983, a young army captain, **Thomas Sankara**, was arrested in a coup by President Jean-Baptiste Ouédraogo, and thousands took to the streets to demand his release [^proc]. On August 4, Captain Blaise Compaoré and 250 men marched on the capital, Ouagadougou, and overthrew the regime [^proc]. That night Sankara, president of the new **National Council of the Revolution** (CNR), spoke on the radio. The soldiers had acted, he said:
 
 > "to restore independence and liberty to our country and dignity to our people." [^proc]
 
@@ -86,7 +86,7 @@ The revolution called itself 'democratic and popular': its first task was to end
 
 In four years the people built irrigation schemes, dams and health clinics, and ran mass campaigns for literacy and vaccination [^sa-eye]. The land was nationalized, the privileges of the traditional chiefs were curtailed, and great tree-planting drives held back the desert [^sa-coup].
 
-On 2 August 1984 the country took a new name [^afas]: **Burkina Faso**, "the land of the upright" [^aj].
+On August 2, 1984, the country took a new name [^afas]: **Burkina Faso**, "the land of the upright" [^aj].
 
 ---
 
@@ -104,11 +104,11 @@ The revolution also made hard and costly choices. Against what he called union "
 
 He announced an office to reexamine the cases [^afas].
 
-In June 1984 a military court convicted seven men, most of them army officers, of plotting a coup for 28 May, and they were executed [^csm]. In May 1987 the government jailed Soumane Touré, a union leader, after he attacked it [^sa-coup].
+In June 1984 a military court convicted seven men, most of them army officers, of plotting a coup for May 28, and they were executed [^csm]. In May 1987 the government jailed Soumane Touré, a union leader, after he attacked it [^sa-coup].
 
 ---
 
-On 15 October 1987, Compaoré, Sankara's friend and comrade-in-arms, led a coup. Sankara, aged 37, was killed along with 12 other officials [^aj]. Early reports of the dead varied: one socialist paper reported 100 more killed in the fighting [^sa-coup]. Sankara and the others were buried hastily in a mass grave [^sa-eye].
+On October 15, 1987, Compaoré, Sankara's friend and comrade-in-arms, led a coup. Sankara, aged 37, was killed along with 12 other officials [^aj]. Early reports of the dead varied: one socialist paper reported 100 more killed in the fighting [^sa-coup]. Sankara and the others were buried hastily in a mass grave [^sa-eye].
 
 Compaoré branded Sankara a 'traitor' and claimed Sankara had plotted to kill him [^sa-eye]. A speech Sankara had prepared for that very day began with a warning:
 
@@ -118,10 +118,10 @@ Compaoré branded Sankara a 'traitor' and claimed Sankara had plotted to kill hi
 
 The people mourned. Thousands walked to the cemetery, and at one school in the capital students threw out a speaker for the new regime, chanting "Sankara or no one" [^sa-eye]. In Ghana, President Jerry Rawlings declared a week of mourning [^sa-eye].
 
-Compaoré ruled until a popular uprising removed him in 2014, and he fled to Ivory Coast [^aj]. On 6 April 2022, after a six-month trial, a military court in Burkina Faso sentenced him in absentia to life imprisonment for Sankara's murder [^aj].
+Compaoré ruled until a popular uprising removed him in 2014, and he fled to Ivory Coast [^aj]. On April 6, 2022, after a six-month trial, a military court in Burkina Faso sentenced him in absentia to life imprisonment for Sankara's murder [^aj].
 
 ---
 
 **The debate:** Behind the coup lay an argument over how to treat dissent. The Union of Communists of Burkina, formed in 1985 by Compaoré and other officers, called for "a tougher line against internal dissenters and a more administrative approach to the revolution" [^sa-eye]. Compaoré had said in 1984 that "it is the top, the leadership which decides and the grassroots have to submit" [^sa-coup].
 
-Sankara, an eyewitness reported, tried to bring people into the revolution "by means of discussion, organisation and education, by political consent as opposed to administrative force" [^sa-eye]. Mourners recalled Fidel Castro's words after the killing of Grenada's Maurice Bishop in 1983 [^frfi]: "no crime can be committed in the name of the revolution" [^sa-eye].
+Sankara, an eyewitness reported, tried to bring people into the revolution "by means of discussion, organisation and education, by political consent as opposed to administrative force" [^sa-eye]. Mourners recalled the words of Cuba's Fidel Castro after the killing of Grenada's Maurice Bishop in 1983 [^frfi]: "no crime can be committed in the name of the revolution" [^sa-eye].

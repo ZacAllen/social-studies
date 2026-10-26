@@ -51,7 +51,7 @@ quiz:
       - The poor peasants
       - The small landlords
     answer: 2
-    explain: The poor peasants, about 70 per cent of the rural population in Changsha County, had the least to lose and fought hardest.
+    explain: The poor peasants, about 70 percent of the rural population in Changsha County, had the least to lose and fought hardest.
     card: 5
   - q: How did Chen Duxiu later explain the party's policy of restraining the peasants in 1927?
     options:
@@ -82,7 +82,7 @@ Every party, Mao warned, would be tested by this upsurge. He put the choice plai
 
 The main targets were the **local tyrants and evil gentry** (the landlords and rural notables who ran the villages, taxed them and judged them). In the cities, their friends had one phrase for the uprising: "It's terrible!" [^rep]
 
-Mao turned the phrase around. The peasants were overthrowing a feudal class that had ruled for thousands of years, he argued. It had achieved in a few months what Sun Yat-sen had failed to do in forty years.
+Mao turned the phrase around. The peasants were overthrowing a feudal class that had ruled for thousands of years, he argued. It had achieved in a few months what Sun Yat-sen, the nationalist leader, had failed to do in forty years.
 
 > "What the peasants are doing is absolutely right, what they are doing is fine!" [^rep]
 
@@ -100,7 +100,7 @@ A revolution, he went on, "is an insurrection, an act of violence by which one c
 
 ---
 
-Who led the fight? Mao divided the peasants by class. **Rich peasants** held back, and **middle peasants** wavered. In Changsha County, the **poor peasants** made up 70 per cent of the rural population, middle peasants 20 per cent, and landlords and rich peasants 10 per cent [^rep].
+Who led the fight? Mao divided the peasants by class. **Rich peasants** held back, and **middle peasants** wavered. In Changsha County, the **poor peasants** made up 70 percent of the rural population, middle peasants 20 percent, and landlords and rich peasants 10 percent [^rep].
 
 The poor were the most determined, because they had nothing to lose. Rich peasants mocked them:
 
@@ -118,8 +118,8 @@ Yet Mao warned against smashing idols for the peasants. Let the peasants cast th
 
 ---
 
-**The debate:** The party's leader in 1927 was Chen Duxiu, one of its founders [^chen1]. To keep the alliance with the Kuomintang, the leadership tried to check the peasants' 'excesses'. Mao's editors later blamed "the Right opportunists in the Party, headed by Chen Tu-hsiu" [^rep]. Within months the Kuomintang turned on the Communists and the movement was crushed.
+**The debate:** The party's leader in 1927 was Chen Duxiu, one of its founders [^chen1]. To keep the alliance with the Kuomintang, the leadership tried to check the peasants' 'excesses'. Mao's editors later blamed "the Right opportunists in the Party, headed by Chen Tu-hsiu" [^rep] (an older spelling of Chen Duxiu). Within months the Kuomintang turned on the Communists and the movement was crushed.
 
-In 1929, writing on the side of Trotsky's opposition, Chen accepted the blame but traced the line to Moscow: he had "sincerely executed the policy of opportunism of the international leaders" [^chen1]. Of the peasants, he admitted:
+In 1929, writing on the side of the opposition led by Leon Trotsky, Stalin's opponent,, Chen accepted the blame but traced the line to Moscow: he had "sincerely executed the policy of opportunism of the international leaders" [^chen1]. Of the peasants, he admitted:
 
 > "We did execute this shameful policy of checking the peasants' over-zealous action" [^chen2]

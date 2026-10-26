@@ -110,7 +110,7 @@ Hitler had planned to destroy Russia so that she could never rise again. Instead
 
 ---
 
-The cost was staggering. The audit of Soviet population losses commissioned under Gorbachev put the war dead at 26–27 million, one in eight of the prewar population [^harrison]. Many died not in battle but of hunger, disease and exhaustion [^harrison].
+The cost was staggering. The audit of Soviet population losses commissioned under the Soviet leader Mikhail Gorbachev put the war dead at 26–27 million, one in eight of the prewar population [^harrison]. Many died not in battle but of hunger, disease and exhaustion [^harrison].
 
 For decades the true number was hidden. In 1946 Stalin announced losses of "a total of about seven million people" [^fulton]. Khrushchev later raised the official figure to 20 million, still a round number [^harrison]. Only the audit of the late Soviet years gave the real scale [^harrison].
 

@@ -114,6 +114,6 @@ He did not ask the court to free him while his comrades sat in prison. He closed
 
 ---
 
-Less than six years later, Castro headed a revolutionary government. Its's **Agrarian Law** of May 1959 put the land program into effect. Castro promised that "two million Cubans will have their income increased" [^agr].
+Less than six years later, Castro headed a revolutionary government. Its **Agrarian Law** of May 1959 put the land program into effect. Castro promised that "two million Cubans will have their income increased" [^agr].
 
 In 1961, proclaiming the revolution socialist, Castro reached back to the trial and read a line from it: "No social problem is resolved spontaneously." [^mayday] The program for democratic reform had grown into a socialist revolution, because the landholders and monopolies would accept no reform at all.

@@ -61,7 +61,7 @@ quiz:
     card: 6
 ---
 
-On 29 July 1987, Thomas Sankara of Burkina Faso addressed the summit of the **Organization of African Unity** (OAU), the body of Africa's independent states, in Addis Ababa, Ethiopia [^debt].
+On July 29, 1987, Thomas Sankara of Burkina Faso addressed the summit of the **Organization of African Unity** (OAU), the body of Africa's independent states, in Addis Ababa, Ethiopia [^debt].
 
 He began by needling the heads of state who had not come. How many were ready to fly to Paris, London or Washington when called, he asked, but could not come to Addis Ababa [^debt]? Then he turned to the crisis crushing the continent: **debt**, the loans African states owed to Western governments and banks. It was, he said, "an important condition of our survival, as much as peace." [^debt]
 
@@ -105,4 +105,4 @@ He made the stakes personal:
 
 Sankara joined debt to arms: "each time an African country buys a weapon, it is against an African country." [^debt] He proposed that poor countries limit their arms, and that Africa build its own market: "produce in Africa, transform in Africa, consume in Africa." [^debt] His delegation, he pointed out, wore cotton grown and woven in Burkina Faso.
 
-Less than three months later, on 15 October 1987, Sankara was assassinated in a coup led by his comrade Blaise Compaoré [^aj].
+Less than three months later, on October 15, 1987, Sankara was assassinated in a coup led by his comrade Blaise Compaoré [^aj].

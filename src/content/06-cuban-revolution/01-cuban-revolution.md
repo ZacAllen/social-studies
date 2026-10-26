@@ -154,7 +154,7 @@ Through the 1960s and 1970s, Cuba sent openly gay men to labor camps without cha
 
 ---
 
-The revolution survived a US blockade that has lasted almost half a century [^may03]. Castro, speaking in 2003, pointed to its gains in health:
+The revolution survived a US blockade that, by 2003, had lasted almost half a century [^may03]. Castro, speaking in 2003, pointed to its gains in health:
 
 > "Infant mortality has been reduced from 60 per 1000 live births to a rate that fluctuates between 6 and 6.5" [^may03]
 

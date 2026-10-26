@@ -21,7 +21,7 @@ quiz:
       - As a pamphlet smuggled in from exile
       - At a party congress in Ouagadougou
     answer: 1
-    explain: Sankara recorded it on the evening of 2 October 1983. Written by a committee of the revolution's groups, it became the theoretical foundation of the revolution.
+    explain: Sankara recorded it on the evening of October 2, 1983. Written by a committee of the revolution's groups, it became the theoretical foundation of the revolution.
     card: 1
   - q: According to the speech, how did neo-colonial society compare with colonial society?
     options:
@@ -61,7 +61,7 @@ quiz:
     card: 5
 ---
 
-On 4 August 1983 a revolution triumphed in Upper Volta, a former French colony [^dop]. Two months later, on 2 October, Thomas Sankara, leader of the new **National Council of the Revolution** (NRC, often called by its French initials, CNR), read the *Political Orientation Speech* on the radio [^dop].
+On August 4, 1983, a revolution triumphed in Upper Volta, a former French colony [^dop]. Two months later, on October 2, Thomas Sankara, leader of the new **National Council of the Revolution** (NRC, often called by its French initials, CNR), read the *Political Orientation Speech* on the radio [^dop].
 
 It was written by a committee of the groups in the council, with Valère Somé doing most of the writing; Sankara amended the drafts and recorded it that evening [^jaffre]. It became the theoretical foundation of the revolution [^jaffre]. Its opening questions:
 

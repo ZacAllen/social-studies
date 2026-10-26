@@ -64,7 +64,7 @@ quiz:
     card: 6
 ---
 
-On September 5, 1944, Zhang Side, a soldier in the Guards Regiment of the party's Central Committee, was making charcoal in the mountains of northern Shaanxi when the kiln collapsed and killed him. He had joined the revolution in 1933 and marched on the Long March [^stp].
+On September 5, 1944, Zhang Side, a soldier in the Guards Regiment of the party's Central Committee, was making charcoal in the mountains of northern Shaanxi when the kiln collapsed and killed him. He had joined the revolution in 1933 and marched on the Long March (the Red Army's retreat to northern Shaanxi) [^stp].
 
 Three days later, Mao spoke at his memorial meeting. The speech was short. It begins with the party and its armies:
 

@@ -58,9 +58,9 @@ quiz:
     card: 5
 ---
 
-On 8 March 1987, International Women's Day, Thomas Sankara addressed a great gathering of women in Burkina Faso, where a revolution had begun on 4 August 1983 [^women]. He spoke in French, the colonial language, and apologized to the women who did not understand it [^women].
+On March 8, 1987, International Women's Day, Thomas Sankara addressed a great gathering of women in Burkina Faso, where a revolution had begun on August 4, 1983 [^women]. He spoke in French, the colonial language, and apologized to the women who did not understand it [^women].
 
-The revolution of 4 August, he said, had given the men of Burkina honor and dignity. But something crucial was missing [^women]:
+The revolution of August 4, he said, had given the men of Burkina honor and dignity. But something crucial was missing [^women]:
 
 > "The revolution's promise is already a reality for men. But for women, it is still merely a rumor." [^women]
 

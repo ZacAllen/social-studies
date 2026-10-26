@@ -33,7 +33,7 @@ quiz:
   - q: According to Khrushchev in 1956, what happened to the Central Committee elected at the 17th Party Congress in 1934?
     options:
       - It was dissolved peacefully
-      - 98 of its 139 members and candidates, 70 per cent, were arrested and shot
+      - 98 of its 139 members and candidates, 70 percent, were arrested and shot
       - Its members were all promoted
       - It was replaced by elected Soviets
     answer: 1

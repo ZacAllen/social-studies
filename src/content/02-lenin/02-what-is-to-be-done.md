@@ -122,7 +122,7 @@ He compared the paper to the scaffolding around a building under construction: i
 
 ---
 
-**The debate:** The party split in 1903 into Bolsheviks and Mensheviks. Rosa Luxemburg then attacked Lenin's organizational ideas, restated in his *One Step Forward, Two Steps Back* (1904), as "ultra-centralism". The working class, she argued, must learn through its own struggles:
+**The debate:** The party split in 1903 into Bolsheviks and Mensheviks. The Polish Marxist Rosa Luxemburg then attacked Lenin's organizational ideas, restated in his *One Step Forward, Two Steps Back* (1904), as "ultra-centralism". The working class, she argued, must learn through its own struggles:
 
 > "Historically, the errors committed by a truly revolutionary movement are infinitely more fruitful than the infallibility of the cleverest Central Committee." [^lux]
 

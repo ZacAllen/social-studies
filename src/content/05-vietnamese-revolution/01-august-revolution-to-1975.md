@@ -53,7 +53,7 @@ quiz:
       - Hue
       - Hanoi
     answer: 0
-    explain: The People's Army annihilated the entrenched camp at Dien Bien Phu on 7 May 1954, and France signed the Geneva Agreements that July.
+    explain: The People's Army annihilated the entrenched camp at Dien Bien Phu on May 7, 1954, and France signed the Geneva Agreements that July.
     card: 3
   - q: How did the Party respond to the errors of the land reform in the North?
     options:
@@ -64,7 +64,7 @@ quiz:
     answer: 3
     explain: In 1956 the Central Committee reviewed the serious mistakes, and a campaign to correct them lasted into 1958.
     card: 4
-  - q: What happened in Saigon on 30 April 1975?
+  - q: What happened in Saigon on April 30, 1975?
     options:
       - The Paris Agreement was signed
       - Revolutionary forces entered the city and the Saigon government surrendered unconditionally
@@ -87,15 +87,15 @@ This lesson surveys the forty-five years that followed: how that party led a col
 
 During the Second World War, Japan invaded Indochina and the French colonial regime surrendered to it. In 1941 the Party founded the **Viet Minh** (the Front for the Independence of Vietnam), a national front that rallied every patriotic class [^cpv]. It turned from political to armed struggle [^nlw].
 
-When Japan surrendered in August 1945, the Viet Minh called the nation to rise. In Giáp's words, "The August 1945 Revolution was a general insurrection by the entire people." [^nlw] It founded the **Democratic Republic of Viet Nam**. On 2 September, at Ba Dinh Square in Hanoi, Ho Chi Minh read its Declaration of Independence to a crowd the Party put at nearly a million [^cpv].
+When Japan surrendered in August 1945, the Viet Minh called the nation to rise. In the words of the general Võ Nguyên Giáp, "The August 1945 Revolution was a general insurrection by the entire people." [^nlw] It founded the **Democratic Republic of Vietnam**. On September 2, at Ba Dinh Square in Hanoi, Ho Chi Minh read its Declaration of Independence to a crowd the Party put at nearly a million [^cpv].
 
 ---
 
-France came back. On 23 September 1945, French troops, backed by British bayonets, seized Saigon [^oneyear]. Agreements signed in 1946 did not hold, and in December 1946 Ho called the whole country to war [^resist]:
+France came back. On September 23, 1945, French troops, backed by British bayonets, seized Saigon [^oneyear]. Agreements signed in 1946 did not hold, and in December 1946 Ho called the whole country to war [^resist]:
 
 > "We would rather sacrifice everything than lose our country, than return to slavery." [^resist]
 
-The war lasted nearly nine years [^nlw]. On 7 May 1954 the People's Army annihilated the French entrenched camp at **Dien Bien Phu**, putting 16,000 enemy soldiers out of action, and the Geneva Agreements were signed on 20 July [^cpv]. They split the country at a provisional line, and said that Vietnam should then be reunified through general elections [^geneva]. In 1955 Giáp charged that the United States was working to block them [^geneva].
+The war lasted nearly nine years [^nlw]. On May 7, 1954, the People's Army annihilated the French entrenched camp at **Dien Bien Phu**, putting 16,000 enemy soldiers out of action, and the Geneva Agreements were signed on July 20 [^cpv]. They split the country at a provisional line, and said that Vietnam should then be reunified through general elections [^geneva]. In 1955 Giáp charged that the United States was working to block them [^geneva].
 
 ---
 
@@ -107,13 +107,13 @@ The Party faced the damage. In 1956 its Central Committee reviewed the serious m
 
 ---
 
-In the South, the United States built up the regime of Ngo Dinh Diem [^cpv]. Uprisings swept the southern countryside in 1959 and 1960 [^nlw], and on 20 December 1960 the **National Front for the Liberation of South Vietnam** was founded [^cpv].
+In the South, the United States built up the regime of Ngo Dinh Diem [^cpv]. Uprisings swept the southern countryside in 1959 and 1960 [^nlw], and on December 20, 1960, the **National Front for the Liberation of South Vietnam** was founded [^cpv].
 
 Washington escalated: first a 'special war' fought by a Saigon army with American 'advisers', then its own troops sent in en masse and the bombing of the North [^nlw]. At **Tet** (the lunar new year) in 1968, liberation forces rose up in 64 cities and towns [^cpv]. The Party's own history admits that its rural bases suffered losses in 1969 and 1970, partly because it misjudged the enemy's 'pacification' drive [^cpv]. Ho Chi Minh died in Hanoi in September 1969 [^mia].
 
 ---
 
-The United States signed the Paris Agreement on 27 January 1973 and withdrew its troops [^cpv]. On 30 April 1975, liberation forces entered Saigon, and the Saigon government announced unconditional surrender [^cpv]. The city was renamed Ho Chi Minh City [^mia].
+The United States signed the Paris Agreement on January 27, 1973, and withdrew its troops [^cpv]. On April 30, 1975, liberation forces entered Saigon, and the Saigon government announced unconditional surrender [^cpv]. The city was renamed Ho Chi Minh City [^mia].
 
 For colonized peoples everywhere, Vietnam showed that a small, poor nation could beat the strongest powers of the day. Giáp wrote of the first war:
 

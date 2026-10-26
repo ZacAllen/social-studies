@@ -123,11 +123,11 @@ Why did so many socialist leaders support the war? Lenin found the answer in the
 
 > "it is possible to bribe the labour leaders and the upper stratum of the labour aristocracy" [^pref2]
 
-This **labour aristocracy** became, in his words, the "labour lieutenants of the capitalist class" [^pref2], the base of reformism inside the movement. But imperialism could not last. Lenin concluded: "Imperialism is the eve of the social revolution of the proletariat." [^pref2]
+This **labor aristocracy** became, in his words, the "labour lieutenants of the capitalist class" [^pref2], the base of reformism inside the movement. But imperialism could not last. Lenin concluded: "Imperialism is the eve of the social revolution of the proletariat." [^pref2]
 
 ---
 
-**The debate:** Karl Kautsky, the leading theorist of the Second International, saw imperialism as a policy, not a stage of capitalism. In 1914 he suggested that the war might end in a cartel of the great powers:
+**The debate:** Karl Kautsky, the leading theorist of the Second International (the pre-1914 federation of socialist parties), saw imperialism as a policy, not a stage of capitalism. In 1914 he suggested that the war might end in a cartel of the great powers:
 
 > "the result of the World War between the great imperialist powers may be a federation of the strongest, who renounce their arms race." [^kautsky]
 

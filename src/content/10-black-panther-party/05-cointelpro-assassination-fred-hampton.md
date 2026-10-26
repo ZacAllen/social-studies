@@ -86,7 +86,7 @@ Others were to stop such groups from gaining respectability and to prevent their
 
 The Chicago FBI moved quickly. Its key agent inside the Party was **William O'Neal**, a paid informant the FBI had first contacted while he sat in the Cook County Jail. O'Neal joined the Panthers the day their Chicago office opened, in November 1968, and soon became chief of security [^court].
 
-Through O'Neal the FBI worked to divide the Panthers from their allies. When the Panthers discussed merging with the **Blackstone Rangers**, a local street gang, the FBI sent the gang's leader an anonymous letter claiming the Panthers had a "hit out" on him [^court]. O'Neal also pushed racist Panther cartoons, opening a rift with the white student radicals of SDS [^court]. For this work he received several pay raises [^court].
+Through O'Neal the FBI worked to divide the Panthers from their allies. When the Panthers discussed merging with the **Blackstone Rangers**, a local street gang, the FBI sent the gang's leader an anonymous letter claiming the Panthers had a "hit out" on him [^court]. O'Neal also pushed racist Panther cartoons, opening a rift with the white student radicals of Students for a Democratic Society [^court]. For this work he received several pay raises [^court].
 
 ---
 

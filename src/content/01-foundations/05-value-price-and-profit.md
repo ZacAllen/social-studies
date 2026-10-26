@@ -97,9 +97,9 @@ The more labor a commodity needs, the more value it has.
 
 ---
 
-What, then, does the worker sell? "What the working man sells is not directly his labour, but his labouring power, the temporary disposal of which he makes over to the capitalist." [^s2] The value of **labouring power** is what it takes to keep the worker going.
+What, then, does the worker sell? "What the working man sells is not directly his labour, but his labouring power, the temporary disposal of which he makes over to the capitalist." [^s2] The value of **laboring power** is what it takes to keep the worker going.
 
-Say that takes six hours of labor a day. The capitalist pays for a day's labouring power, then has the spinner work twelve hours. The other six hours are **surplus labour**, and their product, **surplus value**, goes to the capitalist [^s2]. The wage form hides this:
+Say that takes six hours of labor a day. The capitalist pays for a day's laboring power, then has the spinner work twelve hours. The other six hours are **surplus labor**, and their product, **surplus value**, goes to the capitalist [^s2]. The wage form hides this:
 
 > "On the basis of the wages system even the unpaid labour seems to be paid labour." [^s2]
 

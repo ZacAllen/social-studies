@@ -45,7 +45,7 @@ quiz:
       - Because subject peoples were a majority of the population and were harshly oppressed
       - Because the Tsar had promised independence to every nation
     answer: 2
-    explain: Non-Russian 'subject peoples' made up 57 per cent of the empire. Their oppression was harsher than in neighboring states, and the age of national revolutions in the East had only begun in 1905.
+    explain: Non-Russian 'subject peoples' made up 57 percent of the empire. Their oppression was harsher than in neighboring states, and the age of national revolutions in the East had only begun in 1905.
     card: 2
   - q: Which part of an oppressed nation's nationalism did Lenin say Marxists unconditionally support?
     options:
@@ -88,7 +88,7 @@ Lenin's method was to put the question in its concrete historical setting. In We
 
 > "In Eastern Europe and Asia the period of bourgeois-democratic revolutions did not begin until 1905." [^ch3]
 
-Revolutions in Russia, Persia, Turkey and China were waking whole peoples. Russia itself had a single national center, the roughly 70 million **Great Russians** (ethnic Russians). The "subject peoples" around them made up 57 per cent of the population, and were oppressed more harshly than in neighboring states [^ch3].
+Revolutions in Russia, Persia, Turkey and China were waking whole peoples. Russia itself had a single national center, the roughly 70 million **Great Russians** (ethnic Russians). The "subject peoples" around them made up 57 percent of the population, and were oppressed more harshly than in neighboring states [^ch3].
 
 ---
 
