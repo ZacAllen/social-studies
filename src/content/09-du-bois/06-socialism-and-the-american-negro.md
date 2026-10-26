@@ -5,7 +5,7 @@ work:
   author: W.E.B. Du Bois
   title: Socialism and the American Negro
   year: 1960
-  url: https://folkways-media.si.edu/docs/folkways/artwork/FW05514.pdf
+  url: https://credo.library.umass.edu/view/full/mums312-b206-i053
 sources:
   - id: fw
     label: W.E.B. Du Bois, Socialism and the American Negro (1960), speech transcript in Folkways Records FH 5514 liner notes

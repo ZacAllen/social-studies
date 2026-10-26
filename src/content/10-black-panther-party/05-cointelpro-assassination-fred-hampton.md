@@ -114,11 +114,11 @@ The FBI rewarded its informant with a $300 bonus [^court]. In February 1970 the 
 
 ---
 
-The survivors and the families of Hampton and Clark sued. The first trial lasted eighteen months, and the judge ended it with verdicts for every defendant [^court]. In 1979 the Seventh Circuit appeals court reversed him. It found substantial evidence of a conspiracy [^ploappeal], and that a purpose of the cover-up was:
+The survivors and the families of Hampton and Clark sued. The first trial lasted eighteen months and ended with verdicts for every defendant [^court]. In 1979 the Seventh Circuit appeals court reversed the judgment. It found substantial evidence of a conspiracy [^ploappeal], and that a purpose of the cover-up was:
 
 > "to prevent the development of widespread sympathy for the BPP cause which might have arisen out of a full disclosure of the facts surrounding the raid and the deaths of Clark and Hampton" [^court]
 
-The Panthers' lawyers, the People's Law Office, record that the city, the county and the FBI then paid a $1.85 million settlement [^ploappeal]. None of the police who carried out the raid ever went to jail [^mia].
+The Panthers' lawyers, the People's Law Office, record that the city, the county and the FBI paid a $1.85 million settlement in the early 1980s [^ploappeal]. None of the police who carried out the raid ever went to jail [^mia].
 
 ---
 

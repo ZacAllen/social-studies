@@ -10,11 +10,13 @@ sources:
     url: https://www.michael-parenti.org/book-blackshirts-and-reds
     manual: true
   - id: ch3
-    label: Parenti, Blackshirts and Reds (1997), Ch. 3, "Left Anticommunism"
-    url: https://redsails.org/anticommunism-and-wonderland/
+    label: Parenti, Blackshirts and Reds (City Lights, 1997), Ch. 3, "Left Anticommunism"
+    url: https://openlibrary.org/works/OL471259W
+    manual: true
   - id: ch4
-    label: Parenti, Blackshirts and Reds (1997), Ch. 4, "Communism in Wonderland"
-    url: https://redsails.org/anticommunism-and-wonderland/
+    label: Parenti, Blackshirts and Reds (City Lights, 1997), Ch. 4, "Communism in Wonderland"
+    url: https://openlibrary.org/works/OL471259W
+    manual: true
   - id: rollback
     label: Parenti, Global Rollback After Communism (2002)
     url: https://www.marxists.org/archive/parenti/2002/global-rollback.htm

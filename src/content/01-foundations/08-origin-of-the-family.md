@@ -119,6 +119,6 @@ The state appears to stand above society, but it is normally "the state of the m
 
 ---
 
-If the state arose with classes, it can end with them. Engels wrote that a society organizing production anew on "free and equal association of the producers" would put the state machinery where it belongs: "into the museum of antiquities, next to the spinning wheel and the bronze ax" [^ch9].
+If the state arose with classes, it can end with them. Engels wrote that a society organizing production anew on "free and equal association of the producers" would put the state machinery "into the museum of antiquities, next to the spinning wheel and the bronze ax" [^ch9].
 
-Engels did not treat Morgan as final. In 1891 he admitted that new research had shaken or disproved "some of Morgan's minor hypotheses" [^pref4], while holding that the great leading ideas stood. In 1972 the Marxist anthropologist Eleanor Leacock, weighing Engels against later research, noted that some of the very peoples Morgan cited do not fit neatly into any one of his stages [^leacock]. The lasting point is the method: family, property and state have a history, and what has a history can change.
+Engels did not treat Morgan as final. In 1891 he admitted that new research had shaken or disproved "some of Morgan's minor hypotheses" [^pref4], while holding that the great leading ideas stood. In 1972 the Marxist anthropologist Eleanor Leacock noted that some peoples Morgan cited fit none of his stages neatly [^leacock]. The lasting point is the method: family, property and state have a history, and what has a history can change.

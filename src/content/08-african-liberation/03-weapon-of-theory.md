@@ -92,7 +92,7 @@ History ran before classes, and it will go on after them: "man will outlive clas
 
 ---
 
-Cabral defined imperialism as the search for profit by monopoly finance capital, "piracy transplanted from the seas to dry land" [^wot]. It rules directly, through foreign officials and settlers (**colonialism**), or indirectly, through native agents (**neo-colonialism**) [^wot].
+Cabral defined imperialism as the search for profit by monopoly finance capital, "piracy transplanted from the seas to dry land" [^wot]. It rules directly, through foreign officials and settlers (**colonialism**), or indirectly, through native agents (**neocolonialism**) [^wot].
 
 Either way, it does the same thing: it seizes the freedom of a people's productive forces to develop, and so stops its history. Liberation means taking that history back:
 
@@ -100,7 +100,7 @@ Either way, it does the same thing: it seizes the freedom of a people's producti
 
 ---
 
-Liberation, Cabral warned, "does not finish at the moment when the national flag is raised and the national anthem played" [^wot]. Under neo-colonialism, a local 'pseudo-bourgeoisie' serves foreign capital and "cannot be a national bourgeoisie" [^wot].
+Liberation, Cabral warned, "does not finish at the moment when the national flag is raised and the national anthem played" [^wot]. Under neocolonialism, a local 'pseudo-bourgeoisie' serves foreign capital and "cannot be a national bourgeoisie" [^wot].
 
 > "there are only two possible paths for an independent nation: to return to imperialist domination (neo-colonialism, capitalism, state capitalism), or to take the way of socialism." [^wot]
 

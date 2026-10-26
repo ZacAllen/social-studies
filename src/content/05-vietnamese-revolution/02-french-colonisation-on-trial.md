@@ -1,5 +1,5 @@
 ---
-title: French Colonisation on Trial
+title: Ho Chi Minh's Case Against Colonialism
 kind: study
 sources:
   - id: bio
@@ -26,10 +26,6 @@ sources:
   - id: consid
     label: Ho Chi Minh, Some Considerations on the Colonial Question (1922)
     url: https://www.marxists.org/reference/archive/ho-chi-minh/works/1922/05/25.htm
-  - id: manifesto
-    label: Ho Chi Minh, Selected Writings 1920–1969 (1977), Manifesto of the Intercolonial Union, excerpted from French Colonization on Trial
-    url: https://indi.ca/content/files/2025/01/Ho-Chi-Minh-Selected-Writings-1920---1969.pdf
-    manual: true
 quiz:
   - q: What did Nguyen Ai Quoc's 1919 list of claims ask of the victorious powers?
     options:
@@ -88,7 +84,7 @@ In 1919, as the victors drew up the peace, he sent them a list of claims, in whi
 
 ---
 
-In 1925 he published a book-length indictment, *Le Procès de la colonisation française* ('French Colonisation on Trial') [^book]. The book is not free to read in full online, so this lesson reads the articles he wrote in Paris in the same years, and one excerpt from the book itself [^manifesto].
+In the mid-1920s he published a book-length indictment, *Le Procès de la colonisation française* ('French Colonisation on Trial') [^book]. The book is not free to read in full online, so this lesson reads the articles he wrote in Paris in the same years [^bio].
 
 The title names the method. Ho put colonialism in the dock and called the evidence: case after case, with the victims' names, the dates and the sums of money. The defendant's own creed, the **civilizing mission** (France's claim that it ruled to bring civilization), was to be judged by its deeds [^women].
 
@@ -126,4 +122,4 @@ The deeper robbery was the land. In his 1924 report to the Communist Internation
 
 > "I am very sorry to say that our Communist Party has done hardly anything for the colonies." [^report]
 
-A European party that ignored the colonies, he argued, went counter to Leninism [^report]. His manifesto for an Intercolonial Union, printed in the book, put the answer to French workers plainly: "In face of capitalism and imperialism our interests are the same." [^manifesto]
+A European party that ignored the colonies, he argued, went counter to Leninism [^report].

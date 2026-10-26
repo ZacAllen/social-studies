@@ -94,7 +94,7 @@ Sankara described a Burkinabè woman's life: from girlhood she serves, as cook, 
 
 He gave figures: women were 99 percent illiterate and 52 percent of the population [^women].
 
-The old neo-colonial regimes had answered with a Ministry of Women, led by a woman. Sankara called this a bourgeois approach. Women's conditions came from the whole social, political and economic structure, and after several years "nothing had changed for them" [^women].
+The old neocolonial regimes had answered with a Ministry of Women, led by a woman. Sankara called this a bourgeois approach. Women's conditions came from the whole social, political and economic structure, and after several years "nothing had changed for them" [^women].
 
 ---
 

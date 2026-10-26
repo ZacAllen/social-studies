@@ -41,16 +41,16 @@ quiz:
       - Fanon's The Wretched of the Earth
       - Rosa Luxemburg's The Accumulation of Capital
     answer: 1
-    explain: Lenin wrote in 1916 that imperialism was the highest stage of capitalism. Nkrumah argued that neo-colonialism was imperialism in its final and most dangerous stage.
+    explain: Lenin wrote in 1916 that imperialism was the highest stage of capitalism. Nkrumah argued that neocolonialism was imperialism in its final and most dangerous stage.
     card: 1
-  - q: What, for Nkrumah, is the essence of neo-colonialism?
+  - q: What, for Nkrumah, is the essence of neocolonialism?
     options:
       - A formally independent state whose economy and policy are run from outside
       - A colony ruled directly by foreign troops and officials
       - A new state that chooses to trade only with its former ruler
       - A state where settlers keep their land after independence
     answer: 0
-    explain: The neo-colonial state has "all the outward trappings of international sovereignty", but its economic system and political policy are run from abroad.
+    explain: The neocolonial state has "all the outward trappings of international sovereignty", but its economic system and political policy are run from abroad.
     card: 2
   - q: Why did Nkrumah call Africa a paradox?
     options:
@@ -61,14 +61,14 @@ quiz:
     answer: 2
     explain: Africa held huge reserves of minerals, water power and farmland, yet produced only about two percent of world output while its resources fed overseas development.
     card: 3
-  - q: How did Nkrumah describe aid given to a neo-colonial state?
+  - q: How did Nkrumah describe aid given to a neocolonial state?
     options:
       - As a gift that slowly builds national industry
       - As charity that the poor nations did not need
       - As a loan that would be forgiven after independence
       - As a revolving credit that returns to the giver as profits
     answer: 3
-    explain: The money passes through the neo-colonial state and returns to the master in profits, so the gap between rich and poor nations keeps widening.
+    explain: The money passes through the neocolonial state and returns to the master in profits, so the gap between rich and poor nations keeps widening.
     card: 4
   - q: What did Nkrumah propose as the only effective way to challenge the foreign monopolies in Africa?
     options:
@@ -91,7 +91,7 @@ Old-style colonies were on the retreat, he wrote, but imperialism had found a ne
 
 ---
 
-What is **neo-colonialism**? Nkrumah's definition:
+What is **neocolonialism**? Nkrumah's definition:
 
 > "The essence of neo-colonialism is that the State which is subject to it is, in theory, independent and has all the outward trappings of international sovereignty. In reality its economic system and thus its political policy is directed from outside." [^intro]
 
@@ -125,13 +125,13 @@ The conflict between rich and poor that Marx expected inside each country had mo
 
 ---
 
-Neo-colonialism, Nkrumah argued, thrives on breaking large colonial territories into "small non-viable States" [^intro] that must sell raw materials cheap and buy manufactured goods dear.
+Neocolonialism, Nkrumah argued, thrives on breaking large colonial territories into "small non-viable States" [^intro] that must sell raw materials cheap and buy manufactured goods dear.
 
 The foreign firms, by contrast, already acted as one continental monopoly through interlocking boards and shareholdings [^concl]. So Africa had to unite:
 
 > "The only effective way to challenge this economic empire and to recover possession of our heritage, is for us also to act on a Pan-African basis, through a Union Government." [^concl]
 
-That power, he ended, lay with the peoples who suffer neo-colonialism, "if they act at once, with resolution and in unity" [^concl].
+That power, he ended, lay with the peoples who suffer neocolonialism, "if they act at once, with resolution and in unity" [^concl].
 
 ---
 

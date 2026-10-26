@@ -5,7 +5,7 @@ work:
   author: W.E.B. Du Bois
   title: Socialism and the Negro Problem
   year: 1913
-  url: https://www.marxists.org/history/usa/pubs/newreview/1913/v1n05-feb-01-1913.pdf
+  url: https://libcom.org/article/socialism-and-negro-problem-web-du-bois
 sources:
   - id: snp
     label: W.E.B. Du Bois, Socialism and the Negro Problem (1913), The New Review, vol. 1, no. 5

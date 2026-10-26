@@ -32,7 +32,7 @@ sources:
     label: Lenin Internet Archive, Lenin Timeline
     url: https://www.marxists.org/archive/lenin/bio/timeline.htm
   - id: gorter
-    label: Herman Gorter, Open Letter to Comrade Lenin (1921)
+    label: Herman Gorter, Open Letter to Comrade Lenin (1920)
     url: https://www.marxists.org/archive/gorter/1920/open-letter.htm
   - id: gorterbio
     label: Encyclopedia of Marxism, Glossary of People, "Gorter, Herman"

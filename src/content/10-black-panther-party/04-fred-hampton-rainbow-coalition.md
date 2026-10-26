@@ -3,7 +3,7 @@ title: Fred Hampton and the Rainbow Coalition
 kind: study
 sources:
   - id: newberry
-    label: Chase Viscuse, "Forming Chicago's First Rainbow Coalition", Newberry Library (2026)
+    label: Chase Viscuse, "Forming Chicago's First Rainbow Coalition", Newberry Library (n.d.)
     url: https://www.newberry.org/blog/forming-chicagos-first-rainbow-coalition
   - id: mia
     label: Brian Basgen, History of the Black Panther Party, Marxists Internet Archive (2002)

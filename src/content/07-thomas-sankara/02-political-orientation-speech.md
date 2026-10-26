@@ -1,11 +1,6 @@
 ---
-title: Political Orientation Speech
-kind: reading
-work:
-  author: Sankara
-  title: Political Orientation Speech
-  year: 1983
-  url: https://www.thomassankara.net/the-political-orientation-speech-thomas-sankara/?lang=en
+title: The Program of the Democratic and Popular Revolution
+kind: study
 sources:
   - id: dop
     label: Sankara, Political Orientation Speech (1983), thomassankara.net English text
@@ -23,14 +18,14 @@ quiz:
     answer: 1
     explain: Sankara recorded it on the evening of October 2, 1983. Written by a committee of the revolution's groups, it became the theoretical foundation of the revolution.
     card: 1
-  - q: According to the speech, how did neo-colonial society compare with colonial society?
+  - q: According to the speech, how did neocolonial society compare with colonial society?
     options:
-      - Neo-colonial society had freed the peasants
-      - Neo-colonial society was a step toward socialism
+      - Neocolonial society had freed the peasants
+      - Neocolonial society was a step toward socialism
       - They were "fundamentally no different"
       - Colonial society had been far worse in every way
     answer: 2
-    explain: Independence in 1960 replaced the colonial administration, army and school with neo-colonial copies serving the same imperialist interests through local intermediaries.
+    explain: Independence in 1960 replaced the colonial administration, army and school with neocolonial copies serving the same imperialist interests through local intermediaries.
     card: 2
   - q: Which class does the speech call the main force of the revolution by sheer numbers?
     options:
@@ -73,7 +68,7 @@ The speech starts with the legacy. In 1960 France, beaten at Dien Bien Phu in Vi
 
 > "Neo-colonial and colonial society are fundamentally no different." [^dop]
 
-A colonial army, administration and school became neo-colonial ones with the same role, now run by local allies of imperialism. The results: the rural sector employed more than 90 percent of the work force, and there was one doctor for 48,000 inhabitants [^dop]. In a phrase, "paradise for some and hell for others." [^dop]
+A colonial army, administration and school became neocolonial ones with the same role, now run by local allies of imperialism. The results: the rural sector employed more than 90 percent of the work force, and there was one doctor for 48,000 inhabitants [^dop]. In a phrase, "paradise for some and hell for others." [^dop]
 
 ---
 
