@@ -57,7 +57,7 @@ quiz:
       - In Manchester, at Chorlton Town Hall
       - In London, at the offices of the Labour Party
     answer: 2
-    explain: The congress met in Chorlton Town Hall, Manchester, from 15 to 21 October 1945. Du Bois chaired it and Padmore organized it.
+    explain: The congress met in Chorlton Town Hall, Manchester, from October 15 to 21, 1945. Du Bois chaired it and Padmore organized it.
     card: 1
   - q: Which weapons did the congress's Declaration call invincible?
     options:
@@ -97,7 +97,7 @@ quiz:
     card: 6
 ---
 
-From 15 to 21 October 1945, the **Fifth Pan-African Congress** met in Chorlton Town Hall, Manchester, England [^pac]. **Pan-Africanism** is the movement to unite Africans and people of African descent against colonial rule and racism.
+From October 15 to 21, 1945, the **Fifth Pan-African Congress** met in Chorlton Town Hall, Manchester, England [^pac]. **Pan-Africanism** is the movement to unite Africans and people of African descent against colonial rule and racism.
 
 The African American scholar W.E.B. Du Bois chaired the congress. But the Trinidad-born organizer George Padmore was, as Du Bois remembered, "the organising spirit of that congress" [^pac]. Among the delegates were Kwame Nkrumah of the Gold Coast, a British colony in West Africa, and Jomo Kenyatta of Kenya, both future heads of state [^pac].
 
@@ -129,9 +129,9 @@ France ruled **Algeria**, in North Africa, as part of France itself, a 'French l
 
 > "It is true that the struggle will be long, but the result is certain." [^procl]
 
-Under Ben Bella and others, the FLN fought a long war of independence [^gben]. Frantz Fanon, a psychiatrist from Martinique working in Algeria, joined the movement in 1954 and became an editor of its paper, *El Moudjahid* [^gfanon].
+Led by Ahmed Ben Bella, one of its founders, and others, the FLN fought a long war of independence [^gben]. Frantz Fanon, a psychiatrist from Martinique working in Algeria, joined the movement in 1954 and became an editor of its paper, *El Moudjahid* [^gfanon].
 
-Algeria won independence in 1962, with Ahmed Ben Bella, a founder of the FLN, as its first prime minister [^gben].
+Algeria won independence in 1962, with Ben Bella as its first prime minister [^gben].
 
 ---
 
