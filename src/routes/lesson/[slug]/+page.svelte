@@ -3,7 +3,8 @@
 	import { fly } from 'svelte/transition';
 	import { goto } from '$app/navigation';
 	import { resolve } from '$app/paths';
-	import { renderCard } from '$lib/content';
+	import { KIND_LABELS } from '$lib/curriculum.js';
+	import { renderCard, subjectHref } from '$lib/content';
 
 	let { data } = $props();
 	const lesson = $derived(data.lesson);
@@ -14,6 +15,7 @@
 	const card = $derived(cards[index]);
 	const isLast = $derived(index === cards.length - 1);
 	const quizHref = $derived(resolve('/lesson/[slug]/quiz', { slug: lesson.slug }) + '/');
+	const backHref = $derived(subjectHref(lesson.subjectSlug));
 
 	// Quiz review links open a specific card with ?card=N. Read it after mount
 	// because pages are prerendered without a query string.
@@ -61,8 +63,13 @@
 <div class="screen">
 	<header class="band">
 		<div class="inner">
-			<h1>{lesson.subject}</h1>
-			<a class="close" href={resolve('/')} aria-label="Back to all lessons">✕</a>
+			<div>
+				<h1>{lesson.subjectName}</h1>
+				{#if lesson.kind === 'reading' && lesson.work}
+					<p class="work">{KIND_LABELS[lesson.kind]} · {lesson.work.author}, {lesson.work.year}</p>
+				{/if}
+			</div>
+			<a class="close" href={backHref} aria-label="Back to {lesson.subjectName}">✕</a>
 		</div>
 	</header>
 
@@ -137,6 +144,17 @@
 		margin: 0;
 		font-size: clamp(1.35rem, 6.5vw, 1.8rem);
 		font-weight: 600;
+	}
+
+	.work {
+		margin: 3px 0 0;
+		font-family: var(--font-body);
+		font-weight: 400;
+		font-style: italic;
+		font-size: 0.9rem;
+		text-transform: none;
+		letter-spacing: 0;
+		opacity: 0.9;
 	}
 
 	.close {

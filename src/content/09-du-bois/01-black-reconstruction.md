@@ -1,7 +1,6 @@
 ---
 title: Du Bois and Black Reconstruction
-subject: Black Revolutionary Thought
-order: 1
+kind: study
 sources:
   - id: br1
     label: W.E.B. Du Bois, Black Reconstruction in America (1935), Ch. I, "The Black Worker"

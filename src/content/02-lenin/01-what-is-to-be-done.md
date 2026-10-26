@@ -1,7 +1,11 @@
 ---
 title: What Is to Be Done?
-subject: Marxism-Leninism
-order: 1
+kind: reading
+work:
+  author: Lenin
+  title: What Is to Be Done?
+  year: 1902
+  url: https://www.marxists.org/archive/lenin/works/1901/witbd/index.htm
 sources:
   - id: ch1
     label: Lenin, What Is to Be Done? (1902), Ch. I, "Dogmatism and 'Freedom of Criticism'"

@@ -1,10 +1,12 @@
+import { resolve } from '$app/paths';
 import { marked } from 'marked';
-import { parseLesson, CITATION } from './lesson.js';
-import type { Card, Lesson, Source } from './lesson.js';
+import { buildCurriculum, CITATION } from './curriculum.js';
+import type { Card, Lesson, Source, Subject } from './curriculum.js';
 
-export type { Lesson, Question, Source } from './lesson.js';
+export type { Lesson, Question, Source, Subject } from './curriculum.js';
 
-const files = import.meta.glob<string>('/src/content/*/*.md', {
+// Glob patterns must be literals, so the subject file name is repeated here (see SUBJECT_FILE).
+const files = import.meta.glob<string>(['/src/content/*/*.md', '/src/content/*/subject.yml'], {
 	query: '?raw',
 	import: 'default',
 	eager: true
@@ -15,31 +17,36 @@ function smartQuotes(text: string) {
 	return text.replace(/"([^"]+)"/g, '“$1”').replace(/(\w)'/g, '$1’').replace(/'(\w)/g, '‘$1');
 }
 
-export const lessons: Lesson[] = Object.entries(files)
-	.map(([path, raw]) => parseLesson(path, raw))
-	.map((lesson) => ({
-		...lesson,
-		quiz: lesson.quiz.map((q) => ({
-			...q,
-			q: smartQuotes(q.q),
-			options: q.options.map(smartQuotes),
-			explain: smartQuotes(q.explain)
-		}))
-	}))
-	.sort((a, b) => a.subjectOrder - b.subjectOrder || a.order - b.order);
+const curriculum = buildCurriculum(Object.entries(files).map(([path, raw]) => ({ path, raw })));
+// `npm run validate` runs first; this is the backstop so a broken curriculum can't build.
+if (curriculum.errors.length) throw new Error(`Content errors:\n  ${curriculum.errors.join('\n  ')}`);
 
-export const subjects = lessons.reduce<{ name: string; slug: string; lessons: Lesson[] }[]>(
-	(acc, lesson) => {
-		const last = acc.at(-1);
-		if (last?.slug === lesson.subjectSlug) last.lessons.push(lesson);
-		else acc.push({ name: lesson.subject, slug: lesson.subjectSlug, lessons: [lesson] });
-		return acc;
-	},
-	[]
-);
+export const lessons: Lesson[] = curriculum.lessons.map((lesson) => ({
+	...lesson,
+	quiz: lesson.quiz.map((q) => ({
+		...q,
+		q: smartQuotes(q.q),
+		options: q.options.map(smartQuotes),
+		explain: smartQuotes(q.explain)
+	}))
+}));
+
+export const subjects: Subject[] = curriculum.subjects.map((subject) => ({
+	...subject,
+	lessons: lessons.filter((l) => l.subjectSlug === subject.slug)
+}));
 
 export function getLesson(slug: string) {
 	return lessons.find((l) => l.slug === slug);
+}
+
+export function getSubject(slug: string) {
+	return subjects.find((s) => s.slug === slug);
+}
+
+/** The subject page's URL, with the trailing slash the static build serves. */
+export function subjectHref(slug: string) {
+	return resolve('/subject/[slug]', { slug }) + '/';
 }
 
 export interface RenderedCard {

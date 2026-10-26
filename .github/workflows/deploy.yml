@@ -24,6 +24,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: npm test
       # Validates content first (see the "build" script), then builds the static site.
       - run: npm run build
         env:
