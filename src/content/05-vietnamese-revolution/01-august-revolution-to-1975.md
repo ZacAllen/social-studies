@@ -24,6 +24,14 @@ sources:
   - id: moise
     label: Edwin E. Moïse, Land Reform in China and North Vietnam (1983), author's summary and corrections
     url: https://edmoise.sites.clemson.edu/landbook.html
+  - id: hirschman
+    label: Charles Hirschman, Samuel Preston and Vu Manh Loi, Vietnamese Casualties During the American War, A New Estimate (Population and Development Review 21:4, 1995), pp. 783–812
+    url: https://www.jstor.org/stable/2137774
+    manual: true
+  - id: bmj
+    label: Ziad Obermeyer, Christopher Murray and Emmanuela Gakidou, Fifty Years of Violent War Deaths from Vietnam to Bosnia (BMJ 336, 2008), abstract
+    url: https://doi.org/10.1136/bmj.a137
+    manual: true
   - id: mia
     label: Marxists Internet Archive, Vietnam Revolution Subject Section, Ho Chi Minh
     url: https://www.marxists.org/subject/vietnam/index.htm
@@ -113,10 +121,10 @@ Washington escalated: first a 'special war' fought by a Saigon army with America
 
 ---
 
-The United States signed the Paris Agreement on January 27, 1973, and withdrew its troops [^cpv]. On April 30, 1975, liberation forces entered Saigon, and the Saigon government announced unconditional surrender [^cpv]. The city was renamed Ho Chi Minh City [^mia].
+The United States signed the Paris Agreement on January 27, 1973, and withdrew its troops [^cpv]. On April 30, 1975, liberation forces entered Saigon, and the Saigon government announced unconditional surrender [^cpv]. The city was renamed Ho Chi Minh City [^mia]. Scholars' estimates of the Vietnamese dead run from about one million (1965–1975) [^hirschman] to 3.8 million violent war deaths (1955–2002) [^bmj].
 
-For colonized peoples everywhere, Vietnam showed that a small, poor nation could beat the strongest powers of the day. Giáp wrote of the first war:
+For colonized peoples, Vietnam showed that a small, poor nation could beat the strongest powers of the day. Giáp wrote of the first war:
 
 > "Our victory over the French colonialists was the first great victory of the wars for national liberation waged by colonial countries." [^nlw]
 
-The lessons that follow read Ho's case against French rule, his Declaration of Independence, his road to Lenin, and Giáp's theory of people's war.
+The lessons that follow read the key works of Ho and Giáp.

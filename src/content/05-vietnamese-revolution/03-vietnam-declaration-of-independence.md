@@ -20,6 +20,10 @@ sources:
   - id: rights
     label: Declaration of the Rights of Man (1789), Avalon Project, Yale Law School
     url: https://avalon.law.yale.edu/18th_century/rightsof.asp
+  - id: huff
+    label: Gregg Huff, Causes and Consequences of the Great Vietnam Famine, 1944–5 (The Economic History Review, published online 2018), abstract
+    url: https://doi.org/10.1111/ehr.12741
+    manual: true
   - id: oneyear
     label: Võ Nguyên Giáp, One Year of Revolutionary Achievement (1946), Ch. I
     url: https://www.marxists.org/archive/giap/works/1946/one-year-of-revolutionary-achievement/ch01.htm
@@ -97,7 +101,7 @@ They had forced opium and alcohol on the people. In economics, they had seized t
 
 ---
 
-In the autumn of 1940, Ho went on, the French had handed the country to Japan, and the people bore "the double yoke of the French and the Japanese" [^decl]. In the famine that followed, from the end of 1944 into 1945, "more than two million of our fellow-citizens died from starvation" [^decl].
+In the autumn of 1940, Ho went on, the French had handed the country to Japan, and the people bore "the double yoke of the French and the Japanese" [^decl]. In the famine that followed, from the end of 1944 into 1945, "more than two million of our fellow-citizens died from starvation" [^decl]. Later scholarship gives a lower toll: the economic historian Gregg Huff puts it at about a million deaths [^huff].
 
 On March 9, 1945, the Japanese disarmed the French, who fled or surrendered [^decl]. So France had no claim to return:
 

@@ -38,6 +38,13 @@ sources:
   - id: luxrr
     label: Rosa Luxemburg, The Russian Revolution (1918), Ch. 6, "The Problem of Dictatorship"
     url: https://www.marxists.org/archive/luxemburg/1918/russian-revolution/ch06.htm
+  - id: mawdsley
+    label: Evan Mawdsley, The Russian Civil War (2007), table of estimates of executions under the Red Terror
+    url: https://archive.org/details/russiancivilwar00evan
+    manual: true
+  - id: short
+    label: History of the C.P.S.U.(B.), Short Course (1939), Ch. IX, Part 1
+    url: https://www.marxists.org/reference/archive/stalin/works/1939/x01/ch09.htm
   - id: publicist
     label: Lenin, Notes of a Publicist (1922)
     url: https://www.marxists.org/archive/lenin/works/1922/feb/x01.htm
@@ -129,13 +136,13 @@ The Soviet state answered its enemies with terror, carried out by its political 
 
 > "We were forced to use terror in response to the terror employed by the Entente" [^cec]
 
-The Entente were Britain, France and their allies, the "mighty powers of the world" that sent armies against the Soviets [^cec]. In February 1920, after the main victories of the Civil War, Lenin backed the proposal to abolish "the passing of all death sentences by the Cheka" [^cec].
+The Entente were Britain, France and their allies, who sent armies against the Soviets [^cec]. Estimates of the Cheka's executions run from its own count of 12,733 to 140,000 (the historian George Leggett) and 200,000 (Robert Conquest) [^mawdsley]. In February 1920 Lenin backed a proposal to abolish "the passing of all death sentences by the Cheka" [^cec].
 
 ---
 
-The cost was terrible. Drought, years of war, the blockade and the forced requisition of grain from the peasants caused the famine of 1921–1922. Estimates of the dead run from 1 million to 10 million, and 5 million is the figure most often quoted [^famine].
+Drought, years of war, the blockade and the forced requisition of grain caused the famine of 1921–1922. Estimates of the dead run from 1 million to 10 million, most often given as 5 million [^famine].
 
-In early 1921 sailors at the Kronstadt naval fortress rose against the government [^tl]. Lenin admitted that "they wanted to correct the Bolsheviks in regard to restrictions in trade" [^tenth]. That March the party adopted the **New Economic Policy** (NEP) [^tl], which Lenin called "a strategical retreat" [^nep]. He named the error plainly:
+In early 1921 sailors at the Kronstadt fortress rose against the government [^tl]. Lenin admitted that "they wanted to correct the Bolsheviks in regard to restrictions in trade" [^tenth]. Red Army troops, with party congress delegates, stormed it across thin ice, where many drowned [^short]. That March the party adopted the **New Economic Policy** (NEP) [^tl], which Lenin called "a strategical retreat" [^nep]. He named the error:
 
 > "we made the mistake of deciding to go over directly to communist production and distribution" [^nep]
 

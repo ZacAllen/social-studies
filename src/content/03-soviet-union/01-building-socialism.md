@@ -26,6 +26,14 @@ sources:
   - id: free
     label: Lennart Samuelson, The Tragedies in the Soviet Countryside of the Early 1930s (FREE Network policy brief, 2019)
     url: https://freepolicybriefs.org/2019/04/01/the-tragedies-in-the-soviet-countryside-of-the-early-1930s-research-frontiers-and-rival-interpretations-of-the-famines/
+  - id: cameron
+    label: Sarah Cameron, The Hungry Steppe, Famine, Violence, and the Making of Soviet Kazakhstan (Cornell University Press, 2018), publisher's description
+    url: https://muse.jhu.edu/book/63842
+    manual: true
+  - id: kindler
+    label: Robert Kindler, Stalin's Nomads, Power and Famine in Kazakhstan (University of Pittsburgh Press, 2018), publisher's description
+    url: https://upittpress.org/?p=83268
+    manual: true
   - id: ucla
     label: Carla Thorson, The Soviet Famine of 1931-33, report of a talk by Stephen Wheatcroft (UCLA International Institute, 2003)
     url: https://www.international.ucla.edu/asia/article/3838
@@ -113,7 +121,7 @@ Then came catastrophe. Poor harvests in 1931 and 1932 met grain collection from 
 
 Estimates of the dead differ. The historian Stephen Wheatcroft put famine deaths at around 4.5 million; Robert Conquest estimated 7 million [^ucla]. A 2019 survey gives overall Soviet population losses by 1933 of 6–7 million, including about 3.5 million famine deaths in Ukraine [^free].
 
-A separate famine in Kazakhstan, caused by forcing nomads to settle, killed a proportionally higher share of its people [^free].
+A separate famine in Kazakhstan (1930–33), caused by forcing nomads to settle, killed more than 1.5 million people, a quarter of the republic's population, by the historian Sarah Cameron's count [^cameron]. Robert Kindler puts the dead at nearly a third of all Kazakhs [^kindler].
 
 ---
 
