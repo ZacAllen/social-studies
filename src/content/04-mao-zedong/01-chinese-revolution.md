@@ -98,7 +98,7 @@ In 1942 the party launched a **rectification movement**, a campaign of Marxist e
 
 ---
 
-After Japan's defeat, Chiang Kai-shek, backed by the United States, launched an all-out civil war. In the three-year War of Liberation (1946–49), the **People's Liberation Army** destroyed a total of 8,000,000 of Chiang's troops [^res]. The People's Republic of China was founded in October 1949 [^res].
+After Japan's defeat, Chiang Kai-shek, backed by the United States, launched an all-out civil war. In the three-year War of Liberation (1946–49), the **People's Liberation Army** (the Communist army led by Mao) destroyed a total of 8,000,000 of Chiang's troops [^res]. The People's Republic of China was founded in October 1949 [^res].
 
 In September 1949, Mao told the delegates gathered to found the new state:
 
