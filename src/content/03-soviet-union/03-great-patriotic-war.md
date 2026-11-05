@@ -80,7 +80,7 @@ Two years earlier, in 1939, the USSR had signed a non-aggression pact with Germa
 
 ---
 
-That broadcast, on July 3, 1941, opened with "brothers and sisters" [^jul41]. Stalin called the whole people to a "patriotic war of liberation against the fascist enslavers" [^jul41].
+Another broadcast, on July 3, 1941, opened with "brothers and sisters" [^jul41]. Stalin called the whole people to a "patriotic war of liberation against the fascist enslavers" [^jul41].
 
 He ordered that in any retreat, rolling stock and supplies be evacuated or destroyed:
 
