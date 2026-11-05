@@ -1,5 +1,5 @@
 ---
-title: 'Building Socialism: Industrialization and Collectivization'
+title: "Building Socialism: Industrialization and Collectivization"
 kind: study
 sources:
   - id: tbe
@@ -85,7 +85,7 @@ quiz:
     card: 6
 ---
 
-After the October Revolution, the Bolsheviks ruled a vast agrarian country, surrounded by capitalist states that were far ahead of it in industry and arms [^fyp]. By the end of the 1920s, the party led by Joseph Stalin set out to change that at breakneck speed.
+After the October Revolution, the Bolsheviks ruled a vast agrarian country, surrounded by capitalist states that were far ahead of it in industry and arms [^fyp]. By the end of the 1920s, the party led by Joseph Stalin (Lenin had died in 1924) set out to change that at breakneck speed.
 
 In 1931 Stalin told the managers of Soviet industry why the pace could not slacken. Old Russia, he said, had been beaten again and again because of her backwardness [^tbe]:
 
@@ -109,7 +109,7 @@ In practice it meant mass deportation. Several hundred thousand peasant families
 
 ---
 
-The pace outran the party's own rules. By February 20, 1930, Stalin reported, 50 percent of peasant farms had been collectivized [^dizzy]. In *Dizzy with Success* (March 1930) he condemned officials who threatened peasants with armed force or cut off their water and goods:
+The pace outran the party's own rules. By February 20, 1930, Stalin reported, 50 percent of peasant farms had been collectivized [^dizzy]. In _Dizzy with Success_ (March 1930) he condemned officials who threatened peasants with armed force or cut off their water and goods:
 
 > "Collective farms must not be established by force." [^dizzy]
 
@@ -135,4 +135,4 @@ Yet the famine itself became a taboo topic in the Soviet era [^free]. Judged by 
 
 The results shaped everything that followed. Stalin argued that without the new heavy industry the country "would remain unarmed while encircled by capitalist countries armed with modern technique" [^fyp]. That industry would soon face its hardest test in war.
 
-The lessons that follow go deeper: Stalin's *Foundations of Leninism*, the theory behind building socialism in one country; the Great Patriotic War against Nazi Germany; and the repression and purges of the late 1930s, examined critically.
+The lessons that follow go deeper: Stalin's _Foundations of Leninism_, the theory behind building socialism in one country; the Great Patriotic War against Nazi Germany; and the repression and purges of the late 1930s, examined critically.
