@@ -82,7 +82,7 @@ The party's later verdict was blunt: the revolution "suffered a disastrous defea
 
 The survivors took up arms. Mao led the **Autumn Harvest Uprising** of 1927 and set up the first rural base area, in the Jinggang Mountains. The Red Army built a central base in Jiangxi province [^res].
 
-Then a second disaster. Under the 'Left' leadership of Wang Ming, the Red Army lost its Jiangxi base in 1934 and set out on the 25,000-li **Long March** to northern Shaanxi (a *li* is a traditional Chinese unit of distance). The Red Army shrank from 300,000 to about 30,000. At Zunyi in January 1935, the leadership turned to Mao [^res].
+Then a second disaster. Under the 'Left' leadership of Wang Ming, the Red Army lost its Jiangxi base in 1934 and set out on the 25,000-li **Long March** to northern Shaanxi (a _li_ is a traditional Chinese unit of distance). The Red Army shrank from 300,000 to about 30,000. At Zunyi in January 1935, the leadership turned to Mao [^res].
 
 Mao called the march a victory. It was, he said:
 
@@ -90,7 +90,7 @@ Mao called the march a victory. It was, he said:
 
 ---
 
-Japan was pressing deeper into China. The **Xi'an Incident** of December 1936, organized by the generals Zhang Xueliang and Yang Hucheng, led to renewed cooperation between the two parties against Japan [^res].
+Japan, who had invaded in 1931, was now pressing deeper into China. The **Xi'an Incident** of December 1936, organized by the generals Zhang Xueliang and Yang Hucheng, led to renewed cooperation between the two parties against Japan [^res].
 
 In the war of 1937–45, the Red Army was reorganized as the **Eighth Route Army** and the **New Fourth Army**. They fought a guerrilla war behind Japanese lines and set up many anti-Japanese base areas. The Kuomintang, by contrast, "suffered defeat after defeat" [^res].
 
